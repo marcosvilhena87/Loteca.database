@@ -1,0 +1,29 @@
+name: Validar base Loteca
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Validar 600 concursos
+        run: python -m loteca.database --validar-apenas
+      - name: Executar testes
+        run: python -m unittest discover -s tests -v
+      - name: Gerar banco SQLite
+        run: python -m loteca.database --output data/loteca.sqlite
+      - name: Inspecionar contagens
+        run: |
+          python - <<'PY'
+          import sqlite3
+          with sqlite3.connect("data/loteca.sqlite") as db:
+              assert db.execute("select count(*) from partidas").fetchone()[0] == 8400
+              assert db.execute("select count(*) from resultados_sorteados").fetchone()[0] == 47
+              assert db.execute("select count(*) from resultados_esportivos").fetchone()[0] == 8353
+              assert db.execute("pragma integrity_check").fetchone()[0] == "ok"
+          PY
