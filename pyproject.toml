@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "loteca-database"
+version = "0.1.0"
+description = "Base histórica e validador dos concursos da Loteca"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.setuptools]
+packages = ["loteca"]
