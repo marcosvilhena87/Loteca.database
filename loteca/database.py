@@ -61,12 +61,12 @@ def validar_linha(row: dict, arquivo: str, linha: int) -> dict:
     if not sorteio and jogo_em is None:
         raise ErroValidacao(f"{arquivo}:{linha}: jogo não sorteado sem data")
     return {
+        **row,
         "concurso": concurso, "jogo": jogo,
         "apurado_em": apurado_em, "jogado_em": jogo_em,
         "gols_1": g1, "gols_2": g2, "resultado": resultado,
         "sorteio": int(sorteio),
         "arquivo_origem": arquivo, "linha_origem": linha,
-        **row,
     }
 
 
