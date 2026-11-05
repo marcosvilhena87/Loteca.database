@@ -1,0 +1,1401 @@
+concurso;data_apuracao;jogo;gols_1;equipe_1;equipe_2;gols_2;data_jogo;resultado_placar;fonte;sorteio
+101;quarta-feira, 25/02/2004;1;4;JUVENTUDE/RS;INTERNACIONAL/RS;1;sabado, 21/02/2004;1;caixa;No
+101;quarta-feira, 25/02/2004;2;1;SAO  CAETANO/SP;PALMEIRAS/SP;0;sabado, 21/02/2004;1;caixa;No
+101;quarta-feira, 25/02/2004;3;1;MAMORE/MG;CRUZEIRO/MG;7;sabado, 21/02/2004;2;caixa;No
+101;quarta-feira, 25/02/2004;4;2;GOIAS/GO;REAL CLUBE/GO;1;domingo, 22/02/2004;1;caixa;No
+101;quarta-feira, 25/02/2004;5;3;SANTOS/SP;MARILIA/SP;1;sabado, 21/02/2004;1;caixa;No
+101;quarta-feira, 25/02/2004;6;3;SAO PAULO/SP;SOROCABA/SP;0;sabado, 21/02/2004;1;caixa;No
+101;quarta-feira, 25/02/2004;7;0;AMERICA/SP;PONTE PRETA/SP;1;sabado, 21/02/2004;2;caixa;No
+101;quarta-feira, 25/02/2004;8;1;UNIAO BARBARENSE/SP;P. DESPORTOS/SP;1;sabado, 21/02/2004;X;caixa;No
+101;quarta-feira, 25/02/2004;9;1;CRICIUMA/SC;CHAPECOENSE/SC;0;sabado, 21/02/2004;1;caixa;No
+101;quarta-feira, 25/02/2004;10;4;ATHLETICO/PR;RIO BRANCO/PR;0;domingo, 22/02/2004;1;caixa;No
+101;quarta-feira, 25/02/2004;11;1;GREMIO INHUMENSE/GO;VILA NOVA/GO;2;domingo, 22/02/2004;2;caixa;No
+101;quarta-feira, 25/02/2004;12;2;AMERICA/MG;UBERABA/MG;1;sabado, 21/02/2004;1;caixa;No
+101;quarta-feira, 25/02/2004;13;2;ATLETICO/MG;CALDENSE/MG;1;sabado, 21/02/2004;1;caixa;No
+101;quarta-feira, 25/02/2004;14;7;GREMIO/RS;CAXIAS/RS;0;sabado, 21/02/2004;1;caixa;No
+102;segunda-feira, 01/03/2004;1;0;BOTAFOGO/RJ;FLUMINENSE/RJ;0;domingo, 29/02/2004;X;caixa;No
+102;segunda-feira, 01/03/2004;2;5;ATLETICO/MG;CRUZEIRO/MG;3;domingo, 29/02/2004;1;caixa;No
+102;segunda-feira, 01/03/2004;3;2;PONTE PRETA/SP;CORINTHIANS/SP;1;domingo, 29/02/2004;1;caixa;No
+102;segunda-feira, 01/03/2004;4;1;AMERICANO/RJ;FLAMENGO/RJ;1;domingo, 29/02/2004;X;caixa;No
+102;segunda-feira, 01/03/2004;5;1;SANTA CRUZ/RS;INTERNACIONAL/RS;2;domingo, 29/02/2004;2;caixa;No
+102;segunda-feira, 01/03/2004;6;2;PALMEIRAS/SP;OESTE/SP;1;domingo, 29/02/2004;1;caixa;No
+102;segunda-feira, 01/03/2004;7;1;RIO BRANCO/SP;SAO PAULO/SP;2;domingo, 29/02/2004;2;caixa;No
+102;segunda-feira, 01/03/2004;8;0;TUNA LUSO/PA;PAYSANDU/PA;2;domingo, 29/02/2004;2;caixa;No
+102;segunda-feira, 01/03/2004;9;1;CATUENSE/BA;VITORIA/BA;3;sabado, 28/02/2004;2;caixa;No
+102;segunda-feira, 01/03/2004;10;3;CHAPECOENSE/SC;AVAI/SC;1;domingo, 29/02/2004;1;caixa;No
+102;segunda-feira, 01/03/2004;11;1;JUVENTUDE/RS;GLORIA/RS;1;domingo, 29/02/2004;X;caixa;No
+102;segunda-feira, 01/03/2004;12;1;ANAPOLIS/GO;GOIAS/GO;5;domingo, 29/02/2004;2;caixa;No
+102;segunda-feira, 01/03/2004;13;2;ITUANO/SP;SAO CAETANO/SP;3;sabado, 28/02/2004;2;caixa;No
+102;segunda-feira, 01/03/2004;14;3;GREMIO/RS;SAO GABRIEL/RS;0;domingo, 29/02/2004;1;caixa;No
+103;segunda-feira, 08/03/2004;1;1;GREMIO/RS;INTERNACIONAL/RS;2;domingo, 07/03/2004;2;caixa;No
+103;segunda-feira, 08/03/2004;2;0;FLUMINENSE/RJ;VASCO DA GAMA/RJ;4;domingo, 07/03/2004;2;caixa;No
+103;segunda-feira, 08/03/2004;3;2;AMERICA/SP;CORINTHIANS/SP;1;domingo, 07/03/2004;1;caixa;No
+103;segunda-feira, 08/03/2004;4;4;CRUZEIRO/MG;VILLA NOVA/MG;0;sabado, 06/03/2004;1;caixa;No
+103;segunda-feira, 08/03/2004;5;3;BOTAFOGO/RJ;AMERICA/RJ;1;domingo, 07/03/2004;1;caixa;No
+103;segunda-feira, 08/03/2004;6;2;JUVENTUDE/RS;CAXIAS/RS;1;domingo, 07/03/2004;1;caixa;No
+103;segunda-feira, 08/03/2004;7;4;PALMEIRAS/SP;SANTO ANDRE/SP;2;sabado, 06/03/2004;1;caixa;No
+103;segunda-feira, 08/03/2004;8;4;SAO PAULO/SP;UNIAO BARBARENSE/SP;0;domingo, 07/03/2004;1;caixa;No
+103;segunda-feira, 08/03/2004;9;5;SAO CAETANO/SP;PAULISTA/SP;1;domingo, 07/03/2004;1;caixa;No
+103;segunda-feira, 08/03/2004;10;0;CABOFRIENSE/RJ;AMERICANO/RJ;0;domingo, 07/03/2004;X;caixa;No
+103;segunda-feira, 08/03/2004;11;0;MARCILIO DIAS/SC;FIGUEIRENSE/SC;5;domingo, 07/03/2004;2;caixa;No
+103;segunda-feira, 08/03/2004;12;2;ATLETICO/MG;TUPI/MG;1;domingo, 07/03/2004;1;caixa;No
+103;segunda-feira, 08/03/2004;13;1;OLARIA/RJ;FLAMENGO/RJ;0;sabado, 06/03/2004;1;caixa;No
+103;segunda-feira, 08/03/2004;14;0;GUARANI/SP;SANTOS/SP;3;domingo, 07/03/2004;2;caixa;No
+104;segunda-feira, 15/03/2004;1;0;FLAMENGO/RJ;BOTAFOGO/RJ;1;domingo, 14/03/2004;2;caixa;No
+104;segunda-feira, 15/03/2004;2;1;INTERNACIONAL/RS;JUVENTUDE/RS;1;domingo, 14/03/2004;X;caixa;No
+104;segunda-feira, 15/03/2004;3;0;AMERICA/MG;ATLETICO/MG;0;domingo, 14/03/2004;X;caixa;No
+104;segunda-feira, 15/03/2004;4;1;LONDRINA/PR;CORITIBA/PR;1;domingo, 14/03/2004;X;caixa;No
+104;segunda-feira, 15/03/2004;5;1;MOGI MIRIM/SP;PALMEIRAS/SP;1;domingo, 14/03/2004;X;caixa;No
+104;segunda-feira, 15/03/2004;6;1;JUVENTUS/SP;SAO PAULO/SP;2;domingo, 14/03/2004;2;caixa;No
+104;segunda-feira, 15/03/2004;7;1;FLUMINENSE/RJ;OLARIA/RJ;0;sabado, 13/03/2004;1;caixa;No
+104;segunda-feira, 15/03/2004;8;1;CFZ-BSB/DF;GAMA/DF;3;domingo, 14/03/2004;2;caixa;No
+104;segunda-feira, 15/03/2004;9;2;CRUZEIRO/MG;URT/MG;0;sabado, 13/03/2004;1;caixa;No
+104;segunda-feira, 15/03/2004;10;1;CAXIAS/RS;GREMIO/RS;2;domingo, 14/03/2004;2;caixa;No
+104;segunda-feira, 15/03/2004;11;0;ANAPOLIS/GO;VILA NOVA/GO;1;domingo, 14/03/2004;2;caixa;No
+104;segunda-feira, 15/03/2004;12;2;PAYSANDU/PA;TUNA LUSO/PA;0;domingo, 14/03/2004;1;caixa;No
+104;segunda-feira, 15/03/2004;13;1;AMERICA/RJ;VASCO DA GAMA/RJ;2;domingo, 14/03/2004;2;caixa;No
+104;segunda-feira, 15/03/2004;14;0;CORINTHIANS/SP;PORT.SANTISTA/SP;1;domingo, 14/03/2004;2;caixa;No
+105;segunda-feira, 22/03/2004;1;2;VASCO DA GAMA/RJ;FLAMENGO/RJ;1;domingo, 21/03/2004;1;caixa;No
+105;segunda-feira, 22/03/2004;2;1;TUPI/MG;CRUZEIRO/MG;2;domingo, 21/03/2004;2;caixa;No
+105;segunda-feira, 22/03/2004;3;1;CEARA/CE;FORTALEZA/CE;1;domingo, 21/03/2004;X;caixa;No
+105;segunda-feira, 22/03/2004;4;2;FLUMINENSE/RJ;AMERICANO/RJ;2;domingo, 21/03/2004;X;caixa;No
+105;segunda-feira, 22/03/2004;5;2;GAMA/DF;BRASILIENSE/DF;1;sabado, 20/03/2004;1;caixa;No
+105;segunda-feira, 22/03/2004;6;2;CORITIBA/PR;PARANAVAI/PR;0;domingo, 21/03/2004;1;caixa;No
+105;segunda-feira, 22/03/2004;7;2;ATHLETICO/PR;UNIAO BANDEIRANTE/PR;0;domingo, 21/03/2004;1;caixa;No
+105;segunda-feira, 22/03/2004;8;1;JATAIENSE/GO;GOIAS/GO;2;domingo, 21/03/2004;2;caixa;No
+105;segunda-feira, 22/03/2004;9;2;VITORIA/BA;FLUMINENSE/BA;1;domingo, 21/03/2004;1;caixa;No
+105;segunda-feira, 22/03/2004;10;5;AMERICA/RJ;BANGU/RJ;1;domingo, 21/03/2004;1;caixa;No
+105;segunda-feira, 22/03/2004;11;3;PETROLINA/PE;SPORT RECIFE/PE;3;domingo, 21/03/2004;X;caixa;No
+105;segunda-feira, 22/03/2004;12;2;NAUTICO/PE;SANTA CRUZ/PE;2;domingo, 21/03/2004;X;caixa;No
+105;segunda-feira, 22/03/2004;13;4;ATLETICO/MG;MAMORE/MG;0;domingo, 21/03/2004;1;caixa;No
+105;segunda-feira, 22/03/2004;14;2;MADUREIRA/RJ;BOTAFOGO/RJ;4;domingo, 21/03/2004;2;caixa;No
+106;segunda-feira, 29/03/2004;1;1;INTERNACIONAL/RS;JUVENTUDE/RS;2;domingo, 28/03/2004;2;caixa;No
+106;segunda-feira, 29/03/2004;2;4;REMO/PA;TUNA LUSO/PA;1;domingo, 28/03/2004;1;caixa;No
+106;segunda-feira, 29/03/2004;3;1;SPORT RECIFE/PE;NAUTICO/PE;3;domingo, 28/03/2004;2;caixa;No
+106;segunda-feira, 29/03/2004;4;2;RIO BRANCO/MG;ATLETICO/MG;5;domingo, 28/03/2004;2;caixa;No
+106;segunda-feira, 29/03/2004;5;2;FIGUEIRENSE/SC;CHAPECOENSE/SC;0;sabado, 27/03/2004;1;caixa;No
+106;segunda-feira, 29/03/2004;6;0;GAMA/DF;SOBRADINHO/DF;1;domingo, 28/03/2004;2;caixa;No
+106;segunda-feira, 29/03/2004;7;4;BRASILIENSE/DF;PARANOA/DF;2;domingo, 28/03/2004;1;caixa;No
+106;segunda-feira, 29/03/2004;8;1;LIMOEIRO/CE;FORTALEZA/CE;1;domingo, 28/03/2004;X;caixa;No
+106;segunda-feira, 29/03/2004;9;4;PAYSANDU/PA;AGUIA/PA;0;sabado, 27/03/2004;1;caixa;No
+106;segunda-feira, 29/03/2004;10;1;TUPI/MG;AMERICA/MG;2;domingo, 28/03/2004;2;caixa;No
+106;segunda-feira, 29/03/2004;11;4;VILLA NOVA/MG;MAMORE/MG;1;domingo, 28/03/2004;1;caixa;No
+106;segunda-feira, 29/03/2004;12;2;RECIFE/PE;PETROLINA/PE;1;domingo, 28/03/2004;1;caixa;No
+106;segunda-feira, 29/03/2004;13;2;CRUZEIRO/MG;IPATINGA/MG;0;domingo, 28/03/2004;1;caixa;No
+106;segunda-feira, 29/03/2004;14;2;GREMIO/RS;GLORIA/RS;1;sabado, 27/03/2004;1;caixa;No
+107;segunda-feira, 05/04/2004;1;4;SAO CAETANO/SP;SANTOS/SP;0;sabado, 03/04/2004;1;caixa;No
+107;segunda-feira, 05/04/2004;2;2;SANTA CRUZ/PE;SPORT RECIFE/PE;3;domingo, 04/04/2004;2;caixa;No
+107;segunda-feira, 05/04/2004;3;0;PAYSANDU/PA;REMO/PA;2;domingo, 04/04/2004;2;caixa;No
+107;segunda-feira, 05/04/2004;4;3;PAULISTA/SP;PALMEIRAS/SP;3;domingo, 04/04/2004;X;caixa;No
+107;segunda-feira, 05/04/2004;5;3;ATHLETICO/PR;LONDRINA/PR;1;domingo, 04/04/2004;1;caixa;No
+107;segunda-feira, 05/04/2004;6;1;BOA VIAGEM/CE;LIMOEIRO/CE;2;domingo, 04/04/2004;2;caixa;No
+107;segunda-feira, 05/04/2004;7;5;CHAPECOENSE/SC;FIGUEIRENSE/SC;1;domingo, 04/04/2004;1;caixa;No
+107;segunda-feira, 05/04/2004;8;1;CEARA/CE;UNICLINIC/CE;2;domingo, 04/04/2004;2;caixa;No
+107;segunda-feira, 05/04/2004;9;0;ITACURUBA/PE;NAUTICO/PE;3;domingo, 04/04/2004;2;caixa;No
+107;segunda-feira, 05/04/2004;10;1;MARANGUAPE/CE;FERROVIARIO/CE;5;domingo, 04/04/2004;2;caixa;No
+107;segunda-feira, 05/04/2004;11;5;VITORIA/BA;CATUENSE/BA;0;domingo, 04/04/2004;1;caixa;No
+107;segunda-feira, 05/04/2004;12;1;BAHIA/BA;POCOES/BA;0;domingo, 04/04/2004;1;caixa;No
+107;segunda-feira, 05/04/2004;13;0;VILA NOVA/GO;JATAIENSE/GO;0;domingo, 04/04/2004;X;caixa;No
+107;segunda-feira, 05/04/2004;14;2;GOIAS/GO;CRAC/GO;0;sabado, 03/04/2004;1;caixa;No
+108;segunda-feira, 12/04/2004;1;2;FLAMENGO/RJ;VASCO DA GAMA/RJ;1;domingo, 11/04/2004;1;caixa;No
+108;segunda-feira, 12/04/2004;2;3;CRUZEIRO/MG;ATLETICO/MG;1;domingo, 11/04/2004;1;caixa;No
+108;segunda-feira, 12/04/2004;3;2;VILA NOVA/GO;CRAC/GO;1;domingo, 11/04/2004;1;caixa;No
+108;segunda-feira, 12/04/2004;4;1;BAHIA/BA;VITORIA/BA;1;domingo, 11/04/2004;X;caixa;No
+108;segunda-feira, 12/04/2004;5;1;BRASILIENSE/DF;GAMA/DF;0;sabado, 10/04/2004;1;caixa;No
+108;segunda-feira, 12/04/2004;6;3;GUARANI/SC;CHAPECOENSE/SC;2;domingo, 11/04/2004;1;caixa;No
+108;segunda-feira, 12/04/2004;7;3;GLORIA/RS;15 DE NOVEMBRO/RS;0;domingo, 11/04/2004;1;caixa;No
+108;segunda-feira, 12/04/2004;8;3;VERANOPOLIS/RS;SANTO ANGELO/RS;0;domingo, 11/04/2004;1;caixa;No
+108;segunda-feira, 12/04/2004;9;0;CSE/AL;CRB/AL;2;domingo, 11/04/2004;2;caixa;No
+108;segunda-feira, 12/04/2004;10;1;ESPORTIVO/RS;GUARANI/RS;0;domingo, 11/04/2004;1;caixa;No
+108;segunda-feira, 12/04/2004;11;0;DORENSE/SE;SERGIPE/SE;4;sabado, 10/04/2004;2;caixa;No
+108;segunda-feira, 12/04/2004;12;3;DESPORTIVA/ES;VITORIA/ES;1;domingo, 11/04/2004;1;caixa;No
+108;segunda-feira, 12/04/2004;13;2;SAO GABRIEL/RS;ULBRA/RS;1;domingo, 11/04/2004;1;caixa;No
+108;segunda-feira, 12/04/2004;14;2;CORITIBA/PR;ATHLETICO/PR;1;sabado, 10/04/2004;1;caixa;No
+109;segunda-feira, 19/04/2004;1;1;VASCO DA GAMA/RJ;FLAMENGO/RJ;3;domingo, 18/04/2004;2;caixa;No
+109;segunda-feira, 19/04/2004;2;2;SAO CAETANO/SP;PAULISTA/SP;0;domingo, 18/04/2004;1;caixa;No
+109;segunda-feira, 19/04/2004;3;1;ATLETICO/MG;CRUZEIRO/MG;0;domingo, 18/04/2004;1;caixa;No
+109;segunda-feira, 19/04/2004;4;3;CRAC/GO;VILA NOVA/GO;0;domingo, 18/04/2004;1;caixa;No
+109;segunda-feira, 19/04/2004;5;3;ATHLETICO/PR;CORITIBA/PR;3;domingo, 18/04/2004;X;caixa;No
+109;segunda-feira, 19/04/2004;6;2;NOVO HAMBURGO/RS;VERANOPOLIS/RS;1;domingo, 18/04/2004;1;caixa;No
+109;segunda-feira, 19/04/2004;7;1;SANTO ANGELO/RS;PASSO FUNDO/RS;1;domingo, 18/04/2004;X;caixa;No
+109;segunda-feira, 19/04/2004;8;3;SERGIPE/SE;OLIMPICO/SE;3;sabado, 17/04/2004;X;caixa;No
+109;segunda-feira, 19/04/2004;9;2;RIO BRANCO/ES;COLATINA/ES;0;sabado, 17/04/2004;1;caixa;No
+109;segunda-feira, 19/04/2004;10;4;ESTRELA DO NORTE/ES;VITORIA/ES;0;sabado, 17/04/2004;1;caixa;No
+109;segunda-feira, 19/04/2004;11;1;FRANCANA/SP;TAUBATE/SP;1;sabado, 17/04/2004;X;caixa;No
+109;segunda-feira, 19/04/2004;12;2;INTER LIMEIRA/SP;BANDEIRANTE/SP;2;sabado, 17/04/2004;X;caixa;No
+109;segunda-feira, 19/04/2004;13;3;FIGUEIRENSE/SC;GUARANI/SC;1;domingo, 18/04/2004;1;caixa;No
+109;segunda-feira, 19/04/2004;14;1;VITORIA/BA;BAHIA/BA;0;domingo, 18/04/2004;1;caixa;No
+110;segunda-feira, 26/04/2004;1;1;INTERNACIONAL/RS;PALMEIRAS/SP;0;domingo, 25/04/2004;1;caixa;No
+110;segunda-feira, 26/04/2004;2;1;ATLETICO/MG;VASCO DA GAMA/RJ;1;domingo, 25/04/2004;X;caixa;No
+110;segunda-feira, 26/04/2004;3;0;FLAMENGO/RJ;PONTE PRETA/SP;0;sabado, 24/04/2004;X;caixa;No
+110;segunda-feira, 26/04/2004;4;2;SANTOS/SP;BOTAFOGO/RJ;0;domingo, 25/04/2004;1;caixa;No
+110;segunda-feira, 26/04/2004;5;2;GOIAS/GO;CRUZEIRO/MG;2;sabado, 24/04/2004;X;caixa;No
+110;segunda-feira, 26/04/2004;6;1;JUVENTUDE/RS;GREMIO/RS;1;sabado, 24/04/2004;X;caixa;No
+110;segunda-feira, 26/04/2004;7;1;GUARANI/SP;SAO  CAETANO/SP;1;domingo, 25/04/2004;X;caixa;No
+110;segunda-feira, 26/04/2004;8;2;BAHIA/BA;SAO RAIMUNDO/AM;2;sabado, 24/04/2004;X;caixa;No
+110;segunda-feira, 26/04/2004;9;1;ITUANO/SP;BRASILIENSE/DF;1;sabado, 24/04/2004;X;caixa;No
+110;segunda-feira, 26/04/2004;10;6;VITORIA/BA;PARANA/PR;1;domingo, 25/04/2004;1;caixa;No
+110;segunda-feira, 26/04/2004;11;0;ATHLETICO/PR;FIGUEIRENSE/SC;3;domingo, 25/04/2004;2;caixa;No
+110;segunda-feira, 26/04/2004;12;1;CRICIUMA/SC;SAO PAULO/SP;1;domingo, 25/04/2004;X;caixa;No
+110;segunda-feira, 26/04/2004;13;1;FLUMINENSE/RJ;CORITIBA/PR;1;domingo, 25/04/2004;X;caixa;No
+110;segunda-feira, 26/04/2004;14;2;CORINTHIANS/SP;PAYSANDU/PA;1;domingo, 25/04/2004;1;caixa;No
+111;segunda-feira, 03/05/2004;1;1;FLAMENGO/RJ;SAO  CAETANO/SP;1;domingo, 02/05/2004;X;caixa;No
+111;segunda-feira, 03/05/2004;2;0;CORINTHIANS/SP;PALMEIRAS/SP;4;domingo, 02/05/2004;2;caixa;No
+111;segunda-feira, 03/05/2004;3;1;FLUMINENSE/RJ;VASCO DA GAMA/RJ;0;domingo, 02/05/2004;1;caixa;No
+111;segunda-feira, 03/05/2004;4;1;SANTOS/SP;CRUZEIRO/MG;3;domingo, 02/05/2004;2;caixa;No
+111;segunda-feira, 03/05/2004;5;1;ATHLETICO/PR;CORITIBA/PR;1;domingo, 02/05/2004;X;caixa;No
+111;segunda-feira, 03/05/2004;6;1;CRICIUMA/SC;BOTAFOGO/RJ;0;sabado, 01/05/2004;1;caixa;No
+111;segunda-feira, 03/05/2004;7;2;GUARANI/SP;SAO PAULO/SP;3;domingo, 02/05/2004;2;caixa;No
+111;segunda-feira, 03/05/2004;8;3;PAULISTA/SP;JOINVILLE/SC;1;domingo, 02/05/2004;1;caixa;No
+111;segunda-feira, 03/05/2004;9;0;CAXIAS/RS;VILA NOVA/GO;0;sabado, 01/05/2004;X;caixa;No
+111;segunda-feira, 03/05/2004;10;4;JUVENTUDE/RS;PARANA/PR;0;domingo, 02/05/2004;1;caixa;No
+111;segunda-feira, 03/05/2004;11;3;VITORIA/BA;FIGUEIRENSE/SC;1;domingo, 02/05/2004;1;caixa;No
+111;segunda-feira, 03/05/2004;12;1;ATLETICO/MG;PONTE PRETA/SP;2;sabado, 01/05/2004;2;caixa;No
+111;segunda-feira, 03/05/2004;13;1;INTERNACIONAL/RS;PAYSANDU/PA;0;sabado, 01/05/2004;1;caixa;No
+111;segunda-feira, 03/05/2004;14;4;GOIAS/GO;GREMIO/RS;0;sabado, 01/05/2004;1;caixa;No
+112;segunda-feira, 10/05/2004;1;1;VASCO DA GAMA/RJ;GREMIO/RS;1;sabado, 08/05/2004;X;caixa;No
+112;segunda-feira, 10/05/2004;2;2;ATLETICO/MG;CORINTHIANS/SP;2;domingo, 09/05/2004;X;caixa;No
+112;segunda-feira, 10/05/2004;3;0;INTERNACIONAL/RS;FLUMINENSE/RJ;0;domingo, 09/05/2004;X;caixa;No
+112;segunda-feira, 10/05/2004;4;1;CORITIBA/PR;SAO PAULO/SP;2;domingo, 09/05/2004;2;caixa;No
+112;segunda-feira, 10/05/2004;5;5;VITORIA/BA;FLAMENGO/RJ;1;domingo, 09/05/2004;1;caixa;No
+112;segunda-feira, 10/05/2004;6;3;PALMEIRAS/SP;PONTE PRETA/SP;0;sabado, 08/05/2004;1;caixa;No
+112;segunda-feira, 10/05/2004;7;0;GUARANI/SP;ATHLETICO/PR;0;sabado, 08/05/2004;X;caixa;No
+112;segunda-feira, 10/05/2004;8;5;FORTALEZA/CE;NAUTICO/PE;4;sabado, 08/05/2004;1;caixa;No
+112;segunda-feira, 10/05/2004;9;2;REMO/PA;PAULISTA/SP;2;domingo, 09/05/2004;X;caixa;No
+112;segunda-feira, 10/05/2004;10;1;GOIAS/GO;FIGUEIRENSE/SC;0;domingo, 09/05/2004;1;caixa;No
+112;segunda-feira, 10/05/2004;11;2;PARANA/PR;CRUZEIRO/MG;0;sabado, 08/05/2004;1;caixa;No
+112;segunda-feira, 10/05/2004;12;5;SAO CAETANO/SP;CRICIUMA/SC;0;sabado, 08/05/2004;1;caixa;No
+112;segunda-feira, 10/05/2004;13;2;BOTAFOGO/RJ;PAYSANDU/PA;2;domingo, 09/05/2004;X;caixa;No
+112;segunda-feira, 10/05/2004;14;2;SANTOS/SP;JUVENTUDE/RS;1;sabado, 08/05/2004;1;caixa;No
+113;segunda-feira, 17/05/2004;1;1;FLAMENGO/RJ;INTERNACIONAL/RS;2;domingo, 16/05/2004;2;caixa;No
+113;segunda-feira, 17/05/2004;2;2;CRUZEIRO/MG;PALMEIRAS/SP;1;domingo, 16/05/2004;1;caixa;No
+113;segunda-feira, 17/05/2004;3;1;ATHLETICO/PR;SANTOS/SP;0;sabado, 15/05/2004;1;caixa;No
+113;segunda-feira, 17/05/2004;4;2;GREMIO/RS;BOTAFOGO/RJ;2;domingo, 16/05/2004;X;caixa;No
+113;segunda-feira, 17/05/2004;5;1;PAYSANDU/PA;VASCO DA GAMA/RJ;2;sabado, 15/05/2004;2;caixa;No
+113;segunda-feira, 17/05/2004;6;1;JUVENTUDE/RS;ATLETICO/MG;1;domingo, 16/05/2004;X;caixa;No
+113;segunda-feira, 17/05/2004;7;1;FIGUEIRENSE/SC;SAO CAETANO/SP;0;domingo, 16/05/2004;1;caixa;No
+113;segunda-feira, 17/05/2004;8;2;CEARA/CE;BAHIA/BA;1;domingo, 16/05/2004;1;caixa;No
+113;segunda-feira, 17/05/2004;9;2;BRASILIENSE/DF;VILA NOVA/GO;1;domingo, 16/05/2004;1;caixa;No
+113;segunda-feira, 17/05/2004;10;7;CRICIUMA/SC;GOIAS/GO;2;domingo, 16/05/2004;1;caixa;No
+113;segunda-feira, 17/05/2004;11;0;PONTE PRETA/SP;CORITIBA/PR;0;domingo, 16/05/2004;X;caixa;No
+113;segunda-feira, 17/05/2004;12;2;SAO PAULO/SP;PARANA/PR;2;domingo, 16/05/2004;X;caixa;No
+113;segunda-feira, 17/05/2004;13;1;FLUMINENSE/RJ;VITORIA/BA;0;domingo, 16/05/2004;1;caixa;No
+113;segunda-feira, 17/05/2004;14;1;CORINTHIANS/SP;GUARANI/SP;0;domingo, 16/05/2004;1;caixa;No
+114;segunda-feira, 24/05/2004;1;0;SANTOS/SP;PALMEIRAS/SP;4;domingo, 23/05/2004;2;caixa;No
+114;segunda-feira, 24/05/2004;2;1;FLAMENGO/RJ;FLUMINENSE/RJ;2;domingo, 23/05/2004;2;caixa;No
+114;segunda-feira, 24/05/2004;3;2;CRUZEIRO/MG;SAO PAULO/SP;1;domingo, 23/05/2004;1;caixa;No
+114;segunda-feira, 24/05/2004;4;0;CORINTHIANS/SP;ATHLETICO/PR;5;domingo, 23/05/2004;2;caixa;No
+114;segunda-feira, 24/05/2004;5;1;INTERNACIONAL/RS;GOIAS/GO;0;sabado, 22/05/2004;1;caixa;No
+114;segunda-feira, 24/05/2004;6;1;BOTAFOGO/RJ;FIGUEIRENSE/SC;1;sabado, 22/05/2004;X;caixa;No
+114;segunda-feira, 24/05/2004;7;2;CRICIUMA/SC;VITORIA/BA;0;domingo, 23/05/2004;1;caixa;No
+114;segunda-feira, 24/05/2004;8;2;REMO/PA;SANTO ANDRE/SP;2;domingo, 23/05/2004;X;caixa;No
+114;segunda-feira, 24/05/2004;9;1;NAUTICO/PE;CEARA/CE;3;domingo, 23/05/2004;2;caixa;No
+114;segunda-feira, 24/05/2004;10;0;PARANA/PR;PONTE PRETA/SP;1;domingo, 23/05/2004;2;caixa;No
+114;segunda-feira, 24/05/2004;11;2;JUVENTUDE/RS;GUARANI/SP;0;domingo, 23/05/2004;1;caixa;No
+114;segunda-feira, 24/05/2004;12;0;CORITIBA/PR;ATLETICO/MG;1;sabado, 22/05/2004;2;caixa;No
+114;segunda-feira, 24/05/2004;13;1;PAYSANDU/PA;GREMIO/RS;3;sabado, 22/05/2004;2;caixa;No
+114;segunda-feira, 24/05/2004;14;3;SAO CAETANO/SP;VASCO DA GAMA/RJ;2;domingo, 23/05/2004;1;caixa;No
+115;segunda-feira, 31/05/2004;1;1;SAO PAULO/SP;CORINTHIANS/SP;1;domingo, 30/05/2004;X;caixa;No
+115;segunda-feira, 31/05/2004;2;4;VASCO DA GAMA/RJ;BOTAFOGO/RJ;0;domingo, 30/05/2004;1;caixa;No
+115;segunda-feira, 31/05/2004;3;3;ATLETICO/MG;SANTOS/SP;3;domingo, 30/05/2004;X;caixa;No
+115;segunda-feira, 31/05/2004;4;2;VITORIA/BA;INTERNACIONAL/RS;1;sabado, 29/05/2004;1;caixa;No
+115;segunda-feira, 31/05/2004;5;2;GOIAS/GO;FLAMENGO/RJ;2;domingo, 30/05/2004;X;caixa;No
+115;segunda-feira, 31/05/2004;6;2;PALMEIRAS/SP;CORITIBA/PR;0;sabado, 29/05/2004;1;caixa;No
+115;segunda-feira, 31/05/2004;7;0;PONTE PRETA/SP;JUVENTUDE/RS;1;sabado, 29/05/2004;2;caixa;No
+115;segunda-feira, 31/05/2004;8;2;AMERICA/MG;SPORT RECIFE/PE;2;domingo, 30/05/2004;X;caixa;No
+115;segunda-feira, 31/05/2004;9;1;AMERICA/RN;BAHIA/BA;3;sabado, 29/05/2004;2;caixa;No
+115;segunda-feira, 31/05/2004;10;1;GUARANI/SP;PARANA/PR;0;domingo, 30/05/2004;1;caixa;No
+115;segunda-feira, 31/05/2004;11;1;FIGUEIRENSE/SC;PAYSANDU/PA;1;sabado, 29/05/2004;X;caixa;No
+115;segunda-feira, 31/05/2004;12;1;FLUMINENSE/RJ;CRICIUMA/SC;1;sabado, 29/05/2004;X;caixa;No
+115;segunda-feira, 31/05/2004;13;3;ATHLETICO/PR;CRUZEIRO/MG;1;domingo, 30/05/2004;1;caixa;No
+115;segunda-feira, 31/05/2004;14;1;GREMIO/RS;SAO  CAETANO/SP;2;domingo, 30/05/2004;2;caixa;No
+116;segunda-feira, 07/06/2004;1;2;PAULISTA/SP;CEARA/CE;1;domingo, 06/06/2004;1;caixa;No
+116;segunda-feira, 07/06/2004;2;0;TUPY/ES;DESPORTIVA/ES;2;domingo, 06/06/2004;2;caixa;No
+116;segunda-feira, 07/06/2004;3;3;BRASILIENSE/DF;CAXIAS/RS;0;domingo, 06/06/2004;1;caixa;No
+116;segunda-feira, 07/06/2004;4;3;JOINVILLE/SC;AMERICA/RN;0;sabado, 05/06/2004;1;caixa;No
+116;segunda-feira, 07/06/2004;5;2;ANAPOLINA/GO;AVAI/SC;1;sabado, 05/06/2004;1;caixa;No
+116;segunda-feira, 07/06/2004;6;2;RIO BRANCO/ES;SAO MATEUS/ES;1;sabado, 05/06/2004;1;caixa;No
+116;segunda-feira, 07/06/2004;7;1;DOM PEDRO II/DF;SOBRADINHO/DF;2;domingo, 06/06/2004;2;caixa;No
+116;segunda-feira, 07/06/2004;8;1;NOROESTE/SP;OSASCO/SP;0;sabado, 05/06/2004;1;caixa;No
+116;segunda-feira, 07/06/2004;9;1;ITABAIANA/SE;RIACHUELO/SE;1;sabado, 05/06/2004;X;caixa;No
+116;segunda-feira, 07/06/2004;10;3;SERGIPE/SE;OLIMPICO/SE;0;sabado, 05/06/2004;1;caixa;No
+116;segunda-feira, 07/06/2004;11;0;LAGARTENSE/SE;CONFIANCA/SE;1;domingo, 06/06/2004;2;caixa;No
+116;segunda-feira, 07/06/2004;12;3;CTE;VITORIA/ES;1;sabado, 05/06/2004;1;caixa;No
+116;segunda-feira, 07/06/2004;13;2;ESTRELA DO NORTE/ES;VILAVELHENSE/ES;0;sabado, 05/06/2004;1;caixa;No
+116;segunda-feira, 07/06/2004;14;0;LONDRINA/PR;MOGI MIRIM/SP;2;sabado, 05/06/2004;2;caixa;No
+117;segunda-feira, 14/06/2004;1;2;PALMEIRAS/SP;VASCO DA GAMA/RJ;2;domingo, 13/06/2004;X;caixa;No
+117;segunda-feira, 14/06/2004;2;3;SAO PAULO/SP;GREMIO/RS;2;sabado, 12/06/2004;1;caixa;No
+117;segunda-feira, 14/06/2004;3;1;GOIAS/GO;CORINTHIANS/SP;1;domingo, 13/06/2004;X;caixa;No
+117;segunda-feira, 14/06/2004;4;3;FLAMENGO/RJ;ATHLETICO/PR;0;domingo, 13/06/2004;1;caixa;No
+117;segunda-feira, 14/06/2004;5;4;INTERNACIONAL/RS;ATLETICO/MG;1;sabado, 12/06/2004;1;caixa;No
+117;segunda-feira, 14/06/2004;6;1;FLUMINENSE/RJ;GUARANI/SP;1;sabado, 12/06/2004;X;caixa;No
+117;segunda-feira, 14/06/2004;7;1;CORITIBA/PR;SAO CAETANO/SP;0;domingo, 13/06/2004;1;caixa;No
+117;segunda-feira, 14/06/2004;8;0;SANTA CRUZ/PE;NAUTICO/PE;1;sabado, 12/06/2004;2;caixa;No
+117;segunda-feira, 14/06/2004;9;4;VILA NOVA/GO;JOINVILLE/SC;1;sabado, 12/06/2004;1;caixa;No
+117;segunda-feira, 14/06/2004;10;2;CRICIUMA/SC;JUVENTUDE/RS;0;domingo, 13/06/2004;1;caixa;No
+117;segunda-feira, 14/06/2004;11;0;PONTE PRETA/SP;FIGUEIRENSE/SC;2;domingo, 13/06/2004;2;caixa;No
+117;segunda-feira, 14/06/2004;12;1;PARANA/PR;BOTAFOGO/RJ;1;sabado, 12/06/2004;X;caixa;No
+117;segunda-feira, 14/06/2004;13;1;CRUZEIRO/MG;PAYSANDU/PA;0;domingo, 13/06/2004;1;caixa;No
+117;segunda-feira, 14/06/2004;14;1;VITORIA/BA;SANTOS/SP;2;domingo, 13/06/2004;2;caixa;No
+118;segunda-feira, 21/06/2004;1;1;CORINTHIANS/SP;FLAMENGO/RJ;1;domingo, 20/06/2004;X;caixa;No
+118;segunda-feira, 21/06/2004;2;3;SANTOS/SP;INTERNACIONAL/RS;0;domingo, 20/06/2004;1;caixa;No
+118;segunda-feira, 21/06/2004;3;2;ATLETICO/MG;FLUMINENSE/RJ;1;domingo, 20/06/2004;1;caixa;No
+118;segunda-feira, 21/06/2004;4;1;PAYSANDU/PA;SAO PAULO/SP;0;domingo, 20/06/2004;1;caixa;No
+118;segunda-feira, 21/06/2004;5;0;VASCO DA GAMA/RJ;PARANA/PR;0;sabado, 19/06/2004;X;caixa;No
+118;segunda-feira, 21/06/2004;6;0;FIGUEIRENSE/SC;CRUZEIRO/MG;0;sabado, 19/06/2004;X;caixa;No
+118;segunda-feira, 21/06/2004;7;1;JUVENTUDE/RS;GOIAS/GO;1;domingo, 20/06/2004;X;caixa;No
+118;segunda-feira, 21/06/2004;8;3;MARILIA/SP;CEARA/CE;0;domingo, 20/06/2004;1;caixa;No
+118;segunda-feira, 21/06/2004;9;1;REMO/PA;VILA NOVA/GO;1;sabado, 19/06/2004;X;caixa;No
+118;segunda-feira, 21/06/2004;10;2;GUARANI/SP;CRICIUMA/SC;1;domingo, 20/06/2004;1;caixa;No
+118;segunda-feira, 21/06/2004;11;1;ATHLETICO/PR;VITORIA/BA;3;sabado, 19/06/2004;2;caixa;No
+118;segunda-feira, 21/06/2004;12;0;BOTAFOGO/RJ;PONTE PRETA/SP;1;domingo, 20/06/2004;2;caixa;No
+118;segunda-feira, 21/06/2004;13;1;GREMIO/RS;CORITIBA/PR;1;sabado, 19/06/2004;X;caixa;No
+118;segunda-feira, 21/06/2004;14;1;SAO CAETANO/SP;PALMEIRAS/SP;1;domingo, 20/06/2004;X;caixa;No
+119;segunda-feira, 28/06/2004;1;3;BOTAFOGO/RJ;FLUMINENSE/RJ;3;domingo, 27/06/2004;X;caixa;No
+119;segunda-feira, 28/06/2004;2;1;INTERNACIONAL/RS;VASCO DA GAMA/RJ;3;domingo, 27/06/2004;2;caixa;No
+119;segunda-feira, 28/06/2004;3;1;CORITIBA/PR;PARANA/PR;1;sabado, 26/06/2004;X;caixa;No
+119;segunda-feira, 28/06/2004;4;1;PONTE PRETA/SP;CRUZEIRO/MG;0;domingo, 27/06/2004;1;caixa;No
+119;segunda-feira, 28/06/2004;5;0;FLAMENGO/RJ;FIGUEIRENSE/SC;3;sabado, 26/06/2004;2;caixa;No
+119;segunda-feira, 28/06/2004;6;1;CRICIUMA/SC;GREMIO/RS;2;sabado, 26/06/2004;2;caixa;No
+119;segunda-feira, 28/06/2004;7;1;SAO RAIMUNDO/AM;P. DESPORTOS/SP;0;sabado, 26/06/2004;1;caixa;No
+119;segunda-feira, 28/06/2004;8;2;MOGI MIRIM/SP;FORTALEZA/CE;2;domingo, 27/06/2004;X;caixa;No
+119;segunda-feira, 28/06/2004;9;3;GOIAS/GO;SAO CAETANO/SP;2;domingo, 27/06/2004;1;caixa;No
+119;segunda-feira, 28/06/2004;10;4;PAYSANDU/PA;VITORIA/BA;2;domingo, 27/06/2004;1;caixa;No
+119;segunda-feira, 28/06/2004;11;1;CEARA/CE;ANAPOLINA/GO;0;domingo, 27/06/2004;1;caixa;No
+119;segunda-feira, 28/06/2004;12;2;SANTOS/SP;GUARANI/SP;1;sabado, 26/06/2004;1;caixa;No
+119;segunda-feira, 28/06/2004;13;1;JUVENTUDE/RS;CORINTHIANS/SP;0;domingo, 27/06/2004;1;caixa;No
+119;segunda-feira, 28/06/2004;14;2;PALMEIRAS/SP;SAO PAULO/SP;1;domingo, 27/06/2004;1;caixa;No
+120;segunda-feira, 05/07/2004;1;2;CORINTHIANS/SP;SANTOS/SP;3;domingo, 04/07/2004;2;caixa;No
+120;segunda-feira, 05/07/2004;2;2;FLUMINENSE/RJ;GREMIO/RS;0;sabado, 03/07/2004;1;caixa;No
+120;segunda-feira, 05/07/2004;3;0;CRUZEIRO/MG;CORITIBA/PR;3;domingo, 04/07/2004;2;caixa;No
+120;segunda-feira, 05/07/2004;4;2;FIGUEIRENSE/SC;VASCO DA GAMA/RJ;2;sabado, 03/07/2004;X;caixa;No
+120;segunda-feira, 05/07/2004;5;1;SAO  CAETANO/SP;BOTAFOGO/RJ;2;domingo, 04/07/2004;2;caixa;No
+120;segunda-feira, 05/07/2004;6;2;SAO PAULO/SP;PONTE PRETA/SP;0;sabado, 03/07/2004;1;caixa;No
+120;segunda-feira, 05/07/2004;7;1;GUARANI/SP;ATLETICO/MG;1;sabado, 03/07/2004;X;caixa;No
+120;segunda-feira, 05/07/2004;8;3;P. DESPORTOS/SP;SANTO ANDRE/SP;0;sabado, 03/07/2004;1;caixa;No
+120;segunda-feira, 05/07/2004;9;3;BRASILIENSE/DF;AMERICA/MG;0;domingo, 04/07/2004;1;caixa;No
+120;segunda-feira, 05/07/2004;10;4;ATHLETICO/PR;JUVENTUDE/RS;1;sabado, 03/07/2004;1;caixa;No
+120;segunda-feira, 05/07/2004;11;0;VITORIA/BA;GOIAS/GO;0;sabado, 03/07/2004;X;caixa;No
+120;segunda-feira, 05/07/2004;12;3;INTERNACIONAL/RS;CRICIUMA/SC;0;sabado, 03/07/2004;1;caixa;No
+120;segunda-feira, 05/07/2004;13;1;PARANA/PR;PALMEIRAS/SP;2;domingo, 04/07/2004;2;caixa;No
+120;segunda-feira, 05/07/2004;14;4;FLAMENGO/RJ;PAYSANDU/PA;1;domingo, 04/07/2004;1;caixa;No
+121;segunda-feira, 12/07/2004;1;0;FLAMENGO/RJ;VASCO DA GAMA/RJ;1;sabado, 10/07/2004;2;caixa;No
+121;segunda-feira, 12/07/2004;2;2;SANTOS/SP;SAO PAULO/SP;1;sabado, 10/07/2004;1;caixa;No
+121;segunda-feira, 12/07/2004;3;2;ATLETICO/MG;CRUZEIRO/MG;0;sabado, 10/07/2004;1;caixa;No
+121;segunda-feira, 12/07/2004;4;0;ATHLETICO/PR;PALMEIRAS/SP;0;sabado, 10/07/2004;X;caixa;No
+121;segunda-feira, 12/07/2004;5;2;FIGUEIRENSE/SC;CRICIUMA/SC;0;sabado, 10/07/2004;1;caixa;No
+121;segunda-feira, 12/07/2004;6;1;FLUMINENSE/RJ;SAO CAETANO/SP;0;sabado, 10/07/2004;1;caixa;No
+121;segunda-feira, 12/07/2004;7;3;PONTE PRETA/SP;GUARANI/SP;1;sabado, 10/07/2004;1;caixa;No
+121;segunda-feira, 12/07/2004;8;2;BRASILIENSE/DF;PAULISTA/SP;1;sabado, 10/07/2004;1;caixa;No
+121;segunda-feira, 12/07/2004;9;3;MOGI MIRIM/SP;VILA NOVA/GO;3;sabado, 10/07/2004;X;caixa;No
+121;segunda-feira, 12/07/2004;10;1;JUVENTUDE/RS;CORITIBA/PR;0;sabado, 10/07/2004;1;caixa;No
+121;segunda-feira, 12/07/2004;11;3;GOIAS/GO;PAYSANDU/PA;2;sabado, 10/07/2004;1;caixa;No
+121;segunda-feira, 12/07/2004;12;1;CORINTHIANS/SP;PARANA/PR;0;sabado, 10/07/2004;1;caixa;No
+121;segunda-feira, 12/07/2004;13;1;VITORIA/BA;BOTAFOGO/RJ;0;sabado, 10/07/2004;1;caixa;No
+121;segunda-feira, 12/07/2004;14;2;INTERNACIONAL/RS;GREMIO/RS;0;sabado, 10/07/2004;1;caixa;No
+122;segunda-feira, 19/07/2004;1;1;FLUMINENSE/RJ;SANTOS/SP;0;sabado, 17/07/2004;1;caixa;No
+122;segunda-feira, 19/07/2004;2;2;PALMEIRAS/SP;GREMIO/RS;0;sabado, 17/07/2004;1;caixa;No
+122;segunda-feira, 19/07/2004;3;3;CRUZEIRO/MG;BOTAFOGO/RJ;2;sabado, 17/07/2004;1;caixa;No
+122;segunda-feira, 19/07/2004;4;6;INTERNACIONAL/RS;ATHLETICO/PR;0;sabado, 17/07/2004;1;caixa;No
+122;segunda-feira, 19/07/2004;5;1;VITORIA/BA;CORINTHIANS/SP;1;sabado, 17/07/2004;X;caixa;No
+122;segunda-feira, 19/07/2004;6;3;PONTE PRETA/SP;VASCO DA GAMA/RJ;2;sabado, 17/07/2004;1;caixa;No
+122;segunda-feira, 19/07/2004;7;4;CRICIUMA/SC;ATLETICO/MG;2;sabado, 17/07/2004;1;caixa;No
+122;segunda-feira, 19/07/2004;8;0;AMERICA/MG;ITUANO/SP;1;sabado, 17/07/2004;2;caixa;No
+122;segunda-feira, 19/07/2004;9;2;BAHIA/BA;LONDRINA/PR;0;sabado, 17/07/2004;1;caixa;No
+122;segunda-feira, 19/07/2004;10;1;CORITIBA/PR;PAYSANDU/PA;1;sabado, 17/07/2004;X;caixa;No
+122;segunda-feira, 19/07/2004;11;0;PARANA/PR;SAO  CAETANO/SP;1;sabado, 17/07/2004;2;caixa;No
+122;segunda-feira, 19/07/2004;12;2;GOIAS/GO;GUARANI/SP;0;sabado, 17/07/2004;1;caixa;No
+122;segunda-feira, 19/07/2004;13;2;SAO PAULO/SP;FIGUEIRENSE/SC;1;sabado, 17/07/2004;1;caixa;No
+122;segunda-feira, 19/07/2004;14;0;FLAMENGO/RJ;JUVENTUDE/RS;1;sabado, 17/07/2004;2;caixa;No
+123;segunda-feira, 26/07/2004;1;2;FLUMINENSE/RJ;CORINTHIANS/SP;0;sabado, 24/07/2004;1;caixa;No
+123;segunda-feira, 26/07/2004;2;1;SAO PAULO/SP;VASCO DA GAMA/RJ;0;sabado, 24/07/2004;1;caixa;No
+123;segunda-feira, 26/07/2004;3;1;INTERNACIONAL/RS;JUVENTUDE/RS;2;sabado, 24/07/2004;2;caixa;No
+123;segunda-feira, 26/07/2004;4;0;FLAMENGO/RJ;ATLETICO/MG;0;sabado, 24/07/2004;X;caixa;No
+123;segunda-feira, 26/07/2004;5;3;GOIAS/GO;SANTOS/SP;3;sabado, 24/07/2004;X;caixa;No
+123;segunda-feira, 26/07/2004;6;1;CORITIBA/PR;BOTAFOGO/RJ;0;sabado, 24/07/2004;1;caixa;No
+123;segunda-feira, 26/07/2004;7;0;PALMEIRAS/SP;FIGUEIRENSE/SC;0;sabado, 24/07/2004;X;caixa;No
+123;segunda-feira, 26/07/2004;8;2;SPORT/PE;FORTALEZA/CE;1;sabado, 24/07/2004;1;caixa;No
+123;segunda-feira, 26/07/2004;9;1;ANAPOLINA/GO;BRASILIENSE/DF;2;sabado, 24/07/2004;2;caixa;No
+123;segunda-feira, 26/07/2004;10;4;CRICIUMA/SC;ATHLETICO/PR;1;sabado, 24/07/2004;1;caixa;No
+123;segunda-feira, 26/07/2004;11;2;PARANA/PR;PAYSANDU/PA;0;sabado, 24/07/2004;1;caixa;No
+123;segunda-feira, 26/07/2004;12;3;VITORIA/BA;GUARANI/SP;2;sabado, 24/07/2004;1;caixa;No
+123;segunda-feira, 26/07/2004;13;1;PONTE PRETA/SP;GREMIO/RS;0;sabado, 24/07/2004;1;caixa;No
+123;segunda-feira, 26/07/2004;14;0;CRUZEIRO/MG;SAO  CAETANO/SP;1;sabado, 24/07/2004;2;caixa;No
+124;segunda-feira, 02/08/2004;1;0;FLAMENGO/RJ;PALMEIRAS/SP;1;domingo, 01/08/2004;2;caixa;No
+124;segunda-feira, 02/08/2004;2;1;INTERNACIONAL/RS;SAO PAULO/SP;1;domingo, 01/08/2004;X;caixa;No
+124;segunda-feira, 02/08/2004;3;0;FLUMINENSE/RJ;CRUZEIRO/MG;0;sabado, 31/07/2004;X;caixa;No
+124;segunda-feira, 02/08/2004;4;0;ATHLETICO/PR;GREMIO/RS;0;sabado, 31/07/2004;X;caixa;No
+124;segunda-feira, 02/08/2004;5;2;CORINTHIANS/SP;SAO  CAETANO/SP;0;domingo, 01/08/2004;1;caixa;No
+124;segunda-feira, 02/08/2004;6;6;SANTOS/SP;PAYSANDU/PA;0;domingo, 01/08/2004;1;caixa;No
+124;segunda-feira, 02/08/2004;7;0;GUARANI/SP;BOTAFOGO/RJ;2;domingo, 01/08/2004;2;caixa;No
+124;segunda-feira, 02/08/2004;8;1;VILA NOVA/GO;AMERICA/MG;4;sabado, 31/07/2004;2;caixa;No
+124;segunda-feira, 02/08/2004;9;0;AMERICA/RN;SANTO ANDRE/SP;3;domingo, 01/08/2004;2;caixa;No
+124;segunda-feira, 02/08/2004;10;3;CRICIUMA/SC;PONTE PRETA/SP;1;domingo, 01/08/2004;1;caixa;No
+124;segunda-feira, 02/08/2004;11;3;GOIAS/GO;PARANA/PR;0;domingo, 01/08/2004;1;caixa;No
+124;segunda-feira, 02/08/2004;12;2;VITORIA/BA;CORITIBA/PR;2;domingo, 01/08/2004;X;caixa;No
+124;segunda-feira, 02/08/2004;13;3;ATLETICO/MG;FIGUEIRENSE/SC;1;domingo, 01/08/2004;1;caixa;No
+124;segunda-feira, 02/08/2004;14;1;JUVENTUDE/RS;VASCO DA GAMA/RJ;1;domingo, 01/08/2004;X;caixa;No
+125;segunda-feira, 09/08/2004;1;1;FLAMENGO/RJ;SAO PAULO/SP;0;domingo, 08/08/2004;1;caixa;No
+125;segunda-feira, 09/08/2004;2;2;CORINTHIANS/SP;BOTAFOGO/RJ;2;domingo, 08/08/2004;X;caixa;No
+125;segunda-feira, 09/08/2004;3;3;ATLETICO/MG;GREMIO/RS;0;sabado, 07/08/2004;1;caixa;No
+125;segunda-feira, 09/08/2004;4;2;ATHLETICO/PR;VASCO DA GAMA/RJ;0;domingo, 08/08/2004;1;caixa;No
+125;segunda-feira, 09/08/2004;5;0;SANTOS/SP;SAO  CAETANO/SP;1;sabado, 07/08/2004;2;caixa;No
+125;segunda-feira, 09/08/2004;6;3;FLUMINENSE/RJ;PARANA/PR;1;sabado, 07/08/2004;1;caixa;No
+125;segunda-feira, 09/08/2004;7;1;CRICIUMA/SC;PALMEIRAS/SP;2;domingo, 08/08/2004;2;caixa;No
+125;segunda-feira, 09/08/2004;8;1;P. DESPORTOS/SP;VILA NOVA/GO;0;sabado, 07/08/2004;1;caixa;No
+125;segunda-feira, 09/08/2004;9;0;SPORT RECIFE/PE;SANTA CRUZ/PE;1;domingo, 08/08/2004;2;caixa;No
+125;segunda-feira, 09/08/2004;10;0;GUARANI/SP;PAYSANDU/PA;0;domingo, 08/08/2004;X;caixa;No
+125;segunda-feira, 09/08/2004;11;0;JUVENTUDE/RS;FIGUEIRENSE/SC;0;domingo, 08/08/2004;X;caixa;No
+125;segunda-feira, 09/08/2004;12;1;GOIAS/GO;CORITIBA/PR;2;sabado, 07/08/2004;2;caixa;No
+125;segunda-feira, 09/08/2004;13;3;VITORIA/BA;CRUZEIRO/MG;2;domingo, 08/08/2004;1;caixa;No
+125;segunda-feira, 09/08/2004;14;1;INTERNACIONAL/RS;PONTE PRETA/SP;2;domingo, 08/08/2004;2;caixa;No
+126;segunda-feira, 16/08/2004;1;3;FLAMENGO/RJ;GREMIO/RS;0;sabado, 14/08/2004;1;caixa;No
+126;segunda-feira, 16/08/2004;2;1;ATLETICO/MG;PALMEIRAS/SP;2;domingo, 15/08/2004;2;caixa;No
+126;segunda-feira, 16/08/2004;3;3;GOIAS/GO;BOTAFOGO/RJ;1;domingo, 15/08/2004;1;caixa;No
+126;segunda-feira, 16/08/2004;4;1;ATHLETICO/PR;SAO PAULO/SP;0;domingo, 15/08/2004;1;caixa;No
+126;segunda-feira, 16/08/2004;5;2;CORINTHIANS/SP;PONTE PRETA/SP;0;sabado, 14/08/2004;1;caixa;No
+126;segunda-feira, 16/08/2004;6;4;INTERNACIONAL/RS;FIGUEIRENSE/SC;0;sabado, 14/08/2004;1;caixa;No
+126;segunda-feira, 16/08/2004;7;5;SANTOS/SP;PARANA/PR;1;domingo, 15/08/2004;1;caixa;No
+126;segunda-feira, 16/08/2004;8;2;CFZ-BSB/DF;PALMAS/TO;3;domingo, 15/08/2004;2;caixa;No
+126;segunda-feira, 16/08/2004;9;0;REMO/PA;CAXIAS/RS;0;sabado, 14/08/2004;X;caixa;No
+126;segunda-feira, 16/08/2004;10;0;GUARANI/SP;CORITIBA/PR;0;domingo, 15/08/2004;X;caixa;No
+126;segunda-feira, 16/08/2004;11;1;VITORIA/BA;SAO CAETANO/SP;2;domingo, 15/08/2004;2;caixa;No
+126;segunda-feira, 16/08/2004;12;1;FLUMINENSE/RJ;PAYSANDU/PA;1;domingo, 15/08/2004;X;caixa;No
+126;segunda-feira, 16/08/2004;13;1;JUVENTUDE/RS;CRUZEIRO/MG;0;sabado, 14/08/2004;1;caixa;No
+126;segunda-feira, 16/08/2004;14;1;CRICIUMA/SC;VASCO DA GAMA/RJ;0;domingo, 15/08/2004;1;caixa;No
+127;segunda-feira, 23/08/2004;1;1;CORINTHIANS/SP;GREMIO/RS;1;sabado, 21/08/2004;X;caixa;No
+127;segunda-feira, 23/08/2004;2;1;FLUMINENSE/RJ;SAO PAULO/SP;0;domingo, 22/08/2004;1;caixa;No
+127;segunda-feira, 23/08/2004;3;2;VITORIA/BA;PALMEIRAS/SP;2;domingo, 22/08/2004;X;caixa;No
+127;segunda-feira, 23/08/2004;4;1;ATLETICO/MG;BOTAFOGO/RJ;1;domingo, 22/08/2004;X;caixa;No
+127;segunda-feira, 23/08/2004;5;1;GUARANI/SP;VASCO DA GAMA/RJ;1;domingo, 22/08/2004;X;caixa;No
+127;segunda-feira, 23/08/2004;6;5;GOIAS/GO;PONTE PRETA/SP;0;domingo, 22/08/2004;1;caixa;No
+127;segunda-feira, 23/08/2004;7;2;FLAMENGO/RJ;PARANA/PR;1;sabado, 21/08/2004;1;caixa;No
+127;segunda-feira, 23/08/2004;8;3;BAHIA/BA;SANTA CRUZ/PE;2;sabado, 21/08/2004;1;caixa;No
+127;segunda-feira, 23/08/2004;9;3;AMERICA/RN;BRASILIENSE/DF;0;sabado, 21/08/2004;1;caixa;No
+127;segunda-feira, 23/08/2004;10;2;JUVENTUDE/RS;SAO  CAETANO/SP;2;domingo, 22/08/2004;X;caixa;No
+127;segunda-feira, 23/08/2004;11;2;ATHLETICO/PR;PAYSANDU/PA;0;domingo, 22/08/2004;1;caixa;No
+127;segunda-feira, 23/08/2004;12;1;INTERNACIONAL/RS;CORITIBA/PR;1;domingo, 22/08/2004;X;caixa;No
+127;segunda-feira, 23/08/2004;13;1;CRICIUMA/SC;CRUZEIRO/MG;2;domingo, 22/08/2004;2;caixa;No
+127;segunda-feira, 23/08/2004;14;4;SANTOS/SP;FIGUEIRENSE/SC;1;domingo, 22/08/2004;1;caixa;No
+128;segunda-feira, 30/08/2004;1;0;PALMEIRAS/SP;CORINTHIANS/SP;1;domingo, 29/08/2004;2;caixa;No
+128;segunda-feira, 30/08/2004;2;1;VASCO DA GAMA/RJ;FLUMINENSE/RJ;1;domingo, 29/08/2004;X;caixa;No
+128;segunda-feira, 30/08/2004;3;4;CRUZEIRO/MG;SANTOS/SP;4;domingo, 29/08/2004;X;caixa;No
+128;segunda-feira, 30/08/2004;4;0;SAO CAETANO/SP;FLAMENGO/RJ;1;domingo, 29/08/2004;2;caixa;No
+128;segunda-feira, 30/08/2004;5;1;GREMIO/RS;GOIAS/GO;1;sabado, 28/08/2004;X;caixa;No
+128;segunda-feira, 30/08/2004;6;1;CORITIBA/PR;ATHLETICO/PR;2;domingo, 29/08/2004;2;caixa;No
+128;segunda-feira, 30/08/2004;7;1;BOTAFOGO/RJ;CRICIUMA/SC;1;sabado, 28/08/2004;X;caixa;No
+128;segunda-feira, 30/08/2004;8;3;NAUTICO/PE;SPORT/PE;1;sabado, 28/08/2004;1;caixa;No
+128;segunda-feira, 30/08/2004;9;2;ANAPOLINA/GO;FORTALEZA/CE;1;domingo, 29/08/2004;1;caixa;No
+128;segunda-feira, 30/08/2004;10;1;PARANA/PR;JUVENTUDE/RS;2;sabado, 28/08/2004;2;caixa;No
+128;segunda-feira, 30/08/2004;11;2;FIGUEIRENSE/SC;VITORIA/BA;1;domingo, 29/08/2004;1;caixa;No
+128;segunda-feira, 30/08/2004;12;1;PONTE PRETA/SP;ATLETICO/MG;1;domingo, 29/08/2004;X;caixa;No
+128;segunda-feira, 30/08/2004;13;3;SAO PAULO/SP;GUARANI/SP;3;sabado, 28/08/2004;X;caixa;No
+128;segunda-feira, 30/08/2004;14;2;PAYSANDU/PA;INTERNACIONAL/RS;1;sabado, 28/08/2004;1;caixa;No
+129;segunda-feira, 06/09/2004;1;3;SANTOS/SP;PARANA/PR;0;sabado, 04/09/2004;1;caixa;No
+129;segunda-feira, 06/09/2004;2;1;ATLETICO/MG;GOIAS/GO;1;sabado, 04/09/2004;X;caixa;No
+129;segunda-feira, 06/09/2004;3;1;INTERNACIONAL/RS;FIGUEIRENSE/SC;1;sabado, 04/09/2004;X;caixa;No
+129;segunda-feira, 06/09/2004;4;3;BAHIA/BA;NAUTICO/PE;1;sabado, 04/09/2004;1;caixa;No
+129;segunda-feira, 06/09/2004;5;3;FORTALEZA/CE;PAULISTA/SP;1;sabado, 04/09/2004;1;caixa;No
+129;segunda-feira, 06/09/2004;6;1;MOGI MIRIM/SP;CAXIAS/RS;3;sabado, 04/09/2004;2;caixa;No
+129;segunda-feira, 06/09/2004;7;3;GAMA/DF;PALMAS/TO;0;sabado, 04/09/2004;1;caixa;No
+129;segunda-feira, 06/09/2004;8;7;MOTO CLUBE/MA;TUNA LUSO/PA;1;sabado, 04/09/2004;1;caixa;No
+129;segunda-feira, 06/09/2004;9;0;CATUENSE/BA;SERGIPE/SE;0;sabado, 04/09/2004;X;caixa;No
+129;segunda-feira, 06/09/2004;10;3;VILLA NOVA/MG;ESTRELA DO NORTE/ES;0;sabado, 04/09/2004;1;caixa;No
+129;segunda-feira, 06/09/2004;11;0;AMERICA/RJ;ATLETICO SOROCABA/SP;1;sabado, 04/09/2004;2;caixa;No
+129;segunda-feira, 06/09/2004;12;0;UNIAO SAO JOAO/SP;RIO BRANCO/SP;0;sabado, 04/09/2004;X;caixa;No
+129;segunda-feira, 06/09/2004;13;2;LONDRINA/PR;ANAPOLINA/GO;1;sabado, 04/09/2004;1;caixa;No
+129;segunda-feira, 06/09/2004;14;2;SAO CAETANO/SP;CORITIBA/PR;2;sabado, 04/09/2004;X;caixa;No
+130;segunda-feira, 13/09/2004;1;1;PALMEIRAS/SP;SANTOS/SP;2;domingo, 12/09/2004;2;caixa;No
+130;segunda-feira, 13/09/2004;2;2;FLUMINENSE/RJ;FLAMENGO/RJ;1;domingo, 12/09/2004;1;caixa;No
+130;segunda-feira, 13/09/2004;3;0;SAO PAULO/SP;CRUZEIRO/MG;0;sabado, 11/09/2004;X;caixa;No
+130;segunda-feira, 13/09/2004;4;1;GOIAS/GO;INTERNACIONAL/RS;0;sabado, 11/09/2004;1;caixa;No
+130;segunda-feira, 13/09/2004;5;3;ATHLETICO/PR;CORINTHIANS/SP;1;domingo, 12/09/2004;1;caixa;No
+130;segunda-feira, 13/09/2004;6;3;FIGUEIRENSE/SC;BOTAFOGO/RJ;1;domingo, 12/09/2004;1;caixa;No
+130;segunda-feira, 13/09/2004;7;1;VITORIA/BA;CRICIUMA/SC;0;domingo, 12/09/2004;1;caixa;No
+130;segunda-feira, 13/09/2004;8;3;BRASILIENSE/DF;SANTO ANDRE/SP;0;sabado, 11/09/2004;1;caixa;No
+130;segunda-feira, 13/09/2004;9;1;CAXIAS/RS;BAHIA/BA;0;sabado, 11/09/2004;1;caixa;No
+130;segunda-feira, 13/09/2004;10;3;GUARANI/SP;JUVENTUDE/RS;1;sabado, 11/09/2004;1;caixa;No
+130;segunda-feira, 13/09/2004;11;0;PONTE PRETA/SP;PARANA/PR;2;domingo, 12/09/2004;2;caixa;No
+130;segunda-feira, 13/09/2004;12;1;GREMIO/RS;PAYSANDU/PA;1;domingo, 12/09/2004;X;caixa;No
+130;segunda-feira, 13/09/2004;13;2;ATLETICO/MG;CORITIBA/PR;1;domingo, 12/09/2004;1;caixa;No
+130;segunda-feira, 13/09/2004;14;1;VASCO DA GAMA/RJ;SAO CAETANO/SP;2;sabado, 11/09/2004;2;caixa;No
+131;segunda-feira, 20/09/2004;1;2;BOTAFOGO/RJ;VASCO DA GAMA/RJ;2;domingo, 19/09/2004;X;caixa;No
+131;segunda-feira, 20/09/2004;2;0;CORINTHIANS/SP;SAO PAULO/SP;0;domingo, 19/09/2004;X;caixa;No
+131;segunda-feira, 20/09/2004;3;2;INTERNACIONAL/RS;VITORIA/BA;1;domingo, 19/09/2004;1;caixa;No
+131;segunda-feira, 20/09/2004;4;2;SANTOS/SP;ATLETICO/MG;0;sabado, 18/09/2004;1;caixa;No
+131;segunda-feira, 20/09/2004;5;4;FLAMENGO/RJ;GOIAS/GO;0;domingo, 19/09/2004;1;caixa;No
+131;segunda-feira, 20/09/2004;6;2;SAO CAETANO/SP;GREMIO/RS;0;sabado, 18/09/2004;1;caixa;No
+131;segunda-feira, 20/09/2004;7;0;PARANA/PR;GUARANI/SP;0;sabado, 18/09/2004;X;caixa;No
+131;segunda-feira, 20/09/2004;8;2;LONDRINA/PR;P. DESPORTOS/SP;2;sabado, 18/09/2004;X;caixa;No
+131;segunda-feira, 20/09/2004;9;0;JOINVILLE/SC;BRASILIENSE/DF;1;sabado, 18/09/2004;2;caixa;No
+131;segunda-feira, 20/09/2004;10;1;JUVENTUDE/RS;PONTE PRETA/SP;2;domingo, 19/09/2004;2;caixa;No
+131;segunda-feira, 20/09/2004;11;3;PAYSANDU/PA;FIGUEIRENSE/SC;1;domingo, 19/09/2004;1;caixa;No
+131;segunda-feira, 20/09/2004;12;0;CRICIUMA/SC;FLUMINENSE/RJ;2;sabado, 18/09/2004;2;caixa;No
+131;segunda-feira, 20/09/2004;13;0;CORITIBA/PR;PALMEIRAS/SP;0;domingo, 19/09/2004;X;caixa;No
+131;segunda-feira, 20/09/2004;14;2;CRUZEIRO/MG;ATHLETICO/PR;4;domingo, 19/09/2004;2;caixa;No
+132;segunda-feira, 27/09/2004;1;2;VASCO DA GAMA/RJ;PALMEIRAS/SP;5;domingo, 26/09/2004;2;caixa;No
+132;segunda-feira, 27/09/2004;2;2;GREMIO/RS;SAO PAULO/SP;1;sabado, 25/09/2004;1;caixa;No
+132;segunda-feira, 27/09/2004;3;2;ATHLETICO/PR;FLAMENGO/RJ;1;domingo, 26/09/2004;1;caixa;No
+132;segunda-feira, 27/09/2004;4;1;CORINTHIANS/SP;GOIAS/GO;0;domingo, 26/09/2004;1;caixa;No
+132;segunda-feira, 27/09/2004;5;1;ATLETICO/MG;INTERNACIONAL/RS;1;sabado, 25/09/2004;X;caixa;No
+132;segunda-feira, 27/09/2004;6;1;GUARANI/SP;FLUMINENSE/RJ;1;sabado, 25/09/2004;X;caixa;No
+132;segunda-feira, 27/09/2004;7;1;SAO CAETANO/SP;CORITIBA/PR;0;sabado, 25/09/2004;1;caixa;No
+132;segunda-feira, 27/09/2004;8;2;SANTA CRUZ/PE;SANTO ANDRE/SP;1;sabado, 25/09/2004;1;caixa;No
+132;segunda-feira, 27/09/2004;9;2;P. DESPORTOS/SP;FORTALEZA/CE;3;sabado, 25/09/2004;2;caixa;No
+132;segunda-feira, 27/09/2004;10;1;JUVENTUDE/RS;CRICIUMA/SC;0;domingo, 26/09/2004;1;caixa;No
+132;segunda-feira, 27/09/2004;11;2;ANAPOLINA/GO;BAHIA/BA;0;sabado, 25/09/2004;1;caixa;No
+132;segunda-feira, 27/09/2004;12;4;BOTAFOGO/RJ;PARANA/PR;3;domingo, 26/09/2004;1;caixa;No
+132;segunda-feira, 27/09/2004;13;3;PAYSANDU/PA;CRUZEIRO/MG;1;sabado, 25/09/2004;1;caixa;No
+132;segunda-feira, 27/09/2004;14;4;SANTOS/SP;VITORIA/BA;1;domingo, 26/09/2004;1;caixa;No
+133;segunda-feira, 04/10/2004;1;2;SAO PAULO/SP;PALMEIRAS/SP;1;sabado, 02/10/2004;1;caixa;No
+133;segunda-feira, 04/10/2004;2;1;FLUMINENSE/RJ;BOTAFOGO/RJ;4;sabado, 02/10/2004;2;caixa;No
+133;segunda-feira, 04/10/2004;3;2;VASCO DA GAMA/RJ;INTERNACIONAL/RS;0;sabado, 02/10/2004;1;caixa;No
+133;segunda-feira, 04/10/2004;4;5;ATHLETICO/PR;ATLETICO/MG;0;sabado, 02/10/2004;1;caixa;No
+133;segunda-feira, 04/10/2004;5;3;FIGUEIRENSE/SC;FLAMENGO/RJ;2;sabado, 02/10/2004;1;caixa;No
+133;segunda-feira, 04/10/2004;6;0;GUARANI/SP;SANTOS/SP;1;sabado, 02/10/2004;2;caixa;No
+133;segunda-feira, 04/10/2004;7;2;SAO CAETANO/SP;GOIAS/GO;0;sabado, 02/10/2004;1;caixa;No
+133;segunda-feira, 04/10/2004;8;3;GAMA/DF;PALMAS/TO;1;sabado, 02/10/2004;1;caixa;No
+133;segunda-feira, 04/10/2004;9;2;LIMOEIRO/CE;SAMPAIO CORREA/MA;1;sabado, 02/10/2004;1;caixa;No
+133;segunda-feira, 04/10/2004;10;4;VITORIA/BA;PAYSANDU/PA;1;sabado, 02/10/2004;1;caixa;No
+133;segunda-feira, 04/10/2004;11;1;PARANA/PR;CORITIBA/PR;0;sabado, 02/10/2004;1;caixa;No
+133;segunda-feira, 04/10/2004;12;5;CRUZEIRO/MG;PONTE PRETA/SP;0;sabado, 02/10/2004;1;caixa;No
+133;segunda-feira, 04/10/2004;13;2;GREMIO/RS;CRICIUMA/SC;0;sabado, 02/10/2004;1;caixa;No
+133;segunda-feira, 04/10/2004;14;1;CORINTHIANS/SP;JUVENTUDE/RS;2;sabado, 02/10/2004;2;caixa;No
+134;segunda-feira, 11/10/2004;1;1;SANTOS/SP;SAO PAULO/SP;0;domingo, 10/10/2004;1;caixa;No
+134;segunda-feira, 11/10/2004;2;3;INTERNACIONAL/RS;CRUZEIRO/MG;1;domingo, 10/10/2004;1;caixa;No
+134;segunda-feira, 11/10/2004;3;1;BAHIA/BA;NAUTICO/PE;0;domingo, 10/10/2004;1;caixa;No
+134;segunda-feira, 11/10/2004;4;2;GUARANI/SP;COMERCIAL/SP;0;domingo, 10/10/2004;1;caixa;No
+134;segunda-feira, 11/10/2004;5;1;AMERICA/SP;CORINTHIANS/SP;3;domingo, 10/10/2004;2;caixa;No
+134;segunda-feira, 11/10/2004;6;1;OSASCO/SP;NOROESTE/SP;0;domingo, 10/10/2004;1;caixa;No
+134;segunda-feira, 11/10/2004;7;1;JUVENTUS/SP;ITUANO/SP;0;domingo, 10/10/2004;1;caixa;No
+134;segunda-feira, 11/10/2004;8;0;RIO CLARO/SP;MIRASSOL/SP;1;domingo, 10/10/2004;2;caixa;No
+134;segunda-feira, 11/10/2004;9;2;ITARARE/SP;ASSISENSE/SP;1;domingo, 10/10/2004;1;caixa;No
+134;segunda-feira, 11/10/2004;10;1;CAMPINAS/SP;VOTUPORANGA/SP;6;domingo, 10/10/2004;2;caixa;No
+134;segunda-feira, 11/10/2004;11;1;SAO VICENTE/SP;CATANDUVENSE/SP;0;domingo, 10/10/2004;1;caixa;No
+134;segunda-feira, 11/10/2004;12;1;XV NOV PIRACICABA/SP;SERTAOZINHO/SP;2;domingo, 10/10/2004;2;caixa;No
+134;segunda-feira, 11/10/2004;13;2;BOTAFOGO/SP;P. DESPORTOS/SP;3;domingo, 10/10/2004;2;caixa;No
+134;segunda-feira, 11/10/2004;14;1;AVAI/SC;MARILIA/SP;0;domingo, 10/10/2004;1;caixa;No
+135;segunda-feira, 18/10/2004;1;3;INTERNACIONAL/RS;BOTAFOGO/RJ;1;domingo, 17/10/2004;1;caixa;No
+135;segunda-feira, 18/10/2004;2;0;ATLETICO/MG;SAO PAULO/SP;5;domingo, 17/10/2004;2;caixa;No
+135;segunda-feira, 18/10/2004;3;4;VITORIA/BA;VASCO DA GAMA/RJ;1;sabado, 16/10/2004;1;caixa;No
+135;segunda-feira, 18/10/2004;4;0;CORINTHIANS/SP;CORITIBA/PR;0;sabado, 16/10/2004;X;caixa;No
+135;segunda-feira, 18/10/2004;5;1;FLUMINENSE/RJ;GOIAS/GO;4;sabado, 16/10/2004;2;caixa;No
+135;segunda-feira, 18/10/2004;6;1;ATHLETICO/PR;PARANA/PR;1;domingo, 17/10/2004;X;caixa;No
+135;segunda-feira, 18/10/2004;7;2;FIGUEIRENSE/SC;GREMIO/RS;0;sabado, 16/10/2004;1;caixa;No
+135;segunda-feira, 18/10/2004;8;1;FORTALEZA/CE;SANTA CRUZ/PE;1;sabado, 16/10/2004;X;caixa;No
+135;segunda-feira, 18/10/2004;9;2;BRASILIENSE/DF;ITUANO/SP;0;sabado, 16/10/2004;1;caixa;No
+135;segunda-feira, 18/10/2004;10;3;SAO  CAETANO/SP;PAYSANDU/PA;0;domingo, 17/10/2004;1;caixa;No
+135;segunda-feira, 18/10/2004;11;0;JUVENTUDE/RS;PALMEIRAS/SP;2;domingo, 17/10/2004;2;caixa;No
+135;segunda-feira, 18/10/2004;12;2;GUARANI/SP;CRUZEIRO/MG;0;domingo, 17/10/2004;1;caixa;No
+135;segunda-feira, 18/10/2004;13;3;FLAMENGO/RJ;CRICIUMA/SC;1;domingo, 17/10/2004;1;caixa;No
+135;segunda-feira, 18/10/2004;14;4;SANTOS/SP;PONTE PRETA/SP;0;sabado, 16/10/2004;1;caixa;No
+136;segunda-feira, 25/10/2004;1;1;VASCO DA GAMA/RJ;FLAMENGO/RJ;0;domingo, 24/10/2004;1;caixa;No
+136;segunda-feira, 25/10/2004;2;1;SAO PAULO/SP;SANTOS/SP;0;domingo, 24/10/2004;1;caixa;No
+136;segunda-feira, 25/10/2004;3;1;GREMIO/RS;INTERNACIONAL/RS;3;sabado, 23/10/2004;2;caixa;No
+136;segunda-feira, 25/10/2004;4;0;CRUZEIRO/MG;ATLETICO/MG;3;sabado, 23/10/2004;2;caixa;No
+136;segunda-feira, 25/10/2004;5;3;PALMEIRAS/SP;ATHLETICO/PR;1;sabado, 23/10/2004;1;caixa;No
+136;segunda-feira, 25/10/2004;6;1;BOTAFOGO/RJ;VITORIA/BA;1;sabado, 23/10/2004;X;caixa;No
+136;segunda-feira, 25/10/2004;7;0;GUARANI/SP;PONTE PRETA/SP;0;domingo, 24/10/2004;X;caixa;No
+136;segunda-feira, 25/10/2004;8;0;SANTA CRUZ/PE;ITUANO/SP;0;;X;caixa;SIM
+136;segunda-feira, 25/10/2004;9;2;MARILIA/SP;NAUTICO/PE;1;sabado, 23/10/2004;1;caixa;No
+136;segunda-feira, 25/10/2004;10;2;CRICIUMA/SC;FIGUEIRENSE/SC;1;domingo, 24/10/2004;1;caixa;No
+136;segunda-feira, 25/10/2004;11;2;CORITIBA/PR;JUVENTUDE/RS;3;sabado, 23/10/2004;2;caixa;No
+136;segunda-feira, 25/10/2004;12;4;PAYSANDU/PA;GOIAS/GO;2;sabado, 23/10/2004;1;caixa;No
+136;segunda-feira, 25/10/2004;13;2;SAO  CAETANO/SP;FLUMINENSE/RJ;0;domingo, 24/10/2004;1;caixa;No
+136;segunda-feira, 25/10/2004;14;1;PARANA/PR;CORINTHIANS/SP;2;domingo, 24/10/2004;2;caixa;No
+137;segunda-feira, 01/11/2004;1;5;SANTOS/SP;FLUMINENSE/RJ;0;sabado, 30/10/2004;1;caixa;No
+137;segunda-feira, 01/11/2004;2;2;GREMIO/RS;PALMEIRAS/SP;3;sabado, 30/10/2004;2;caixa;No
+137;segunda-feira, 01/11/2004;3;2;BOTAFOGO/RJ;CRUZEIRO/MG;1;sabado, 30/10/2004;1;caixa;No
+137;segunda-feira, 01/11/2004;4;1;CORINTHIANS/SP;VITORIA/BA;0;sabado, 30/10/2004;1;caixa;No
+137;segunda-feira, 01/11/2004;5;2;ATHLETICO/PR;INTERNACIONAL/RS;1;sabado, 30/10/2004;1;caixa;No
+137;segunda-feira, 01/11/2004;6;2;VASCO DA GAMA/RJ;PONTE PRETA/SP;2;domingo, 31/10/2004;X;caixa;No
+137;segunda-feira, 01/11/2004;7;0;PAYSANDU/PA;CORITIBA/PR;0;sabado, 30/10/2004;X;caixa;No
+137;segunda-feira, 01/11/2004;8;1;BRASILIENSE/DF;SANTA CRUZ/PE;1;sabado, 30/10/2004;X;caixa;No
+137;segunda-feira, 01/11/2004;9;2;NAUTICO/PE;AVAI/SC;1;sabado, 30/10/2004;1;caixa;No
+137;segunda-feira, 01/11/2004;10;1;GUARANI/SP;GOIAS/GO;1;sabado, 30/10/2004;X;caixa;No
+137;segunda-feira, 01/11/2004;11;0;SAO  CAETANO/SP;PARANA/PR;1;;2;caixa;SIM
+137;segunda-feira, 01/11/2004;12;2;ATLETICO/MG;CRICIUMA/SC;2;sabado, 30/10/2004;X;caixa;No
+137;segunda-feira, 01/11/2004;13;1;FIGUEIRENSE/SC;SAO PAULO/SP;0;sabado, 30/10/2004;1;caixa;No
+137;segunda-feira, 01/11/2004;14;1;JUVENTUDE/RS;FLAMENGO/RJ;0;sabado, 30/10/2004;1;caixa;No
+138;segunda-feira, 08/11/2004;1;3;INTERNACIONAL/RS;CORINTHIANS/SP;0;domingo, 07/11/2004;1;caixa;No
+138;segunda-feira, 08/11/2004;2;3;CRUZEIRO/MG;VASCO DA GAMA/RJ;2;domingo, 07/11/2004;1;caixa;No
+138;segunda-feira, 08/11/2004;3;5;SAO PAULO/SP;BOTAFOGO/RJ;2;domingo, 07/11/2004;1;caixa;No
+138;segunda-feira, 08/11/2004;4;1;GOIAS/GO;ATLETICO/MG;0;sabado, 06/11/2004;1;caixa;No
+138;segunda-feira, 08/11/2004;5;1;CRICIUMA/SC;SANTOS/SP;1;domingo, 07/11/2004;X;caixa;No
+138;segunda-feira, 08/11/2004;6;1;FLAMENGO/RJ;GUARANI/SP;0;sabado, 06/11/2004;1;caixa;No
+138;segunda-feira, 08/11/2004;7;2;CORITIBA/PR;FIGUEIRENSE/SC;0;domingo, 07/11/2004;1;caixa;No
+138;segunda-feira, 08/11/2004;8;1;AMERICANO/RJ;LIMOEIRO/CE;0;domingo, 07/11/2004;1;caixa;No
+138;segunda-feira, 08/11/2004;9;0;BRASILIA/DF;PARANOA/DF;0;sabado, 06/11/2004;X;caixa;No
+138;segunda-feira, 08/11/2004;10;0;PONTE PRETA/SP;SAO CAETANO/SP;3;domingo, 07/11/2004;2;caixa;No
+138;segunda-feira, 08/11/2004;11;1;VITORIA/BA;JUVENTUDE/RS;1;domingo, 07/11/2004;X;caixa;No
+138;segunda-feira, 08/11/2004;12;1;PARANA/PR;GREMIO/RS;0;sabado, 06/11/2004;1;caixa;No
+138;segunda-feira, 08/11/2004;13;1;PALMEIRAS/SP;PAYSANDU/PA;0;sabado, 06/11/2004;1;caixa;No
+138;segunda-feira, 08/11/2004;14;1;FLUMINENSE/RJ;ATHLETICO/PR;2;domingo, 07/11/2004;2;caixa;No
+139;terca-feira, 16/11/2004;1;0;VASCO DA GAMA/RJ;SAO PAULO/SP;0;domingo, 14/11/2004;X;caixa;No
+139;terca-feira, 16/11/2004;2;1;CORINTHIANS/SP;FLUMINENSE/RJ;1;sabado, 13/11/2004;X;caixa;No
+139;terca-feira, 16/11/2004;3;2;JUVENTUDE/RS;INTERNACIONAL/RS;3;domingo, 14/11/2004;2;caixa;No
+139;terca-feira, 16/11/2004;4;6;ATLETICO/MG;FLAMENGO/RJ;1;domingo, 14/11/2004;1;caixa;No
+139;terca-feira, 16/11/2004;5;2;SANTOS/SP;GOIAS/GO;1;domingo, 14/11/2004;1;caixa;No
+139;terca-feira, 16/11/2004;6;6;GREMIO/RS;PONTE PRETA/SP;1;sabado, 13/11/2004;1;caixa;No
+139;terca-feira, 16/11/2004;7;0;FIGUEIRENSE/SC;PALMEIRAS/SP;1;domingo, 14/11/2004;2;caixa;No
+139;terca-feira, 16/11/2004;8;1;FORTALEZA/CE;BRASILIENSE/DF;0;sabado, 13/11/2004;1;caixa;No
+139;terca-feira, 16/11/2004;9;1;BAHIA/BA;AVAI/SC;1;sabado, 13/11/2004;X;caixa;No
+139;terca-feira, 16/11/2004;10;1;PAYSANDU/PA;PARANA/PR;1;domingo, 14/11/2004;X;caixa;No
+139;terca-feira, 16/11/2004;11;0;GUARANI/SP;VITORIA/BA;0;domingo, 14/11/2004;X;caixa;No
+139;terca-feira, 16/11/2004;12;6;ATHLETICO/PR;CRICIUMA/SC;1;domingo, 14/11/2004;1;caixa;No
+139;terca-feira, 16/11/2004;13;4;BOTAFOGO/RJ;CORITIBA/PR;1;sabado, 13/11/2004;1;caixa;No
+139;terca-feira, 16/11/2004;14;4;SAO  CAETANO/SP;CRUZEIRO/MG;1;sabado, 13/11/2004;1;caixa;No
+140;segunda-feira, 22/11/2004;1;0;FLAMENGO/RJ;BOTAFOGO/RJ;0;domingo, 21/11/2004;X;caixa;No
+140;segunda-feira, 22/11/2004;2;0;CRUZEIRO/MG;CORINTHIANS/SP;1;domingo, 21/11/2004;2;caixa;No
+140;segunda-feira, 22/11/2004;3;3;GOIAS/GO;VASCO DA GAMA/RJ;2;domingo, 21/11/2004;1;caixa;No
+140;segunda-feira, 22/11/2004;4;0;CORITIBA/PR;SANTOS/SP;1;domingo, 21/11/2004;2;caixa;No
+140;segunda-feira, 22/11/2004;5;2;VITORIA/BA;GREMIO/RS;0;sabado, 20/11/2004;1;caixa;No
+140;segunda-feira, 22/11/2004;6;4;SAO PAULO/SP;JUVENTUDE/RS;0;domingo, 21/11/2004;1;caixa;No
+140;segunda-feira, 22/11/2004;7;1;PARANA/PR;ATLETICO/MG;0;sabado, 20/11/2004;1;caixa;No
+140;segunda-feira, 22/11/2004;8;2;BAHIA/BA;FORTALEZA/CE;0;sabado, 20/11/2004;1;caixa;No
+140;segunda-feira, 22/11/2004;9;1;AVAI/SC;BRASILIENSE/DF;0;sabado, 20/11/2004;1;caixa;No
+140;segunda-feira, 22/11/2004;10;1;CRICIUMA/SC;PAYSANDU/PA;0;domingo, 21/11/2004;1;caixa;No
+140;segunda-feira, 22/11/2004;11;2;PONTE PRETA/SP;ATHLETICO/PR;3;domingo, 21/11/2004;2;caixa;No
+140;segunda-feira, 22/11/2004;12;0;FLUMINENSE/RJ;FIGUEIRENSE/SC;2;sabado, 20/11/2004;2;caixa;No
+140;segunda-feira, 22/11/2004;13;1;INTERNACIONAL/RS;SAO CAETANO/SP;0;domingo, 21/11/2004;1;caixa;No
+140;segunda-feira, 22/11/2004;14;0;PALMEIRAS/SP;GUARANI/SP;2;sabado, 20/11/2004;2;caixa;No
+141;segunda-feira, 29/11/2004;1;1;PALMEIRAS/SP;FLAMENGO/RJ;2;domingo, 28/11/2004;2;caixa;No
+141;segunda-feira, 29/11/2004;2;2;SAO PAULO/SP;INTERNACIONAL/RS;1;sabado, 27/11/2004;1;caixa;No
+141;segunda-feira, 29/11/2004;3;2;CRUZEIRO/MG;FLUMINENSE/RJ;3;sabado, 27/11/2004;2;caixa;No
+141;segunda-feira, 29/11/2004;4;3;GREMIO/RS;ATHLETICO/PR;3;domingo, 28/11/2004;X;caixa;No
+141;segunda-feira, 29/11/2004;5;2;SAO CAETANO/SP;CORINTHIANS/SP;1;domingo, 28/11/2004;1;caixa;No
+141;segunda-feira, 29/11/2004;6;2;FIGUEIRENSE/SC;ATLETICO/MG;1;sabado, 27/11/2004;1;caixa;No
+141;segunda-feira, 29/11/2004;7;1;BOTAFOGO/RJ;GUARANI/SP;0;sabado, 27/11/2004;1;caixa;No
+141;segunda-feira, 29/11/2004;8;2;BRASILIENSE/DF;AVAI/SC;0;sabado, 27/11/2004;1;caixa;No
+141;segunda-feira, 29/11/2004;9;1;FORTALEZA/CE;BAHIA/BA;1;sabado, 27/11/2004;X;caixa;No
+141;segunda-feira, 29/11/2004;10;2;PARANA/PR;GOIAS/GO;1;sabado, 27/11/2004;1;caixa;No
+141;segunda-feira, 29/11/2004;11;1;PONTE PRETA/SP;CRICIUMA/SC;0;domingo, 28/11/2004;1;caixa;No
+141;segunda-feira, 29/11/2004;12;5;CORITIBA/PR;VITORIA/BA;1;domingo, 28/11/2004;1;caixa;No
+141;segunda-feira, 29/11/2004;13;1;PAYSANDU/PA;SANTOS/SP;1;domingo, 28/11/2004;X;caixa;No
+141;segunda-feira, 29/11/2004;14;1;VASCO DA GAMA/RJ;JUVENTUDE/RS;1;domingo, 28/11/2004;X;caixa;No
+142;segunda-feira, 06/12/2004;1;3;CORINTHIANS/SP;VASCO DA GAMA/RJ;1;sabado, 04/12/2004;1;caixa;No
+142;segunda-feira, 06/12/2004;2;5;SANTOS/SP;GREMIO/RS;1;domingo, 05/12/2004;1;caixa;No
+142;segunda-feira, 06/12/2004;3;5;ATHLETICO/PR;SAO CAETANO/SP;2;domingo, 05/12/2004;1;caixa;No
+142;segunda-feira, 06/12/2004;4;2;INTERNACIONAL/RS;CRUZEIRO/MG;0;domingo, 05/12/2004;1;caixa;No
+142;segunda-feira, 06/12/2004;5;0;GOIAS/GO;PALMEIRAS/SP;0;sabado, 04/12/2004;X;caixa;No
+142;segunda-feira, 06/12/2004;6;1;FLUMINENSE/RJ;PONTE PRETA/SP;0;sabado, 04/12/2004;1;caixa;No
+142;segunda-feira, 06/12/2004;7;1;CRICIUMA/SC;PARANA/PR;2;sabado, 04/12/2004;2;caixa;No
+142;segunda-feira, 06/12/2004;8;1;BRASILIENSE/DF;FORTALEZA/CE;0;sabado, 04/12/2004;1;caixa;No
+142;segunda-feira, 06/12/2004;9;2;AVAI/SC;BAHIA/BA;0;sabado, 04/12/2004;1;caixa;No
+142;segunda-feira, 06/12/2004;10;2;GUARANI/SP;FIGUEIRENSE/SC;1;sabado, 04/12/2004;1;caixa;No
+142;segunda-feira, 06/12/2004;11;1;JUVENTUDE/RS;BOTAFOGO/RJ;0;domingo, 05/12/2004;1;caixa;No
+142;segunda-feira, 06/12/2004;12;0;ATLETICO/MG;PAYSANDU/PA;0;sabado, 04/12/2004;X;caixa;No
+142;segunda-feira, 06/12/2004;13;0;FLAMENGO/RJ;CORITIBA/PR;0;domingo, 05/12/2004;X;caixa;No
+142;segunda-feira, 06/12/2004;14;1;VITORIA/BA;SAO PAULO/SP;4;domingo, 05/12/2004;2;caixa;No
+143;segunda-feira, 13/12/2004;1;1;SAO PAULO/SP;FLAMENGO/RJ;1;domingo, 12/12/2004;X;caixa;No
+143;segunda-feira, 13/12/2004;2;1;BOTAFOGO/RJ;CORINTHIANS/SP;2;domingo, 12/12/2004;2;caixa;No
+143;segunda-feira, 13/12/2004;3;0;GREMIO/RS;ATLETICO/MG;1;sabado, 11/12/2004;2;caixa;No
+143;segunda-feira, 13/12/2004;4;0;SAO  CAETANO/SP;SANTOS/SP;3;domingo, 12/12/2004;2;caixa;No
+143;segunda-feira, 13/12/2004;5;1;VASCO DA GAMA/RJ;ATHLETICO/PR;0;domingo, 12/12/2004;1;caixa;No
+143;segunda-feira, 13/12/2004;6;1;PONTE PRETA/SP;INTERNACIONAL/RS;2;domingo, 12/12/2004;2;caixa;No
+143;segunda-feira, 13/12/2004;7;1;CORITIBA/PR;GOIAS/GO;0;domingo, 12/12/2004;1;caixa;No
+143;segunda-feira, 13/12/2004;8;2;BAHIA/BA;BRASILIENSE/DF;3;sabado, 11/12/2004;2;caixa;No
+143;segunda-feira, 13/12/2004;9;2;FORTALEZA/CE;AVAI/SC;0;sabado, 11/12/2004;1;caixa;No
+143;segunda-feira, 13/12/2004;10;4;PAYSANDU/PA;GUARANI/SP;2;sabado, 11/12/2004;1;caixa;No
+143;segunda-feira, 13/12/2004;11;1;FIGUEIRENSE/SC;JUVENTUDE/RS;0;domingo, 12/12/2004;1;caixa;No
+143;segunda-feira, 13/12/2004;12;0;PARANA/PR;FLUMINENSE/RJ;1;sabado, 11/12/2004;2;caixa;No
+143;segunda-feira, 13/12/2004;13;4;CRUZEIRO/MG;VITORIA/BA;0;domingo, 12/12/2004;1;caixa;No
+143;segunda-feira, 13/12/2004;14;3;PALMEIRAS/SP;CRICIUMA/SC;2;sabado, 11/12/2004;1;caixa;No
+144;segunda-feira, 20/12/2004;1;2;SANTOS/SP;VASCO DA GAMA/RJ;1;domingo, 19/12/2004;1;caixa;No
+144;segunda-feira, 20/12/2004;2;1;FLUMINENSE/RJ;PALMEIRAS/SP;1;domingo, 19/12/2004;X;caixa;No
+144;segunda-feira, 20/12/2004;3;1;ATHLETICO/PR;BOTAFOGO/RJ;1;domingo, 19/12/2004;X;caixa;No
+144;segunda-feira, 20/12/2004;4;6;FLAMENGO/RJ;CRUZEIRO/MG;2;domingo, 19/12/2004;1;caixa;No
+144;segunda-feira, 20/12/2004;5;2;GOIAS/GO;SAO PAULO/SP;0;domingo, 19/12/2004;1;caixa;No
+144;segunda-feira, 20/12/2004;6;2;GUARANI/SP;GREMIO/RS;0;domingo, 19/12/2004;1;caixa;No
+144;segunda-feira, 20/12/2004;7;3;CRICIUMA/SC;CORITIBA/PR;3;domingo, 19/12/2004;X;caixa;No
+144;segunda-feira, 20/12/2004;8;2;BRAGANTINO/PA;TUNA LUSO/PA;1;domingo, 19/12/2004;1;caixa;No
+144;segunda-feira, 20/12/2004;9;3;AGUIA/PA;PEDREIRA/PA;2;domingo, 19/12/2004;1;caixa;No
+144;segunda-feira, 20/12/2004;10;1;JUVENTUDE/RS;PAYSANDU/PA;2;domingo, 19/12/2004;2;caixa;No
+144;segunda-feira, 20/12/2004;11;1;VITORIA/BA;PONTE PRETA/SP;2;domingo, 19/12/2004;2;caixa;No
+144;segunda-feira, 20/12/2004;12;2;INTERNACIONAL/RS;PARANA/PR;1;domingo, 19/12/2004;1;caixa;No
+144;segunda-feira, 20/12/2004;13;3;ATLETICO/MG;SAO  CAETANO/SP;0;domingo, 19/12/2004;1;caixa;No
+144;segunda-feira, 20/12/2004;14;5;CORINTHIANS/SP;FIGUEIRENSE/SC;2;domingo, 19/12/2004;1;caixa;No
+145;segunda-feira, 10/01/2005;1;2;REMO;FLAMENGO;3;domingo, 09/01/2005;2;caixa;No
+145;segunda-feira, 10/01/2005;2;1;TREZE;CORINTHIANS;7;domingo, 09/01/2005;2;caixa;No
+145;segunda-feira, 10/01/2005;3;2;ESTRELA DO NORTE;SAO PAULO;1;sabado, 08/01/2005;1;caixa;No
+145;segunda-feira, 10/01/2005;4;0;PALMAS;ATLETICO;0;domingo, 09/01/2005;X;caixa;No
+145;segunda-feira, 10/01/2005;5;1;BATATAIS;CRUZEIRO;3;domingo, 09/01/2005;2;caixa;No
+145;segunda-feira, 10/01/2005;6;0;PAULISTA;CRICIUMA;4;domingo, 09/01/2005;2;caixa;No
+145;segunda-feira, 10/01/2005;7;1;UNIAO SAO JOAO;MOGI MIRIM;0;domingo, 09/01/2005;1;caixa;No
+145;segunda-feira, 10/01/2005;8;1;BELEM/PA;TUNA LUSO/PA;4;domingo, 09/01/2005;2;caixa;No
+145;segunda-feira, 10/01/2005;9;3;COMERCIAL;BRASILIENSE;0;domingo, 09/01/2005;1;caixa;No
+145;segunda-feira, 10/01/2005;10;2;QUIXADA/CE;CEARA/CE;0;domingo, 09/01/2005;1;caixa;No
+145;segunda-feira, 10/01/2005;11;1;OSASCO;VILA NOVA;2;domingo, 09/01/2005;2;caixa;No
+145;segunda-feira, 10/01/2005;12;0;SANTA INES;GREMIO;4;domingo, 09/01/2005;2;caixa;No
+145;segunda-feira, 10/01/2005;13;4;MADUREIRA;FIGUEIRENSE;1;domingo, 09/01/2005;1;caixa;No
+145;segunda-feira, 10/01/2005;14;1;BARRA;BOTAFOGO;2;domingo, 09/01/2005;2;caixa;No
+146;segunda-feira, 17/01/2005;1;1;BRASILIENSE/DF;LUZIANIA/GO;0;domingo, 16/01/2005;1;caixa;No
+146;segunda-feira, 17/01/2005;2;0;GOIAS/GO;VILA NOVA/GO;1;domingo, 16/01/2005;2;caixa;No
+146;segunda-feira, 17/01/2005;3;0;CAMACARI/BA;VITORIA/BA;2;domingo, 16/01/2005;2;caixa;No
+146;segunda-feira, 17/01/2005;4;1;FORTALEZA/CE;FERROVIARIO/CE;1;domingo, 16/01/2005;X;caixa;No
+146;segunda-feira, 17/01/2005;5;0;GOIANIA/GO;CRAC/GO;1;sabado, 15/01/2005;2;caixa;No
+146;segunda-feira, 17/01/2005;6;0;BANDEIRANTE/DF;CFZ-BSB/DF;2;sabado, 15/01/2005;2;caixa;No
+146;segunda-feira, 17/01/2005;7;0;CEARA/CE;UNICLINIC/CE;4;domingo, 16/01/2005;2;caixa;No
+146;segunda-feira, 17/01/2005;8;1;POCOES/BA;JUAZEIRO/BA;2;domingo, 16/01/2005;2;caixa;No
+146;segunda-feira, 17/01/2005;9;0;ITABUNA/BA;FLUMINENSE/BA;2;domingo, 16/01/2005;2;caixa;No
+146;segunda-feira, 17/01/2005;10;2;ITUMBIARA/GO;GOIATUBA/GO;2;domingo, 16/01/2005;X;caixa;No
+146;segunda-feira, 17/01/2005;11;0;SOBRADINHO/DF;DOM PEDRO II/DF;2;domingo, 16/01/2005;2;caixa;No
+146;segunda-feira, 17/01/2005;12;3;GAMA/DF;SANTA MARIA/DF;1;domingo, 16/01/2005;1;caixa;No
+146;segunda-feira, 17/01/2005;13;2;ANAPOLIS/GO;ANAPOLINA/GO;1;domingo, 16/01/2005;1;caixa;No
+146;segunda-feira, 17/01/2005;14;0;BAHIA/BA;IPITANGA/BA;1;domingo, 16/01/2005;2;caixa;No
+147;segunda-feira, 24/01/2005;1;1;PONTE PRETA/SP;SANTOS/SP;2;domingo, 23/01/2005;2;caixa;No
+147;segunda-feira, 24/01/2005;2;0;FLAMENGO/RJ;OLARIA/RJ;3;domingo, 23/01/2005;2;caixa;No
+147;segunda-feira, 24/01/2005;3;1;CEARA/CE;FORTALEZA/CE;1;domingo, 23/01/2005;X;caixa;No
+147;segunda-feira, 24/01/2005;4;2;PALMEIRAS/SP;SANTO ANDRE/SP;1;domingo, 23/01/2005;1;caixa;No
+147;segunda-feira, 24/01/2005;5;3;BOTAFOGO/RJ;AMERICA/RJ;2;sabado, 22/01/2005;1;caixa;No
+147;segunda-feira, 24/01/2005;6;3;FLUMINENSE/RJ;MADUREIRA/RJ;1;domingo, 23/01/2005;1;caixa;No
+147;segunda-feira, 24/01/2005;7;3;GOIAS/GO;ANAPOLINA/GO;2;sabado, 22/01/2005;1;caixa;No
+147;segunda-feira, 24/01/2005;8;2;VASCO DA GAMA/RJ;P./RJ;1;domingo, 23/01/2005;1;caixa;No
+147;segunda-feira, 24/01/2005;9;1;MARILIA/SP;CORINTHIANS/SP;0;sabado, 22/01/2005;1;caixa;No
+147;segunda-feira, 24/01/2005;10;1;P. DESPORTOS/SP;GUARANI/SP;2;domingo, 23/01/2005;2;caixa;No
+147;segunda-feira, 24/01/2005;11;4;ITUANO/SP;RIO BRANCO/SP;2;domingo, 23/01/2005;1;caixa;No
+147;segunda-feira, 24/01/2005;12;4;PAULISTA/SP;SAO CAETANO/SP;1;sabado, 22/01/2005;1;caixa;No
+147;segunda-feira, 24/01/2005;13;2;AMERICANO/RJ;CABOFRIENSE/RJ;1;domingo, 23/01/2005;1;caixa;No
+147;segunda-feira, 24/01/2005;14;3;AMERICA/SP;SAO PAULO/SP;4;domingo, 23/01/2005;2;caixa;No
+148;segunda-feira, 31/01/2005;1;1;VASCO DA GAMA/RJ;BOTAFOGO/RJ;1;domingo, 30/01/2005;X;caixa;No
+148;segunda-feira, 31/01/2005;2;1;CORINTHIANS/SP;AMERICA/SP;0;sabado, 29/01/2005;1;caixa;No
+148;segunda-feira, 31/01/2005;3;2;CRUZEIRO/MG;DEMOCRATA/MG;0;sabado, 29/01/2005;1;caixa;No
+148;segunda-feira, 31/01/2005;4;1;BAHIA/BA;VITORIA/BA;1;domingo, 30/01/2005;X;caixa;No
+148;segunda-feira, 31/01/2005;5;0;GREMIO/RS;CAXIAS/RS;0;domingo, 30/01/2005;X;caixa;No
+148;segunda-feira, 31/01/2005;6;1;SANTOS/SP;PORT.SANTISTA/SP;1;domingo, 30/01/2005;X;caixa;No
+148;segunda-feira, 31/01/2005;7;2;SAO PAULO/SP;UNIAO SAO JOAO/SP;1;domingo, 30/01/2005;1;caixa;No
+148;segunda-feira, 31/01/2005;8;1;ITUMBIARA/GO;GOIAS/GO;3;domingo, 30/01/2005;2;caixa;No
+148;segunda-feira, 31/01/2005;9;2;PAYSANDU/PA;REMO/PA;1;domingo, 30/01/2005;1;caixa;No
+148;segunda-feira, 31/01/2005;10;2;ATLETICO/MG;VALERIODOCE/MG;3;domingo, 30/01/2005;2;caixa;No
+148;segunda-feira, 31/01/2005;11;2;GUARANI/SP;PONTE PRETA/SP;2;sabado, 29/01/2005;X;caixa;No
+148;segunda-feira, 31/01/2005;12;2;OLARIA/RJ;FLUMINENSE/RJ;2;domingo, 30/01/2005;X;caixa;No
+148;segunda-feira, 31/01/2005;13;2;CABOFRIENSE/RJ;FLAMENGO/RJ;1;sabado, 29/01/2005;1;caixa;No
+148;segunda-feira, 31/01/2005;14;1;SAO CAETANO/SP;PALMEIRAS/SP;0;domingo, 30/01/2005;1;caixa;No
+149;quarta-feira, 09/02/2005;1;2;FLUMINENSE/RJ;FLAMENGO/RJ;2;sabado, 05/02/2005;X;caixa;No
+149;quarta-feira, 09/02/2005;2;2;UNIAO BARBARENSE/SP;SAO PAULO/SP;2;sabado, 05/02/2005;X;caixa;No
+149;quarta-feira, 09/02/2005;3;0;INTERNACIONAL/RS;GLORIA/RS;0;sabado, 05/02/2005;X;caixa;No
+149;quarta-feira, 09/02/2005;4;1;VILLA NOVA/MG;CRUZEIRO/MG;2;sabado, 05/02/2005;2;caixa;No
+149;quarta-feira, 09/02/2005;5;0;INTER LIMEIRA/SP;CORINTHIANS/SP;2;sabado, 05/02/2005;2;caixa;No
+149;quarta-feira, 09/02/2005;6;3;RIO BRANCO/SP;SAO CAETANO/SP;2;sabado, 05/02/2005;1;caixa;No
+149;quarta-feira, 09/02/2005;7;3;MOGI MIRIM/SP;ITUANO/SP;1;sabado, 05/02/2005;1;caixa;No
+149;quarta-feira, 09/02/2005;8;2;VILA NOVA/GO;ANAPOLIS/GO;1;domingo, 06/02/2005;1;caixa;No
+149;quarta-feira, 09/02/2005;9;0;GUARA/DF;GAMA/DF;1;domingo, 06/02/2005;2;caixa;No
+149;quarta-feira, 09/02/2005;10;2;ITUIUTABA/MG;ATLETICO/MG;3;domingo, 06/02/2005;2;caixa;No
+149;quarta-feira, 09/02/2005;11;1;BRASIL/RS;GREMIO/RS;0;sabado, 05/02/2005;1;caixa;No
+149;quarta-feira, 09/02/2005;12;2;AMERICANO/RJ;OLARIA/RJ;1;sabado, 05/02/2005;1;caixa;No
+149;quarta-feira, 09/02/2005;13;1;PORT.SANTISTA/SP;PALMEIRAS/SP;0;sabado, 05/02/2005;1;caixa;No
+149;quarta-feira, 09/02/2005;14;0;SOROCABA/SP;SANTOS/SP;1;sabado, 05/02/2005;2;caixa;No
+150;segunda-feira, 14/02/2005;1;3;SANTOS/SP;CORINTHIANS/SP;0;domingo, 13/02/2005;1;caixa;No
+150;segunda-feira, 14/02/2005;2;1;SANTA CRUZ/RS;INTERNACIONAL/RS;0;domingo, 13/02/2005;1;caixa;No
+150;segunda-feira, 14/02/2005;3;4;ATLETICO/MG;VILLA NOVA/MG;1;sabado, 12/02/2005;1;caixa;No
+150;segunda-feira, 14/02/2005;4;1;PARANA/PR;CORITIBA/PR;3;domingo, 13/02/2005;2;caixa;No
+150;segunda-feira, 14/02/2005;5;2;UNIAO SAO JOAO/SP;PALMEIRAS/SP;2;domingo, 13/02/2005;X;caixa;No
+150;segunda-feira, 14/02/2005;6;2;GOIAS/GO;GOIANIA/GO;2;sabado, 12/02/2005;X;caixa;No
+150;segunda-feira, 14/02/2005;7;1;GUARANI/SP;SAO  CAETANO/SP;0;domingo, 13/02/2005;1;caixa;No
+150;segunda-feira, 14/02/2005;8;2;PAULISTA/SP;PONTE PRETA/SP;1;domingo, 13/02/2005;1;caixa;No
+150;segunda-feira, 14/02/2005;9;4;GREMIO/RS;SAO JOSE (C S)/RS;1;domingo, 13/02/2005;1;caixa;No
+150;segunda-feira, 14/02/2005;10;2;GAMA/DF;BRASILIENSE/DF;2;domingo, 13/02/2005;X;caixa;No
+150;segunda-feira, 14/02/2005;11;1;CATUENSE/BA;VITORIA/BA;1;sabado, 12/02/2005;X;caixa;No
+150;segunda-feira, 14/02/2005;12;1;AVAI/SC;FIGUEIRENSE/SC;0;domingo, 13/02/2005;1;caixa;No
+150;segunda-feira, 14/02/2005;13;1;CRUZEIRO/MG;GUARANI/MG;0;domingo, 13/02/2005;1;caixa;No
+150;segunda-feira, 14/02/2005;14;4;SAO PAULO/SP;SOROCABA/SP;1;sabado, 12/02/2005;1;caixa;No
+151;segunda-feira, 21/02/2005;1;0;PALMEIRAS/SP;SAO PAULO/SP;3;domingo, 20/02/2005;2;caixa;No
+151;segunda-feira, 21/02/2005;2;0;CRUZEIRO/MG;ATLETICO/MG;2;domingo, 20/02/2005;2;caixa;No
+151;segunda-feira, 21/02/2005;3;6;VITORIA/BA;BAHIA/BA;2;domingo, 20/02/2005;1;caixa;No
+151;segunda-feira, 21/02/2005;4;2;NAUTICO/PE;SANTA CRUZ/PE;3;domingo, 20/02/2005;2;caixa;No
+151;segunda-feira, 21/02/2005;5;2;SAO JOSE (C S)/RS;GREMIO/RS;1;domingo, 20/02/2005;1;caixa;No
+151;segunda-feira, 21/02/2005;6;3;SAO CAETANO/SP;AMERICA/SP;1;domingo, 20/02/2005;1;caixa;No
+151;segunda-feira, 21/02/2005;7;1;MOGI MIRIM/SP;GUARANI/SP;0;domingo, 20/02/2005;1;caixa;No
+151;segunda-feira, 21/02/2005;8;1;ANAPOLINA/GO;GOIAS/GO;6;domingo, 20/02/2005;2;caixa;No
+151;segunda-feira, 21/02/2005;9;4;JOINVILLE/SC;MARCILIO DIAS/SC;1;sabado, 19/02/2005;1;caixa;No
+151;segunda-feira, 21/02/2005;10;4;SERRA/ES;VITORIA/ES;1;sabado, 19/02/2005;1;caixa;No
+151;segunda-feira, 21/02/2005;11;2;INTERNACIONAL/RS;SANTA CRUZ/RS;0;domingo, 20/02/2005;1;caixa;No
+151;segunda-feira, 21/02/2005;12;2;INTER LIMEIRA/SP;P. DESPORTOS/SP;1;domingo, 20/02/2005;1;caixa;No
+151;segunda-feira, 21/02/2005;13;1;ITUANO/SP;SANTOS/SP;1;domingo, 20/02/2005;X;caixa;No
+151;segunda-feira, 21/02/2005;14;0;PAULISTA/SP;CORINTHIANS/SP;0;domingo, 20/02/2005;X;caixa;No
+152;terca-feira, 01/03/2005;1;1;SAO PAULO/SP;CORINTHIANS/SP;0;domingo, 27/02/2005;1;caixa;No
+152;terca-feira, 01/03/2005;2;2;VASCO DA GAMA/RJ;FLUMINENSE/RJ;1;domingo, 27/02/2005;1;caixa;No
+152;terca-feira, 01/03/2005;3;0;AMERICA/MG;CRUZEIRO/MG;4;domingo, 27/02/2005;2;caixa;No
+152;terca-feira, 01/03/2005;4;1;VILA NOVA/GO;GOIAS/GO;0;domingo, 27/02/2005;1;caixa;No
+152;terca-feira, 01/03/2005;5;1;INTERNACIONAL/RS;VERANOPOLIS/RS;0;domingo, 27/02/2005;1;caixa;No
+152;terca-feira, 01/03/2005;6;2;VOLTA REDONDA/RJ;FLAMENGO/RJ;1;domingo, 27/02/2005;1;caixa;No
+152;terca-feira, 01/03/2005;7;2;INTER LIMEIRA/SP;GUARANI/SP;2;domingo, 27/02/2005;X;caixa;No
+152;terca-feira, 01/03/2005;8;1;MAMORE/MG;ATLETICO/MG;2;sabado, 26/02/2005;2;caixa;No
+152;terca-feira, 01/03/2005;9;2;GUARA/DF;BRASILIENSE/DF;2;domingo, 27/02/2005;X;caixa;No
+152;terca-feira, 01/03/2005;10;1;ATHLETICO/PR;PARANAVAI/PR;0;;1;caixa;SIM
+152;terca-feira, 01/03/2005;11;1;AGUIA/PA;REMO/PA;2;segunda-feira, 28/02/2005;2;caixa;No
+152;terca-feira, 01/03/2005;12;1;ITUANO/SP;PALMEIRAS/SP;4;domingo, 27/02/2005;2;caixa;No
+152;terca-feira, 01/03/2005;13;3;SANTOS/SP;SAO CAETANO/SP;2;domingo, 27/02/2005;1;caixa;No
+152;terca-feira, 01/03/2005;14;0;AMERICANO/RJ;BOTAFOGO/RJ;2;sabado, 26/02/2005;2;caixa;No
+153;segunda-feira, 07/03/2005;1;2;FLAMENGO/RJ;BOTAFOGO/RJ;2;domingo, 06/03/2005;X;caixa;No
+153;segunda-feira, 07/03/2005;2;3;PALMEIRAS/SP;SANTOS/SP;1;domingo, 06/03/2005;1;caixa;No
+153;segunda-feira, 07/03/2005;3;1;GLORIA/RS;INTERNACIONAL/RS;2;domingo, 06/03/2005;2;caixa;No
+153;segunda-feira, 07/03/2005;4;2;PAULISTA/SP;SAO PAULO/SP;2;domingo, 06/03/2005;X;caixa;No
+153;segunda-feira, 07/03/2005;5;2;GUARANI/MG;ATLETICO/MG;1;sabado, 05/03/2005;1;caixa;No
+153;segunda-feira, 07/03/2005;6;0;SANTO ANDRE/SP;SAO CAETANO/SP;1;domingo, 06/03/2005;2;caixa;No
+153;segunda-feira, 07/03/2005;7;0;RIO BRANCO/SP;PONTE PRETA/SP;1;sabado, 05/03/2005;2;caixa;No
+153;segunda-feira, 07/03/2005;8;3;GREMIO/RS;BRASIL/RS;1;domingo, 06/03/2005;1;caixa;No
+153;segunda-feira, 07/03/2005;9;2;GAMA/DF;GUARA/DF;1;domingo, 06/03/2005;1;caixa;No
+153;segunda-feira, 07/03/2005;10;2;CRAC/GO;GOIAS/GO;1;domingo, 06/03/2005;1;caixa;No
+153;segunda-feira, 07/03/2005;11;0;CRUZEIRO/MG;CALDENSE/MG;0;domingo, 06/03/2005;X;caixa;No
+153;segunda-feira, 07/03/2005;12;0;PORTUGUESA/RJ;FLUMINENSE/RJ;3;sabado, 05/03/2005;2;caixa;No
+153;segunda-feira, 07/03/2005;13;3;CABOFRIENSE/RJ;VASCO DA GAMA/RJ;2;domingo, 06/03/2005;1;caixa;No
+153;segunda-feira, 07/03/2005;14;6;CORINTHIANS/SP;UNIAO SAO JOAO/SP;1;sabado, 05/03/2005;1;caixa;No
+154;segunda-feira, 14/03/2005;1;4;FLUMINENSE/RJ;BOTAFOGO/RJ;0;domingo, 13/03/2005;1;caixa;No
+154;segunda-feira, 14/03/2005;2;2;SANTO ANDRE/SP;CORINTHIANS/SP;3;domingo, 13/03/2005;2;caixa;No
+154;segunda-feira, 14/03/2005;3;1;AMERICA/MG;ATLETICO/MG;0;domingo, 13/03/2005;1;caixa;No
+154;segunda-feira, 14/03/2005;4;3;CAXIAS/RS;GREMIO/RS;0;domingo, 13/03/2005;1;caixa;No
+154;segunda-feira, 14/03/2005;5;3;FORTALEZA/CE;CEARA/CE;0;domingo, 13/03/2005;1;caixa;No
+154;segunda-feira, 14/03/2005;6;1;FLAMENGO/RJ;FRIBURGUENSE/RJ;0;sabado, 12/03/2005;1;caixa;No
+154;segunda-feira, 14/03/2005;7;0;BRASILIENSE/DF;GAMA/DF;0;sabado, 12/03/2005;X;caixa;No
+154;segunda-feira, 14/03/2005;8;2;SAO  CAETANO/SP;INTER LIMEIRA/SP;2;sabado, 12/03/2005;X;caixa;No
+154;segunda-feira, 14/03/2005;9;1;SAO PAULO/SP;RIO BRANCO/SP;0;sabado, 12/03/2005;1;caixa;No
+154;segunda-feira, 14/03/2005;10;1;VILA NOVA/GO;ANAPOLINA/GO;0;domingo, 13/03/2005;1;caixa;No
+154;segunda-feira, 14/03/2005;11;1;VALERIODOCE/MG;CRUZEIRO/MG;5;sabado, 12/03/2005;2;caixa;No
+154;segunda-feira, 14/03/2005;12;2;VASCO DA GAMA/RJ;AMERICANO/RJ;0;domingo, 13/03/2005;1;caixa;No
+154;segunda-feira, 14/03/2005;13;1;PALMEIRAS/SP;PORTUGUESA/SP;2;domingo, 13/03/2005;2;caixa;No
+154;segunda-feira, 14/03/2005;14;2;SANTOS/SP;UNIAO BARBARENSE/SP;0;domingo, 13/03/2005;1;caixa;No
+155;segunda-feira, 21/03/2005;1;2;CORINTHIANS/SP;PALMEIRAS/SP;0;domingo, 20/03/2005;1;caixa;No
+155;segunda-feira, 21/03/2005;2;2;VASCO DA GAMA/RJ;FLAMENGO/RJ;2;domingo, 20/03/2005;X;caixa;No
+155;segunda-feira, 21/03/2005;3;0;SPORT RECIFE/PE;SANTA CRUZ/PE;1;domingo, 20/03/2005;2;caixa;No
+155;segunda-feira, 21/03/2005;4;1;CALDENSE/MG;ATLETICO/MG;0;domingo, 20/03/2005;1;caixa;No
+155;segunda-feira, 21/03/2005;5;0;REMO/PA;PAYSANDU/PA;1;domingo, 20/03/2005;2;caixa;No
+155;segunda-feira, 21/03/2005;6;3;SANTOS/SP;AMERICA/SP;3;domingo, 20/03/2005;X;caixa;No
+155;segunda-feira, 21/03/2005;7;2;PONTE PRETA/SP;INTER LIMEIRA/SP;0;sabado, 19/03/2005;1;caixa;No
+155;segunda-feira, 21/03/2005;8;1;APARECIDENSE/GO;GOIAS/GO;1;domingo, 20/03/2005;X;caixa;No
+155;segunda-feira, 21/03/2005;9;6;SAO PAULO/SP;MARILIA/SP;0;sabado, 19/03/2005;1;caixa;No
+155;segunda-feira, 21/03/2005;10;1;SERRA/ES;ESTRELA DO NORTE/ES;0;domingo, 20/03/2005;1;caixa;No
+155;segunda-feira, 21/03/2005;11;3;CEARA/CE;FERROVIARIO/CE;1;domingo, 20/03/2005;1;caixa;No
+155;segunda-feira, 21/03/2005;12;3;OLARIA/RJ;VOLTA REDONDA/RJ;5;domingo, 20/03/2005;2;caixa;No
+155;segunda-feira, 21/03/2005;13;1;MADUREIRA/RJ;BOTAFOGO/RJ;2;sabado, 19/03/2005;2;caixa;No
+155;segunda-feira, 21/03/2005;14;2;FRIBURGUENSE/RJ;FLUMINENSE/RJ;5;domingo, 20/03/2005;2;caixa;No
+156;segunda-feira, 28/03/2005;1;3;SAO PAULO/SP;SANTO ANDRE/SP;1;sabado, 26/03/2005;1;caixa;No
+156;segunda-feira, 28/03/2005;2;1;UNIAO BARBARENSE/SP;CORINTHIANS/SP;3;sabado, 26/03/2005;2;caixa;No
+156;segunda-feira, 28/03/2005;3;1;GAMA/DF;BRASILIENSE/DF;3;sabado, 26/03/2005;2;caixa;No
+156;segunda-feira, 28/03/2005;4;0;MARCILIO DIAS/SC;AVAI/SC;1;sabado, 26/03/2005;2;caixa;No
+156;segunda-feira, 28/03/2005;5;1;SANTOS/SP;INTER LIMEIRA/SP;0;sabado, 26/03/2005;1;caixa;No
+156;segunda-feira, 28/03/2005;6;3;SAO  CAETANO/SP;SOROCABA/SP;0;sabado, 26/03/2005;1;caixa;No
+156;segunda-feira, 28/03/2005;7;2;PAULISTA/SP;PORTUGUESA/SP;2;sabado, 26/03/2005;X;caixa;No
+156;segunda-feira, 28/03/2005;8;1;RIO BRANCO/SP;GUARANI/SP;2;sabado, 26/03/2005;2;caixa;No
+156;segunda-feira, 28/03/2005;9;1;FIGUEIRENSE/SC;METROPOLITANO/SC;0;sabado, 26/03/2005;1;caixa;No
+156;segunda-feira, 28/03/2005;10;1;CACHOEIRO/ES;CTE COLATINA/ES;2;domingo, 27/03/2005;2;caixa;No
+156;segunda-feira, 28/03/2005;11;0;ABAETE/PA;PAYSANDU/PA;0;sabado, 26/03/2005;X;caixa;No
+156;segunda-feira, 28/03/2005;12;1;ICASA/CE;CEARA/CE;0;sabado, 26/03/2005;1;caixa;No
+156;segunda-feira, 28/03/2005;13;3;PONTE PRETA/SP;MOGI MIRIM/SP;3;sabado, 26/03/2005;X;caixa;No
+156;segunda-feira, 28/03/2005;14;4;PALMEIRAS/SP;MARILIA/SP;1;sabado, 26/03/2005;1;caixa;No
+157;segunda-feira, 04/04/2005;1;0;SANTOS/SP;SAO PAULO/SP;0;domingo, 03/04/2005;X;caixa;No
+157;segunda-feira, 04/04/2005;2;1;PONTE PRETA/SP;PALMEIRAS/SP;1;domingo, 03/04/2005;X;caixa;No
+157;segunda-feira, 04/04/2005;3;1;INTERNACIONAL/RS;JUVENTUDE/RS;0;domingo, 03/04/2005;1;caixa;No
+157;segunda-feira, 04/04/2005;4;2;SANTA CRUZ/PE;NAUTICO/PE;1;domingo, 03/04/2005;1;caixa;No
+157;segunda-feira, 04/04/2005;5;1;CEILANDIA/DF;GAMA/DF;2;domingo, 03/04/2005;2;caixa;No
+157;segunda-feira, 04/04/2005;6;1;PORTUGUESA/SP;MOGI MIRIM/SP;0;domingo, 03/04/2005;1;caixa;No
+157;segunda-feira, 04/04/2005;7;0;MARILIA/SP;PAULISTA/SP;1;domingo, 03/04/2005;2;caixa;No
+157;segunda-feira, 04/04/2005;8;1;PARANOA/DF;BRASILIENSE/DF;0;domingo, 03/04/2005;1;caixa;No
+157;segunda-feira, 04/04/2005;9;1;VILAVELHENSE/ES;SERRA/ES;3;domingo, 03/04/2005;2;caixa;No
+157;segunda-feira, 04/04/2005;10;3;GLORIA/RS;VERANOPOLIS/RS;1;domingo, 03/04/2005;1;caixa;No
+157;segunda-feira, 04/04/2005;11;3;CAXIAS/RS;GREMIO/RS;2;domingo, 03/04/2005;1;caixa;No
+157;segunda-feira, 04/04/2005;12;1;UNIAO BARBARENSE/SP;SAO CAETANO/SP;2;sabado, 02/04/2005;2;caixa;No
+157;segunda-feira, 04/04/2005;13;1;AMERICA/SP;GUARANI/SP;0;domingo, 03/04/2005;1;caixa;No
+157;segunda-feira, 04/04/2005;14;0;CORINTHIANS/SP;ITUANO/SP;0;domingo, 03/04/2005;X;caixa;No
+158;segunda-feira, 11/04/2005;1;1;SAO PAULO/SP;PONTE PRETA/SP;2;sabado, 09/04/2005;2;caixa;No
+158;segunda-feira, 11/04/2005;2;1;CORINTHIANS/SP;PORTUGUESA/SP;1;domingo, 10/04/2005;X;caixa;No
+158;segunda-feira, 11/04/2005;3;1;SANTOS/SP;PAULISTA/SP;0;domingo, 10/04/2005;1;caixa;No
+158;segunda-feira, 11/04/2005;4;3;BRASILIENSE/DF;CEILANDIA/DF;1;domingo, 10/04/2005;1;caixa;No
+158;segunda-feira, 11/04/2005;5;2;GUARANI/SP;MARILIA/SP;0;domingo, 10/04/2005;1;caixa;No
+158;segunda-feira, 11/04/2005;6;2;GAMA/DF;PARANOA/DF;2;domingo, 10/04/2005;X;caixa;No
+158;segunda-feira, 11/04/2005;7;2;LAGARTENSE/SE;ITABAIANA/SE;2;domingo, 10/04/2005;X;caixa;No
+158;segunda-feira, 11/04/2005;8;2;ESTRELA DO NORTE/ES;VITORIA/ES;1;sabado, 09/04/2005;1;caixa;No
+158;segunda-feira, 11/04/2005;9;3;UNIAO BARBARENSE/SP;PORT.SANTISTA/SP;2;domingo, 10/04/2005;1;caixa;No
+158;segunda-feira, 11/04/2005;10;1;SOROCABA/SP;AMERICA/SP;0;domingo, 10/04/2005;1;caixa;No
+158;segunda-feira, 11/04/2005;11;3;INTER LIMEIRA/SP;UNIAO SAO JOAO/SP;0;domingo, 10/04/2005;1;caixa;No
+158;segunda-feira, 11/04/2005;12;2;SANTO ANDRE/SP;ITUANO/SP;0;sabado, 09/04/2005;1;caixa;No
+158;segunda-feira, 11/04/2005;13;3;SAO CAETANO/SP;MOGI MIRIM/SP;2;domingo, 10/04/2005;1;caixa;No
+158;segunda-feira, 11/04/2005;14;3;RIO BRANCO/SP;PALMEIRAS/SP;0;domingo, 10/04/2005;1;caixa;No
+159;segunda-feira, 18/04/2005;1;1;VOLTA REDONDA/RJ;FLUMINENSE/RJ;3;domingo, 17/04/2005;2;caixa;No
+159;segunda-feira, 18/04/2005;2;1;MOGI MIRIM/SP;SAO PAULO/SP;2;domingo, 17/04/2005;2;caixa;No
+159;segunda-feira, 18/04/2005;3;0;GOIAS/GO;VILA NOVA/GO;0;domingo, 17/04/2005;X;caixa;No
+159;segunda-feira, 18/04/2005;4;1;CRUZEIRO/MG;IPATINGA/MG;2;domingo, 17/04/2005;2;caixa;No
+159;segunda-feira, 18/04/2005;5;1;ATHLETICO/PR;CORITIBA/PR;0;domingo, 17/04/2005;1;caixa;No
+159;segunda-feira, 18/04/2005;6;1;PALMEIRAS/SP;GUARANI/SP;1;domingo, 17/04/2005;X;caixa;No
+159;segunda-feira, 18/04/2005;7;1;PORTUGUESA/SP;SAO CAETANO/SP;0;domingo, 17/04/2005;1;caixa;No
+159;segunda-feira, 18/04/2005;8;0;CEILANDIA/DF;PARANOA/DF;0;domingo, 17/04/2005;X;caixa;No
+159;segunda-feira, 18/04/2005;9;3;BRASILIENSE/DF;GAMA/DF;0;domingo, 17/04/2005;1;caixa;No
+159;segunda-feira, 18/04/2005;10;0;HERMANN AICHINGER/SC;CRICIUMA/SC;1;domingo, 17/04/2005;2;caixa;No
+159;segunda-feira, 18/04/2005;11;0;VITORIA/BA;BAHIA/BA;0;domingo, 17/04/2005;X;caixa;No
+159;segunda-feira, 18/04/2005;12;2;15 DE NOVEMBRO/RS;INTERNACIONAL/RS;0;domingo, 17/04/2005;1;caixa;No
+159;segunda-feira, 18/04/2005;13;0;PORT.SANTISTA/SP;CORINTHIANS/SP;3;domingo, 17/04/2005;2;caixa;No
+159;segunda-feira, 18/04/2005;14;1;MARILIA/SP;SANTOS/SP;1;domingo, 17/04/2005;X;caixa;No
+160;segunda-feira, 25/04/2005;1;2;FLUMINENSE/RJ;SAO PAULO/SP;1;domingo, 24/04/2005;1;caixa;No
+160;segunda-feira, 25/04/2005;2;1;FLAMENGO/RJ;CRUZEIRO/MG;1;sabado, 23/04/2005;X;caixa;No
+160;segunda-feira, 25/04/2005;3;0;INTERNACIONAL/RS;BOTAFOGO/RJ;2;domingo, 24/04/2005;2;caixa;No
+160;segunda-feira, 25/04/2005;4;2;SAO CAETANO/SP;PALMEIRAS/SP;2;sabado, 23/04/2005;X;caixa;No
+160;segunda-feira, 25/04/2005;5;4;SANTOS/SP;PAYSANDU/PA;1;domingo, 24/04/2005;1;caixa;No
+160;segunda-feira, 25/04/2005;6;0;ATHLETICO/PR;PONTE PRETA/SP;1;domingo, 24/04/2005;2;caixa;No
+160;segunda-feira, 25/04/2005;7;0;PARANA/PR;GOIAS/GO;2;sabado, 23/04/2005;2;caixa;No
+160;segunda-feira, 25/04/2005;8;2;GAMA/DF;GREMIO/RS;1;sabado, 23/04/2005;1;caixa;No
+160;segunda-feira, 25/04/2005;9;3;BAHIA/BA;ANAPOLINA/GO;1;sabado, 23/04/2005;1;caixa;No
+160;segunda-feira, 25/04/2005;10;2;AVAI/SC;CEARA/CE;0;sabado, 23/04/2005;1;caixa;No
+160;segunda-feira, 25/04/2005;11;0;FORTALEZA/CE;CORITIBA/PR;1;domingo, 24/04/2005;2;caixa;No
+160;segunda-feira, 25/04/2005;12;4;ATLETICO/MG;FIGUEIRENSE/SC;1;sabado, 23/04/2005;1;caixa;No
+160;segunda-feira, 25/04/2005;13;2;BRASILIENSE/DF;VASCO DA GAMA/RJ;2;domingo, 24/04/2005;X;caixa;No
+160;segunda-feira, 25/04/2005;14;2;CORINTHIANS/SP;JUVENTUDE/RS;2;domingo, 24/04/2005;X;caixa;No
+161;segunda-feira, 02/05/2005;1;3;BOTAFOGO/RJ;CORINTHIANS/SP;1;domingo, 01/05/2005;1;caixa;No
+161;segunda-feira, 02/05/2005;2;3;CRUZEIRO/MG;INTERNACIONAL/RS;2;domingo, 01/05/2005;1;caixa;No
+161;segunda-feira, 02/05/2005;3;0;VASCO DA GAMA/RJ;FORTALEZA/CE;0;sabado, 30/04/2005;X;caixa;No
+161;segunda-feira, 02/05/2005;4;2;CORITIBA/PR;SANTOS/SP;3;domingo, 01/05/2005;2;caixa;No
+161;segunda-feira, 02/05/2005;5;1;PAYSANDU/PA;FLUMINENSE/RJ;2;domingo, 01/05/2005;2;caixa;No
+161;segunda-feira, 02/05/2005;6;1;SAO PAULO/SP;PARANA/PR;1;sabado, 30/04/2005;X;caixa;No
+161;segunda-feira, 02/05/2005;7;0;GOIAS/GO;SAO CAETANO/SP;0;sabado, 30/04/2005;X;caixa;No
+161;segunda-feira, 02/05/2005;8;2;VITORIA/BA;VILA NOVA/GO;0;sabado, 30/04/2005;1;caixa;No
+161;segunda-feira, 02/05/2005;9;0;CEARA/CE;SANTA CRUZ/PE;1;sabado, 30/04/2005;2;caixa;No
+161;segunda-feira, 02/05/2005;10;0;GUARANI/SP;BAHIA/BA;0;domingo, 01/05/2005;X;caixa;No
+161;segunda-feira, 02/05/2005;11;1;JUVENTUDE/RS;ATHLETICO/PR;0;domingo, 01/05/2005;1;caixa;No
+161;segunda-feira, 02/05/2005;12;3;PONTE PRETA/SP;ATLETICO/MG;3;sabado, 30/04/2005;X;caixa;No
+161;segunda-feira, 02/05/2005;13;2;PALMEIRAS/SP;BRASILIENSE/DF;1;sabado, 30/04/2005;1;caixa;No
+161;segunda-feira, 02/05/2005;14;0;FIGUEIRENSE/SC;FLAMENGO/RJ;1;domingo, 01/05/2005;2;caixa;No
+162;segunda-feira, 09/05/2005;1;1;CORINTHIANS/SP;SAO PAULO/SP;5;domingo, 08/05/2005;2;caixa;No
+162;segunda-feira, 09/05/2005;2;0;VASCO DA GAMA/RJ;BOTAFOGO/RJ;1;domingo, 08/05/2005;2;caixa;No
+162;segunda-feira, 09/05/2005;3;1;INTERNACIONAL/RS;FLAMENGO/RJ;0;domingo, 08/05/2005;1;caixa;No
+162;segunda-feira, 09/05/2005;4;2;SANTOS/SP;ATHLETICO/PR;1;sabado, 07/05/2005;1;caixa;No
+162;segunda-feira, 09/05/2005;5;2;FLUMINENSE/RJ;CRUZEIRO/MG;1;domingo, 08/05/2005;1;caixa;No
+162;segunda-feira, 09/05/2005;6;2;SAO CAETANO/SP;FORTALEZA/CE;1;domingo, 08/05/2005;1;caixa;No
+162;segunda-feira, 09/05/2005;7;2;PARANA/PR;JUVENTUDE/RS;2;sabado, 07/05/2005;X;caixa;No
+162;segunda-feira, 09/05/2005;8;0;GREMIO/RS;ITUANO/SP;2;sabado, 07/05/2005;2;caixa;No
+162;segunda-feira, 09/05/2005;9;1;GAMA/DF;VILA NOVA/GO;1;sabado, 07/05/2005;X;caixa;No
+162;segunda-feira, 09/05/2005;10;1;SANTA CRUZ/PE;PORTUGUESA/SP;0;domingo, 08/05/2005;1;caixa;No
+162;segunda-feira, 09/05/2005;11;2;PONTE PRETA/SP;PAYSANDU/PA;0;sabado, 07/05/2005;1;caixa;No
+162;segunda-feira, 09/05/2005;12;0;GOIAS/GO;FIGUEIRENSE/SC;0;sabado, 07/05/2005;X;caixa;No
+162;segunda-feira, 09/05/2005;13;0;ATLETICO/MG;BRASILIENSE/DF;1;domingo, 08/05/2005;2;caixa;No
+162;segunda-feira, 09/05/2005;14;1;CORITIBA/PR;PALMEIRAS/SP;0;domingo, 08/05/2005;1;caixa;No
+163;segunda-feira, 16/05/2005;1;2;FLAMENGO/RJ;SANTOS/SP;1;domingo, 15/05/2005;1;caixa;No
+163;segunda-feira, 16/05/2005;2;1;ATHLETICO/PR;CORINTHIANS/SP;2;domingo, 15/05/2005;2;caixa;No
+163;segunda-feira, 16/05/2005;3;2;BOTAFOGO/RJ;ATLETICO/MG;1;sabado, 14/05/2005;1;caixa;No
+163;segunda-feira, 16/05/2005;4;0;BRASILIENSE/DF;FLUMINENSE/RJ;3;domingo, 15/05/2005;2;caixa;No
+163;segunda-feira, 16/05/2005;5;3;CRUZEIRO/MG;GOIAS/GO;1;domingo, 15/05/2005;1;caixa;No
+163;segunda-feira, 16/05/2005;6;1;FIGUEIRENSE/SC;INTERNACIONAL/RS;2;sabado, 14/05/2005;2;caixa;No
+163;segunda-feira, 16/05/2005;7;1;SAO PAULO/SP;CORITIBA/PR;0;sabado, 14/05/2005;1;caixa;No
+163;segunda-feira, 16/05/2005;8;1;NAUTICO/PE;SANTA CRUZ/PE;3;sabado, 14/05/2005;2;caixa;No
+163;segunda-feira, 16/05/2005;9;2;GUARANI/SP;CEARA/CE;0;sabado, 14/05/2005;1;caixa;No
+163;segunda-feira, 16/05/2005;10;0;CRICIUMA/SC;GREMIO/RS;2;domingo, 15/05/2005;2;caixa;No
+163;segunda-feira, 16/05/2005;11;3;PAYSANDU/PA;SAO CAETANO/SP;2;domingo, 15/05/2005;1;caixa;No
+163;segunda-feira, 16/05/2005;12;2;FORTALEZA/CE;PONTE PRETA/SP;1;sabado, 14/05/2005;1;caixa;No
+163;segunda-feira, 16/05/2005;13;1;PALMEIRAS/SP;PARANA/PR;2;domingo, 15/05/2005;2;caixa;No
+163;segunda-feira, 16/05/2005;14;4;JUVENTUDE/RS;VASCO DA GAMA/RJ;1;domingo, 15/05/2005;1;caixa;No
+164;segunda-feira, 23/05/2005;1;3;VASCO DA GAMA/RJ;SAO PAULO/SP;1;domingo, 22/05/2005;1;caixa;No
+164;segunda-feira, 23/05/2005;2;2;CRUZEIRO/MG;PALMEIRAS/SP;0;domingo, 22/05/2005;1;caixa;No
+164;segunda-feira, 23/05/2005;3;3;SANTOS/SP;ATLETICO/MG;0;domingo, 22/05/2005;1;caixa;No
+164;segunda-feira, 23/05/2005;4;4;GOIAS/GO;BOTAFOGO/RJ;0;sabado, 21/05/2005;1;caixa;No
+164;segunda-feira, 23/05/2005;5;1;SAO CAETANO/SP;FLAMENGO/RJ;0;domingo, 22/05/2005;1;caixa;No
+164;segunda-feira, 23/05/2005;6;2;FORTALEZA/CE;BRASILIENSE/DF;0;sabado, 21/05/2005;1;caixa;No
+164;segunda-feira, 23/05/2005;7;2;JUVENTUDE/RS;PAYSANDU/PA;0;sabado, 21/05/2005;1;caixa;No
+164;segunda-feira, 23/05/2005;8;1;GUARANI/SP;GREMIO/RS;1;sabado, 21/05/2005;X;caixa;No
+164;segunda-feira, 23/05/2005;9;2;ITUANO/SP;SPORT/PE;1;domingo, 22/05/2005;1;caixa;No
+164;segunda-feira, 23/05/2005;10;1;BAHIA/BA;GAMA/DF;0;sabado, 21/05/2005;1;caixa;No
+164;segunda-feira, 23/05/2005;11;1;PARANA/PR;PONTE PRETA/SP;1;sabado, 21/05/2005;X;caixa;No
+164;segunda-feira, 23/05/2005;12;2;FLUMINENSE/RJ;CORITIBA/PR;4;sabado, 21/05/2005;2;caixa;No
+164;segunda-feira, 23/05/2005;13;2;CORINTHIANS/SP;FIGUEIRENSE/SC;1;domingo, 22/05/2005;1;caixa;No
+164;segunda-feira, 23/05/2005;14;1;ATHLETICO/PR;INTERNACIONAL/RS;3;domingo, 22/05/2005;2;caixa;No
+165;segunda-feira, 30/05/2005;1;0;FLAMENGO/RJ;FLUMINENSE/RJ;0;domingo, 29/05/2005;X;caixa;No
+165;segunda-feira, 30/05/2005;2;2;PALMEIRAS/SP;SANTOS/SP;1;domingo, 29/05/2005;1;caixa;No
+165;segunda-feira, 30/05/2005;3;1;SAO PAULO/SP;CRUZEIRO/MG;1;sabado, 28/05/2005;X;caixa;No
+165;segunda-feira, 30/05/2005;4;2;BOTAFOGO/RJ;ATHLETICO/PR;0;domingo, 29/05/2005;1;caixa;No
+165;segunda-feira, 30/05/2005;5;0;ATLETICO/MG;CORINTHIANS/SP;1;domingo, 29/05/2005;2;caixa;No
+165;segunda-feira, 30/05/2005;6;1;CORITIBA/PR;JUVENTUDE/RS;2;domingo, 29/05/2005;2;caixa;No
+165;segunda-feira, 30/05/2005;7;1;BRASILIENSE/DF;PARANA/PR;0;domingo, 29/05/2005;1;caixa;No
+165;segunda-feira, 30/05/2005;8;2;GREMIO/RS;NAUTICO/PE;2;sabado, 28/05/2005;X;caixa;No
+165;segunda-feira, 30/05/2005;9;2;SAO RAIMUNDO/AM;PORTUGUESA/SP;2;sabado, 28/05/2005;X;caixa;No
+165;segunda-feira, 30/05/2005;10;2;SANTO ANDRE/SP;PAULISTA/SP;2;sabado, 28/05/2005;X;caixa;No
+165;segunda-feira, 30/05/2005;11;2;FIGUEIRENSE/SC;SAO CAETANO/SP;0;sabado, 28/05/2005;1;caixa;No
+165;segunda-feira, 30/05/2005;12;1;PAYSANDU/PA;GOIAS/GO;0;sabado, 28/05/2005;1;caixa;No
+165;segunda-feira, 30/05/2005;13;1;INTERNACIONAL/RS;FORTALEZA/CE;0;domingo, 29/05/2005;1;caixa;No
+165;segunda-feira, 30/05/2005;14;4;PONTE PRETA/SP;VASCO DA GAMA/RJ;2;domingo, 29/05/2005;1;caixa;No
+166;segunda-feira, 06/06/2005;1;0;BAHIA/BA;VITORIA/BA;0;sabado, 04/06/2005;X;caixa;No
+166;segunda-feira, 06/06/2005;2;0;SANTA CRUZ/PE;SPORT/PE;0;sabado, 04/06/2005;X;caixa;No
+166;segunda-feira, 06/06/2005;3;2;ANAPOLINA/GO;VILA NOVA/GO;1;sabado, 04/06/2005;1;caixa;No
+166;segunda-feira, 06/06/2005;4;2;MARILIA/SP;GUARANI/SP;0;sabado, 04/06/2005;1;caixa;No
+166;segunda-feira, 06/06/2005;5;4;ITUANO/SP;GAMA/DF;0;sabado, 04/06/2005;1;caixa;No
+166;segunda-feira, 06/06/2005;6;1;BRAGANTINO/SP;ARACATUBA/SP;0;sabado, 04/06/2005;1;caixa;No
+166;segunda-feira, 06/06/2005;7;0;JUVENTUS/SP;COMERCIAL/SP;0;sabado, 04/06/2005;X;caixa;No
+166;segunda-feira, 06/06/2005;8;1;MIRASSOL/SP;NOROESTE/SP;2;domingo, 05/06/2005;2;caixa;No
+166;segunda-feira, 06/06/2005;9;1;BANDEIRANTE/SP;SAO BENTO/SP;1;domingo, 05/06/2005;X;caixa;No
+166;segunda-feira, 06/06/2005;10;0;ITAPERUNA/RJ;BANGU/RJ;2;sabado, 04/06/2005;2;caixa;No
+166;segunda-feira, 06/06/2005;11;2;SAO JOSE/SP;RIO CLARO/SP;2;sabado, 04/06/2005;X;caixa;No
+166;segunda-feira, 06/06/2005;12;0;BARUERI/SP;XV DE JAU/SP;0;domingo, 05/06/2005;X;caixa;No
+166;segunda-feira, 06/06/2005;13;4;CEARA/CE;SAO RAIMUNDO/AM;0;sabado, 04/06/2005;1;caixa;No
+166;segunda-feira, 06/06/2005;14;2;PAULISTA/SP;UNIAO BARBARENSE/SP;2;sabado, 04/06/2005;X;caixa;No
+167;segunda-feira, 13/06/2005;1;4;CORINTHIANS/SP;FLAMENGO/RJ;2;domingo, 12/06/2005;1;caixa;No
+167;segunda-feira, 13/06/2005;2;1;INTERNACIONAL/RS;ATLETICO/MG;1;domingo, 12/06/2005;X;caixa;No
+167;segunda-feira, 13/06/2005;3;1;SANTOS/SP;FLUMINENSE/RJ;1;domingo, 12/06/2005;X;caixa;No
+167;segunda-feira, 13/06/2005;4;2;PAYSANDU/PA;SAO PAULO/SP;2;domingo, 12/06/2005;X;caixa;No
+167;segunda-feira, 13/06/2005;5;2;GOIAS/GO;PALMEIRAS/SP;1;sabado, 11/06/2005;1;caixa;No
+167;segunda-feira, 13/06/2005;6;2;VASCO DA GAMA/RJ;CORITIBA/PR;2;domingo, 12/06/2005;X;caixa;No
+167;segunda-feira, 13/06/2005;7;0;ATHLETICO/PR;FIGUEIRENSE/SC;0;sabado, 11/06/2005;X;caixa;No
+167;segunda-feira, 13/06/2005;8;0;AVAI/SC;VITORIA/BA;1;domingo, 12/06/2005;2;caixa;No
+167;segunda-feira, 13/06/2005;9;2;GREMIO/RS;PAULISTA/SP;1;sabado, 11/06/2005;1;caixa;No
+167;segunda-feira, 13/06/2005;10;4;SANTO ANDRE/SP;GAMA/DF;3;sabado, 11/06/2005;1;caixa;No
+167;segunda-feira, 13/06/2005;11;3;PARANA/PR;FORTALEZA/CE;0;sabado, 11/06/2005;1;caixa;No
+167;segunda-feira, 13/06/2005;12;2;SAO CAETANO/SP;BRASILIENSE/DF;0;sabado, 11/06/2005;1;caixa;No
+167;segunda-feira, 13/06/2005;13;1;CRUZEIRO/MG;PONTE PRETA/SP;2;sabado, 11/06/2005;2;caixa;No
+167;segunda-feira, 13/06/2005;14;3;BOTAFOGO/RJ;JUVENTUDE/RS;2;sabado, 11/06/2005;1;caixa;No
+168;segunda-feira, 20/06/2005;1;5;PALMEIRAS/SP;VASCO DA GAMA/RJ;2;sabado, 18/06/2005;1;caixa;No
+168;segunda-feira, 20/06/2005;2;1;SAO PAULO/SP;BOTAFOGO/RJ;0;domingo, 19/06/2005;1;caixa;No
+168;segunda-feira, 20/06/2005;3;2;BRASILIENSE/DF;CORINTHIANS/SP;4;sabado, 18/06/2005;2;caixa;No
+168;segunda-feira, 20/06/2005;4;3;FLUMINENSE/RJ;INTERNACIONAL/RS;0;domingo, 19/06/2005;1;caixa;No
+168;segunda-feira, 20/06/2005;5;1;FLAMENGO/RJ;ATHLETICO/PR;1;sabado, 18/06/2005;X;caixa;No
+168;segunda-feira, 20/06/2005;6;2;ATLETICO/MG;SAO CAETANO/SP;3;sabado, 18/06/2005;2;caixa;No
+168;segunda-feira, 20/06/2005;7;3;FIGUEIRENSE/SC;PAYSANDU/PA;3;sabado, 18/06/2005;X;caixa;No
+168;segunda-feira, 20/06/2005;8;3;VITORIA/BA;SPORT/PE;2;sabado, 18/06/2005;1;caixa;No
+168;segunda-feira, 20/06/2005;9;4;ANAPOLINA/GO;GREMIO/RS;0;domingo, 19/06/2005;1;caixa;No
+168;segunda-feira, 20/06/2005;10;1;SANTA CRUZ/PE;SAO RAIMUNDO/AM;0;sabado, 18/06/2005;1;caixa;No
+168;segunda-feira, 20/06/2005;11;2;CORITIBA/PR;PARANA/PR;1;domingo, 19/06/2005;1;caixa;No
+168;segunda-feira, 20/06/2005;12;2;PONTE PRETA/SP;GOIAS/GO;0;sabado, 18/06/2005;1;caixa;No
+168;segunda-feira, 20/06/2005;13;0;FORTALEZA/CE;SANTOS/SP;0;domingo, 19/06/2005;X;caixa;No
+168;segunda-feira, 20/06/2005;14;0;JUVENTUDE/RS;CRUZEIRO/MG;0;domingo, 19/06/2005;X;caixa;No
+169;segunda-feira, 27/06/2005;1;0;CORINTHIANS/SP;FLUMINENSE/RJ;1;domingo, 26/06/2005;2;caixa;No
+169;segunda-feira, 27/06/2005;2;1;SAO PAULO/SP;INTERNACIONAL/RS;3;sabado, 25/06/2005;2;caixa;No
+169;segunda-feira, 27/06/2005;3;3;CRUZEIRO/MG;VASCO DA GAMA/RJ;3;domingo, 26/06/2005;X;caixa;No
+169;segunda-feira, 27/06/2005;4;1;SAO  CAETANO/SP;SANTOS/SP;3;domingo, 26/06/2005;2;caixa;No
+169;segunda-feira, 27/06/2005;5;2;PAYSANDU/PA;PALMEIRAS/SP;1;domingo, 26/06/2005;1;caixa;No
+169;segunda-feira, 27/06/2005;6;0;BOTAFOGO/RJ;FIGUEIRENSE/SC;1;domingo, 26/06/2005;2;caixa;No
+169;segunda-feira, 27/06/2005;7;0;ATHLETICO/PR;FORTALEZA/CE;0;domingo, 26/06/2005;X;caixa;No
+169;segunda-feira, 27/06/2005;8;1;GREMIO/RS;SANTO ANDRE/SP;0;sabado, 25/06/2005;1;caixa;No
+169;segunda-feira, 27/06/2005;9;1;SAO RAIMUNDO/AM;VITORIA/BA;0;sabado, 25/06/2005;1;caixa;No
+169;segunda-feira, 27/06/2005;10;1;PAULISTA/SP;SPORT/PE;2;domingo, 26/06/2005;2;caixa;No
+169;segunda-feira, 27/06/2005;11;1;JUVENTUDE/RS;PONTE PRETA/SP;3;sabado, 25/06/2005;2;caixa;No
+169;segunda-feira, 27/06/2005;12;2;GOIAS/GO;CORITIBA/PR;1;domingo, 26/06/2005;1;caixa;No
+169;segunda-feira, 27/06/2005;13;1;PARANA/PR;ATLETICO/MG;0;sabado, 25/06/2005;1;caixa;No
+169;segunda-feira, 27/06/2005;14;3;FLAMENGO/RJ;BRASILIENSE/DF;4;sabado, 25/06/2005;2;caixa;No
+170;segunda-feira, 04/07/2005;1;4;PALMEIRAS/SP;BOTAFOGO/RJ;1;domingo, 03/07/2005;1;caixa;No
+170;segunda-feira, 04/07/2005;2;3;ATLETICO/MG;FLAMENGO/RJ;1;domingo, 03/07/2005;1;caixa;No
+170;segunda-feira, 04/07/2005;3;1;PONTE PRETA/SP;SAO PAULO/SP;0;sabado, 02/07/2005;1;caixa;No
+170;segunda-feira, 04/07/2005;4;1;VASCO DA GAMA/RJ;GOIAS/GO;2;sabado, 02/07/2005;2;caixa;No
+170;segunda-feira, 04/07/2005;5;2;FORTALEZA/CE;CORINTHIANS/SP;1;domingo, 03/07/2005;1;caixa;No
+170;segunda-feira, 04/07/2005;6;0;FLUMINENSE/RJ;PARANA/PR;1;sabado, 02/07/2005;2;caixa;No
+170;segunda-feira, 04/07/2005;7;3;CORITIBA/PR;PAYSANDU/PA;1;sabado, 02/07/2005;1;caixa;No
+170;segunda-feira, 04/07/2005;8;2;VITORIA/BA;NAUTICO/PE;2;sabado, 02/07/2005;X;caixa;No
+170;segunda-feira, 04/07/2005;9;2;SANTO ANDRE/SP;AVAI/SC;2;sabado, 02/07/2005;X;caixa;No
+170;segunda-feira, 04/07/2005;10;4;CRICIUMA/SC;BAHIA/BA;1;sabado, 02/07/2005;1;caixa;No
+170;segunda-feira, 04/07/2005;11;2;BRASILIENSE/DF;ATHLETICO/PR;1;domingo, 03/07/2005;1;caixa;No
+170;segunda-feira, 04/07/2005;12;0;FIGUEIRENSE/SC;CRUZEIRO/MG;0;domingo, 03/07/2005;X;caixa;No
+170;segunda-feira, 04/07/2005;13;2;INTERNACIONAL/RS;SAO CAETANO/SP;1;domingo, 03/07/2005;1;caixa;No
+170;segunda-feira, 04/07/2005;14;0;SANTOS/SP;JUVENTUDE/RS;0;domingo, 03/07/2005;X;caixa;No
+171;segunda-feira, 11/07/2005;1;3;CORINTHIANS/SP;PALMEIRAS/SP;1;domingo, 10/07/2005;1;caixa;No
+171;segunda-feira, 11/07/2005;2;1;BOTAFOGO/RJ;FLUMINENSE/RJ;2;domingo, 10/07/2005;2;caixa;No
+171;segunda-feira, 11/07/2005;3;2;CRUZEIRO/MG;ATLETICO/MG;1;domingo, 10/07/2005;1;caixa;No
+171;segunda-feira, 11/07/2005;4;1;ATHLETICO/PR;CORITIBA/PR;0;domingo, 10/07/2005;1;caixa;No
+171;segunda-feira, 11/07/2005;5;2;SAO PAULO/SP;FLAMENGO/RJ;0;sabado, 09/07/2005;1;caixa;No
+171;segunda-feira, 11/07/2005;6;2;JUVENTUDE/RS;BRASILIENSE/DF;1;sabado, 09/07/2005;1;caixa;No
+171;segunda-feira, 11/07/2005;7;3;PARANA/PR;FIGUEIRENSE/SC;0;sabado, 09/07/2005;1;caixa;No
+171;segunda-feira, 11/07/2005;8;1;GREMIO/RS;VITORIA/BA;2;domingo, 10/07/2005;2;caixa;No
+171;segunda-feira, 11/07/2005;9;2;GUARANI/SP;SANTO ANDRE/SP;1;sabado, 09/07/2005;1;caixa;No
+171;segunda-feira, 11/07/2005;10;0;BAHIA/BA;MARILIA/SP;2;sabado, 09/07/2005;2;caixa;No
+171;segunda-feira, 11/07/2005;11;1;PAYSANDU/PA;FORTALEZA/CE;2;sabado, 09/07/2005;2;caixa;No
+171;segunda-feira, 11/07/2005;12;2;SAO  CAETANO/SP;PONTE PRETA/SP;1;sabado, 09/07/2005;1;caixa;No
+171;segunda-feira, 11/07/2005;13;3;GOIAS/GO;SANTOS/SP;4;domingo, 10/07/2005;2;caixa;No
+171;segunda-feira, 11/07/2005;14;2;VASCO DA GAMA/RJ;INTERNACIONAL/RS;4;domingo, 10/07/2005;2;caixa;No
+172;segunda-feira, 18/07/2005;1;1;FLAMENGO/RJ;VASCO DA GAMA/RJ;0;domingo, 17/07/2005;1;caixa;No
+172;segunda-feira, 18/07/2005;2;2;SANTOS/SP;SAO PAULO/SP;1;domingo, 17/07/2005;1;caixa;No
+172;segunda-feira, 18/07/2005;3;5;INTERNACIONAL/RS;JUVENTUDE/RS;2;domingo, 17/07/2005;1;caixa;No
+172;segunda-feira, 18/07/2005;4;1;PAYSANDU/PA;CRUZEIRO/MG;2;sabado, 16/07/2005;2;caixa;No
+172;segunda-feira, 18/07/2005;5;2;PARANA/PR;CORINTHIANS/SP;3;sabado, 16/07/2005;2;caixa;No
+172;segunda-feira, 18/07/2005;6;0;CORITIBA/PR;BOTAFOGO/RJ;3;domingo, 17/07/2005;2;caixa;No
+172;segunda-feira, 18/07/2005;7;1;GOIAS/GO;BRASILIENSE/DF;3;sabado, 16/07/2005;2;caixa;No
+172;segunda-feira, 18/07/2005;8;0;SPORT/PE;GREMIO/RS;1;sabado, 16/07/2005;2;caixa;No
+172;segunda-feira, 18/07/2005;9;1;CEARA/CE;ITUANO/SP;1;sabado, 16/07/2005;X;caixa;No
+172;segunda-feira, 18/07/2005;10;0;SANTO ANDRE/SP;NAUTICO/PE;1;domingo, 17/07/2005;2;caixa;No
+172;segunda-feira, 18/07/2005;11;2;PONTE PRETA/SP;FIGUEIRENSE/SC;1;sabado, 16/07/2005;1;caixa;No
+172;segunda-feira, 18/07/2005;12;2;ATLETICO/MG;ATHLETICO/PR;3;domingo, 17/07/2005;2;caixa;No
+172;segunda-feira, 18/07/2005;13;1;PALMEIRAS/SP;FORTALEZA/CE;2;domingo, 17/07/2005;2;caixa;No
+172;segunda-feira, 18/07/2005;14;0;FLUMINENSE/RJ;SAO CAETANO/SP;1;sabado, 16/07/2005;2;caixa;No
+173;segunda-feira, 25/07/2005;1;2;VASCO DA GAMA/RJ;CORINTHIANS/SP;3;domingo, 24/07/2005;2;caixa;No
+173;segunda-feira, 25/07/2005;2;3;CRUZEIRO/MG;SANTOS/SP;2;domingo, 24/07/2005;1;caixa;No
+173;segunda-feira, 25/07/2005;3;1;PALMEIRAS/SP;ATLETICO/MG;0;domingo, 24/07/2005;1;caixa;No
+173;segunda-feira, 25/07/2005;4;1;PAYSANDU/PA;INTERNACIONAL/RS;2;domingo, 24/07/2005;2;caixa;No
+173;segunda-feira, 25/07/2005;5;2;PONTE PRETA/SP;FLUMINENSE/RJ;1;domingo, 24/07/2005;1;caixa;No
+173;segunda-feira, 25/07/2005;6;1;BOTAFOGO/RJ;BRASILIENSE/DF;1;sabado, 23/07/2005;X;caixa;No
+173;segunda-feira, 25/07/2005;7;2;GOIAS/GO;FORTALEZA/CE;1;sabado, 23/07/2005;1;caixa;No
+173;segunda-feira, 25/07/2005;8;1;SANTA CRUZ/PE;CRB/AL;0;sabado, 23/07/2005;1;caixa;No
+173;segunda-feira, 25/07/2005;9;3;SAO RAIMUNDO/AM;GUARANI/SP;0;sabado, 23/07/2005;1;caixa;No
+173;segunda-feira, 25/07/2005;10;1;UNIAO BARBARENSE/SP;GREMIO/RS;1;domingo, 24/07/2005;X;caixa;No
+173;segunda-feira, 25/07/2005;11;1;JUVENTUDE/RS;FIGUEIRENSE/SC;4;domingo, 24/07/2005;2;caixa;No
+173;segunda-feira, 25/07/2005;12;2;PARANA/PR;ATHLETICO/PR;0;sabado, 23/07/2005;1;caixa;No
+173;segunda-feira, 25/07/2005;13;0;SAO PAULO/SP;SAO  CAETANO/SP;1;sabado, 23/07/2005;2;caixa;No
+173;segunda-feira, 25/07/2005;14;3;CORITIBA/PR;FLAMENGO/RJ;2;domingo, 24/07/2005;1;caixa;No
+174;segunda-feira, 01/08/2005;1;4;SANTOS/SP;CORINTHIANS/SP;2;domingo, 31/07/2005;1;caixa;No
+174;segunda-feira, 01/08/2005;2;0;BOTAFOGO/RJ;FLAMENGO/RJ;2;domingo, 31/07/2005;2;caixa;No
+174;segunda-feira, 01/08/2005;3;1;PONTE PRETA/SP;INTERNACIONAL/RS;1;domingo, 31/07/2005;X;caixa;No
+174;segunda-feira, 01/08/2005;4;3;GOIAS/GO;ATLETICO/MG;1;sabado, 30/07/2005;1;caixa;No
+174;segunda-feira, 01/08/2005;5;2;JUVENTUDE/RS;SAO PAULO/SP;1;domingo, 31/07/2005;1;caixa;No
+174;segunda-feira, 01/08/2005;6;1;FIGUEIRENSE/SC;FLUMINENSE/RJ;1;domingo, 31/07/2005;X;caixa;No
+174;segunda-feira, 01/08/2005;7;1;CORITIBA/PR;BRASILIENSE/DF;1;domingo, 31/07/2005;X;caixa;No
+174;segunda-feira, 01/08/2005;8;3;SPORT/PE;NAUTICO/PE;2;sabado, 30/07/2005;1;caixa;No
+174;segunda-feira, 01/08/2005;9;0;ITUANO/SP;BAHIA/BA;1;domingo, 31/07/2005;2;caixa;No
+174;segunda-feira, 01/08/2005;10;4;GUARANI/SP;UNIAO BARBARENSE/SP;0;sabado, 30/07/2005;1;caixa;No
+174;segunda-feira, 01/08/2005;11;3;PAYSANDU/PA;PARANA/PR;4;domingo, 31/07/2005;2;caixa;No
+174;segunda-feira, 01/08/2005;12;3;CRUZEIRO/MG;FORTALEZA/CE;0;sabado, 30/07/2005;1;caixa;No
+174;segunda-feira, 01/08/2005;13;3;VASCO DA GAMA/RJ;SAO  CAETANO/SP;2;sabado, 30/07/2005;1;caixa;No
+174;segunda-feira, 01/08/2005;14;1;PALMEIRAS/SP;ATHLETICO/PR;1;domingo, 31/07/2005;X;caixa;No
+175;segunda-feira, 08/08/2005;1;1;ATLETICO/MG;FLUMINENSE/RJ;2;domingo, 07/08/2005;2;caixa;No
+175;segunda-feira, 08/08/2005;2;0;CORINTHIANS/SP;SAO  CAETANO/SP;2;sabado, 06/08/2005;2;caixa;No
+175;segunda-feira, 08/08/2005;3;5;ATHLETICO/PR;CRUZEIRO/MG;4;sabado, 06/08/2005;1;caixa;No
+175;segunda-feira, 08/08/2005;4;0;SAO PAULO/SP;GOIAS/GO;1;domingo, 07/08/2005;2;caixa;No
+175;segunda-feira, 08/08/2005;5;0;BRASILIENSE/DF;INTERNACIONAL/RS;0;domingo, 07/08/2005;X;caixa;No
+175;segunda-feira, 08/08/2005;6;2;FORTALEZA/CE;FLAMENGO/RJ;1;domingo, 07/08/2005;1;caixa;No
+175;segunda-feira, 08/08/2005;7;2;VASCO DA GAMA/RJ;FIGUEIRENSE/SC;1;domingo, 07/08/2005;1;caixa;No
+175;segunda-feira, 08/08/2005;8;1;BAHIA/BA;GREMIO/RS;1;domingo, 07/08/2005;X;caixa;No
+175;segunda-feira, 08/08/2005;9;2;SANTA CRUZ/PE;AVAI/SC;1;sabado, 06/08/2005;1;caixa;No
+175;segunda-feira, 08/08/2005;10;3;VILA NOVA/GO;SANTO ANDRE/SP;1;sabado, 06/08/2005;1;caixa;No
+175;segunda-feira, 08/08/2005;11;0;PONTE PRETA/SP;CORITIBA/PR;3;domingo, 07/08/2005;2;caixa;No
+175;segunda-feira, 08/08/2005;12;2;BOTAFOGO/RJ;PAYSANDU/PA;0;sabado, 06/08/2005;1;caixa;No
+175;segunda-feira, 08/08/2005;13;1;PARANA/PR;SANTOS/SP;1;domingo, 07/08/2005;X;caixa;No
+175;segunda-feira, 08/08/2005;14;1;JUVENTUDE/RS;PALMEIRAS/SP;2;domingo, 07/08/2005;2;caixa;No
+176;segunda-feira, 15/08/2005;1;3;BOTAFOGO/RJ;SANTOS/SP;3;domingo, 14/08/2005;X;caixa;No
+176;segunda-feira, 15/08/2005;2;3;PALMEIRAS/SP;INTERNACIONAL/RS;2;sabado, 13/08/2005;1;caixa;No
+176;segunda-feira, 15/08/2005;3;2;VASCO DA GAMA/RJ;ATLETICO/MG;1;domingo, 14/08/2005;1;caixa;No
+176;segunda-feira, 15/08/2005;4;3;PONTE PRETA/SP;CORINTHIANS/SP;5;domingo, 14/08/2005;2;caixa;No
+176;segunda-feira, 15/08/2005;5;2;GOIAS/GO;FLAMENGO/RJ;0;domingo, 14/08/2005;1;caixa;No
+176;segunda-feira, 15/08/2005;6;2;CORITIBA/PR;SAO  CAETANO/SP;2;sabado, 13/08/2005;X;caixa;No
+176;segunda-feira, 15/08/2005;7;2;PAYSANDU/PA;ATHLETICO/PR;1;sabado, 13/08/2005;1;caixa;No
+176;segunda-feira, 15/08/2005;8;4;NAUTICO/PE;BAHIA/BA;0;domingo, 14/08/2005;1;caixa;No
+176;segunda-feira, 15/08/2005;9;1;PAULISTA/SP;GAMA/DF;1;sabado, 13/08/2005;X;caixa;No
+176;segunda-feira, 15/08/2005;10;2;GREMIO/RS;SANTA CRUZ/PE;0;sabado, 13/08/2005;1;caixa;No
+176;segunda-feira, 15/08/2005;11;2;FIGUEIRENSE/SC;BRASILIENSE/DF;2;domingo, 14/08/2005;X;caixa;No
+176;segunda-feira, 15/08/2005;12;0;CRUZEIRO/MG;PARANA/PR;1;domingo, 14/08/2005;2;caixa;No
+176;segunda-feira, 15/08/2005;13;2;JUVENTUDE/RS;FLUMINENSE/RJ;0;domingo, 14/08/2005;1;caixa;No
+176;segunda-feira, 15/08/2005;14;3;SAO PAULO/SP;FORTALEZA/CE;2;domingo, 14/08/2005;1;caixa;No
+177;segunda-feira, 22/08/2005;1;2;FLUMINENSE/RJ;PALMEIRAS/SP;2;domingo, 21/08/2005;X;caixa;No
+177;segunda-feira, 22/08/2005;2;1;CORINTHIANS/SP;GOIAS/GO;1;domingo, 21/08/2005;X;caixa;No
+177;segunda-feira, 22/08/2005;3;3;FORTALEZA/CE;BOTAFOGO/RJ;1;domingo, 21/08/2005;1;caixa;No
+177;segunda-feira, 22/08/2005;4;4;ATHLETICO/PR;SAO PAULO/SP;2;sabado, 20/08/2005;1;caixa;No
+177;segunda-feira, 22/08/2005;5;0;SAO CAETANO/SP;CRUZEIRO/MG;1;sabado, 20/08/2005;2;caixa;No
+177;segunda-feira, 22/08/2005;6;4;SANTOS/SP;FIGUEIRENSE/SC;3;domingo, 21/08/2005;1;caixa;No
+177;segunda-feira, 22/08/2005;7;2;ATLETICO/MG;JUVENTUDE/RS;1;sabado, 20/08/2005;1;caixa;No
+177;segunda-feira, 22/08/2005;8;1;PORTUGUESA/SP;GREMIO/RS;2;domingo, 21/08/2005;2;caixa;No
+177;segunda-feira, 22/08/2005;9;4;VILA NOVA/GO;CRICIUMA/SC;1;sabado, 20/08/2005;1;caixa;No
+177;segunda-feira, 22/08/2005;10;4;MARILIA/SP;SPORT/PE;1;sabado, 20/08/2005;1;caixa;No
+177;segunda-feira, 22/08/2005;11;4;BRASILIENSE/DF;PONTE PRETA/SP;0;domingo, 21/08/2005;1;caixa;No
+177;segunda-feira, 22/08/2005;12;0;PARANA/PR;VASCO DA GAMA/RJ;0;domingo, 21/08/2005;X;caixa;No
+177;segunda-feira, 22/08/2005;13;3;INTERNACIONAL/RS;CORITIBA/PR;2;domingo, 21/08/2005;1;caixa;No
+177;segunda-feira, 22/08/2005;14;2;FLAMENGO/RJ;PAYSANDU/PA;1;domingo, 21/08/2005;1;caixa;No
+178;segunda-feira, 29/08/2005;1;3;CORINTHIANS/SP;BOTAFOGO/RJ;3;domingo, 28/08/2005;X;caixa;No
+178;segunda-feira, 29/08/2005;2;4;INTERNACIONAL/RS;CRUZEIRO/MG;1;domingo, 28/08/2005;1;caixa;No
+178;segunda-feira, 29/08/2005;3;4;FORTALEZA/CE;VASCO/RJ;2;domingo, 28/08/2005;1;caixa;No
+178;segunda-feira, 29/08/2005;4;0;PARANA/PR;SAO PAULO/SP;4;domingo, 28/08/2005;2;caixa;No
+178;segunda-feira, 29/08/2005;5;3;BRASILIENSE/DF;PALMEIRAS/SP;2;sabado, 27/08/2005;1;caixa;No
+178;segunda-feira, 29/08/2005;6;2;FLAMENGO/RJ;FIGUEIRENSE/SC;2;domingo, 28/08/2005;X;caixa;No
+178;segunda-feira, 29/08/2005;7;2;ATHLETICO/PR;JUVENTUDE/RS;2;sabado, 27/08/2005;X;caixa;No
+178;segunda-feira, 29/08/2005;8;1;VITORIA/BA;CEARA/CE;2;sabado, 27/08/2005;2;caixa;No
+178;segunda-feira, 29/08/2005;9;2;GUARANI/SP;SANTA CRUZ/PE;0;sabado, 27/08/2005;1;caixa;No
+178;segunda-feira, 29/08/2005;10;2;NAUTICO/PE;MARILIA/SP;1;sabado, 27/08/2005;1;caixa;No
+178;segunda-feira, 29/08/2005;11;0;SAO CAETANO/SP;GOIAS/GO;1;sabado, 27/08/2005;2;caixa;No
+178;segunda-feira, 29/08/2005;12;1;ATLETICO/MG;PONTE PRETA/SP;0;domingo, 28/08/2005;1;caixa;No
+178;segunda-feira, 29/08/2005;13;5;FLUMINENSE/RJ;PAYSANDU/PA;2;domingo, 28/08/2005;1;caixa;No
+178;segunda-feira, 29/08/2005;14;2;SANTOS/SP;CORITIBA/PR;0;domingo, 28/08/2005;1;caixa;No
+179;segunda-feira, 05/09/2005;1;3;BAHIA/BA;SANTO ANDRE/SP;0;sabado, 03/09/2005;1;caixa;No
+179;segunda-feira, 05/09/2005;2;5;MARILIA/SP;CRICIUMA/SC;1;sabado, 03/09/2005;1;caixa;No
+179;segunda-feira, 05/09/2005;3;2;SAO RAIMUNDO/AM;ANAPOLINA/GO;0;sabado, 03/09/2005;1;caixa;No
+179;segunda-feira, 05/09/2005;4;1;VOLTA REDONDA/RJ;VILLA NOVA/MG;0;sabado, 03/09/2005;1;caixa;No
+179;segunda-feira, 05/09/2005;5;1;MINEIROS/GO;PARANOA/DF;0;sabado, 03/09/2005;1;caixa;No
+179;segunda-feira, 05/09/2005;6;2;IPATINGA/MG;ESTRELA DO NORTE/ES;0;sabado, 03/09/2005;1;caixa;No
+179;segunda-feira, 05/09/2005;7;1;LONDRINA/PR;OPERARIO/MS;1;sabado, 03/09/2005;X;caixa;No
+179;segunda-feira, 05/09/2005;8;1;GLORIA/RS;MARCILIO DIAS/SC;0;sabado, 03/09/2005;1;caixa;No
+179;segunda-feira, 05/09/2005;9;1;IRATY/PR;NOVO HAMBURGO/RS;2;sabado, 03/09/2005;2;caixa;No
+179;segunda-feira, 05/09/2005;10;1;ITABAIANA/SE;JUAZEIRO/BA;0;sabado, 03/09/2005;1;caixa;No
+179;segunda-feira, 05/09/2005;11;2;RIO BRANCO/SP;UNIAO SAO JOAO/SP;0;sabado, 03/09/2005;1;caixa;No
+179;segunda-feira, 05/09/2005;12;3;PORT.SANTISTA/SP;MADUREIRA/RJ;0;sabado, 03/09/2005;1;caixa;No
+179;segunda-feira, 05/09/2005;13;2;AMERICA/MG;CABOFRIENSE/RJ;2;sabado, 03/09/2005;X;caixa;No
+179;segunda-feira, 05/09/2005;14;5;SERRA/ES;AMERICANO/RJ;0;sabado, 03/09/2005;1;caixa;No
+180;segunda-feira, 12/09/2005;1;0;SANTOS/SP;FLAMENGO/RJ;0;domingo, 11/09/2005;X;caixa;No
+180;segunda-feira, 12/09/2005;2;2;CORINTHIANS/SP;ATHLETICO/PR;0;domingo, 11/09/2005;1;caixa;No
+180;segunda-feira, 12/09/2005;3;1;GOIAS/GO;CRUZEIRO/MG;0;sabado, 10/09/2005;1;caixa;No
+180;segunda-feira, 12/09/2005;4;0;ATLETICO/MG;BOTAFOGO/RJ;2;domingo, 11/09/2005;2;caixa;No
+180;segunda-feira, 12/09/2005;5;1;PARANA/PR;PALMEIRAS/SP;3;domingo, 11/09/2005;2;caixa;No
+180;segunda-feira, 12/09/2005;6;3;FLUMINENSE/RJ;BRASILIENSE/DF;0;sabado, 10/09/2005;1;caixa;No
+180;segunda-feira, 12/09/2005;7;2;PONTE PRETA/SP;FORTALEZA/CE;1;domingo, 11/09/2005;1;caixa;No
+180;segunda-feira, 12/09/2005;8;3;VITORIA/BA;PORTUGUESA/SP;3;sabado, 10/09/2005;X;caixa;No
+180;segunda-feira, 12/09/2005;9;2;GUARANI/SP;AVAI/SC;0;sabado, 10/09/2005;1;caixa;No
+180;segunda-feira, 12/09/2005;10;1;GREMIO/RS;MARILIA/SP;1;sabado, 10/09/2005;X;caixa;No
+180;segunda-feira, 12/09/2005;11;1;SAO  CAETANO/SP;PAYSANDU/PA;2;sabado, 10/09/2005;2;caixa;No
+180;segunda-feira, 12/09/2005;12;3;INTERNACIONAL/RS;FIGUEIRENSE/SC;0;domingo, 11/09/2005;1;caixa;No
+180;segunda-feira, 12/09/2005;13;1;CORITIBA/PR;SAO PAULO/SP;4;domingo, 11/09/2005;2;caixa;No
+180;segunda-feira, 12/09/2005;14;5;VASCO/RJ;JUVENTUDE/RS;2;domingo, 11/09/2005;1;caixa;No
+181;segunda-feira, 19/09/2005;1;4;SAO PAULO/SP;VASCO DA GAMA/RJ;2;domingo, 18/09/2005;1;caixa;No
+181;segunda-feira, 19/09/2005;2;3;ATLETICO/MG;SANTOS/SP;0;domingo, 18/09/2005;1;caixa;No
+181;segunda-feira, 19/09/2005;3;2;PALMEIRAS/SP;CRUZEIRO/MG;1;sabado, 17/09/2005;1;caixa;No
+181;segunda-feira, 19/09/2005;4;3;INTERNACIONAL/RS;ATHLETICO/PR;2;domingo, 18/09/2005;1;caixa;No
+181;segunda-feira, 19/09/2005;5;3;BOTAFOGO/RJ;GOIAS/GO;1;domingo, 18/09/2005;1;caixa;No
+181;segunda-feira, 19/09/2005;6;2;FIGUEIRENSE/SC;CORINTHIANS/SP;3;domingo, 18/09/2005;2;caixa;No
+181;segunda-feira, 19/09/2005;7;0;BRASILIENSE/DF;FORTALEZA/CE;2;domingo, 18/09/2005;2;caixa;No
+181;segunda-feira, 19/09/2005;8;2;IPATINGA/MG;MOGI MIRIM/SP;2;domingo, 18/09/2005;X;caixa;No
+181;segunda-feira, 19/09/2005;9;1;LONDRINA/PR;PARANOA/DF;0;domingo, 18/09/2005;1;caixa;No
+181;segunda-feira, 19/09/2005;10;1;RIO BRANCO/SP;VOLTA REDONDA/RJ;0;sabado, 17/09/2005;1;caixa;No
+181;segunda-feira, 19/09/2005;11;1;PONTE PRETA/SP;PARANA/PR;0;sabado, 17/09/2005;1;caixa;No
+181;segunda-feira, 19/09/2005;12;3;PAYSANDU/PA;JUVENTUDE/RS;0;sabado, 17/09/2005;1;caixa;No
+181;segunda-feira, 19/09/2005;13;0;CORITIBA/PR;FLUMINENSE/RJ;0;domingo, 18/09/2005;X;caixa;No
+181;segunda-feira, 19/09/2005;14;2;FLAMENGO/RJ;SAO CAETANO/SP;0;sabado, 17/09/2005;1;caixa;No
+182;segunda-feira, 26/09/2005;1;1;FLAMENGO/RJ;CORINTHIANS/SP;3;domingo, 25/09/2005;2;caixa;No
+182;segunda-feira, 26/09/2005;2;4;FLUMINENSE/RJ;SANTOS/SP;3;domingo, 25/09/2005;1;caixa;No
+182;segunda-feira, 26/09/2005;3;1;ATLETICO/MG;INTERNACIONAL/RS;1;domingo, 25/09/2005;X;caixa;No
+182;segunda-feira, 26/09/2005;4;3;PALMEIRAS/SP;GOIAS/GO;1;domingo, 25/09/2005;1;caixa;No
+182;segunda-feira, 26/09/2005;5;2;CORITIBA/PR;VASCO DA GAMA/RJ;0;domingo, 25/09/2005;1;caixa;No
+182;segunda-feira, 26/09/2005;6;4;SAO PAULO/SP;PAYSANDU/PA;1;sabado, 24/09/2005;1;caixa;No
+182;segunda-feira, 26/09/2005;7;2;FORTALEZA/CE;PARANA/PR;2;sabado, 24/09/2005;X;caixa;No
+182;segunda-feira, 26/09/2005;8;2;GREMIO/RS;AVAI/SC;0;sabado, 24/09/2005;1;caixa;No
+182;segunda-feira, 26/09/2005;9;3;SANTA CRUZ/PE;SANTO ANDRE/SP;0;sabado, 24/09/2005;1;caixa;No
+182;segunda-feira, 26/09/2005;10;1;BOTAFOGO/SP;RIO CLARO/SP;0;sabado, 24/09/2005;1;caixa;No
+182;segunda-feira, 26/09/2005;11;1;BRASILIENSE/DF;SAO  CAETANO/SP;1;sabado, 24/09/2005;X;caixa;No
+182;segunda-feira, 26/09/2005;12;2;FIGUEIRENSE/SC;ATHLETICO/PR;0;domingo, 25/09/2005;1;caixa;No
+182;segunda-feira, 26/09/2005;13;2;PONTE PRETA/SP;CRUZEIRO/MG;3;domingo, 25/09/2005;2;caixa;No
+182;segunda-feira, 26/09/2005;14;0;JUVENTUDE/RS;BOTAFOGO/RJ;0;domingo, 25/09/2005;X;caixa;No
+183;segunda-feira, 03/10/2005;1;2;INTERNACIONAL/RS;FLUMINENSE/RJ;2;domingo, 02/10/2005;X;caixa;No
+183;segunda-feira, 03/10/2005;2;0;VASCO DA GAMA/RJ;PALMEIRAS/SP;0;domingo, 02/10/2005;X;caixa;No
+183;segunda-feira, 03/10/2005;3;1;BOTAFOGO/RJ;SAO PAULO/SP;1;domingo, 02/10/2005;X;caixa;No
+183;segunda-feira, 03/10/2005;4;3;CORINTHIANS/SP;BRASILIENSE/DF;2;domingo, 02/10/2005;1;caixa;No
+183;segunda-feira, 03/10/2005;5;2;ATHLETICO/PR;FLAMENGO/RJ;0;domingo, 02/10/2005;1;caixa;No
+183;segunda-feira, 03/10/2005;6;2;CRUZEIRO/MG;JUVENTUDE/RS;0;sabado, 01/10/2005;1;caixa;No
+183;segunda-feira, 03/10/2005;7;4;GOIAS/GO;PONTE PRETA/SP;1;sabado, 01/10/2005;1;caixa;No
+183;segunda-feira, 03/10/2005;8;0;AVAI/SC;SANTO ANDRE/SP;1;sabado, 01/10/2005;2;caixa;No
+183;segunda-feira, 03/10/2005;9;2;GREMIO/RS;SANTA CRUZ/PE;0;sabado, 01/10/2005;1;caixa;No
+183;segunda-feira, 03/10/2005;10;0;LONDRINA/PR;CEILANDIA/DF;1;domingo, 02/10/2005;2;caixa;No
+183;segunda-feira, 03/10/2005;11;3;PAYSANDU/PA;FIGUEIRENSE/SC;1;sabado, 01/10/2005;1;caixa;No
+183;segunda-feira, 03/10/2005;12;3;PARANA/PR;CORITIBA/PR;2;sabado, 01/10/2005;1;caixa;No
+183;segunda-feira, 03/10/2005;13;3;SAO CAETANO/SP;ATLETICO/MG;1;sabado, 01/10/2005;1;caixa;No
+183;segunda-feira, 03/10/2005;14;0;SANTOS/SP;FORTALEZA/CE;0;sabado, 01/10/2005;X;caixa;No
+184;segunda-feira, 10/10/2005;1;1;BOTAFOGO/RJ;PALMEIRAS/SP;2;sabado, 08/10/2005;2;caixa;No
+184;segunda-feira, 10/10/2005;2;4;GOIAS/GO;VASCO DA GAMA/RJ;3;sabado, 08/10/2005;1;caixa;No
+184;segunda-feira, 10/10/2005;3;3;JUVENTUDE/RS;SANTOS/SP;1;sabado, 08/10/2005;1;caixa;No
+184;segunda-feira, 10/10/2005;4;3;CORINTHIANS/SP;FORTALEZA/CE;0;sabado, 08/10/2005;1;caixa;No
+184;segunda-feira, 10/10/2005;5;6;PARANA/PR;FLUMINENSE/RJ;1;sabado, 08/10/2005;1;caixa;No
+184;segunda-feira, 10/10/2005;6;0;S. BERNARDO/SP;PENAPOLENSE/SP;0;sabado, 08/10/2005;X;caixa;No
+184;segunda-feira, 10/10/2005;7;1;SANTACRUZENSE/SP;OSVALDO CRUZ/SP;2;domingo, 09/10/2005;2;caixa;No
+184;segunda-feira, 10/10/2005;8;0;RIOGRANDENSE/RS;PELOTAS/RS;0;sabado, 08/10/2005;X;caixa;No
+184;segunda-feira, 10/10/2005;9;2;ARAXA/MG;ITUIUTABA/MG;1;sabado, 08/10/2005;1;caixa;No
+184;segunda-feira, 10/10/2005;10;4;AMADENSE/SE;ESTANCIANO/SE;0;sabado, 08/10/2005;1;caixa;No
+184;segunda-feira, 10/10/2005;11;0;DORENSE/SE;OLIMPICO/SE;1;sabado, 08/10/2005;2;caixa;No
+184;segunda-feira, 10/10/2005;12;2;PORTUGUESA/SP;MARILIA/SP;0;sabado, 08/10/2005;1;caixa;No
+184;segunda-feira, 10/10/2005;13;1;NAUTICO/PE;GUARANI/SP;0;sabado, 08/10/2005;1;caixa;No
+184;segunda-feira, 10/10/2005;14;2;GOIANESIA/GO;AC RIOVERDENSE/GO;1;sabado, 08/10/2005;1;caixa;No
+185;segunda-feira, 17/10/2005;1;1;PALMEIRAS/SP;CORINTHIANS/SP;1;domingo, 16/10/2005;X;caixa;No
+185;segunda-feira, 17/10/2005;2;3;FLUMINENSE/RJ;BOTAFOGO/RJ;2;sabado, 15/10/2005;1;caixa;No
+185;segunda-feira, 17/10/2005;3;0;ATLETICO/MG;CRUZEIRO/MG;1;domingo, 16/10/2005;2;caixa;No
+185;segunda-feira, 17/10/2005;4;3;INTERNACIONAL/RS;VASCO DA GAMA/RJ;1;domingo, 16/10/2005;1;caixa;No
+185;segunda-feira, 17/10/2005;5;1;FLAMENGO/RJ;SAO PAULO/SP;6;domingo, 16/10/2005;2;caixa;No
+185;segunda-feira, 17/10/2005;6;1;BRASILIENSE/DF;JUVENTUDE/RS;0;sabado, 15/10/2005;1;caixa;No
+185;segunda-feira, 17/10/2005;7;2;FIGUEIRENSE/SC;PARANA/PR;0;sabado, 15/10/2005;1;caixa;No
+185;segunda-feira, 17/10/2005;8;1;GUARANI/SP;PORTUGUESA/SP;1;sabado, 15/10/2005;X;caixa;No
+185;segunda-feira, 17/10/2005;9;4;MARILIA/SP;NAUTICO/PE;3;sabado, 15/10/2005;1;caixa;No
+185;segunda-feira, 17/10/2005;10;0;REMO/PA;NACIONAL/AM;1;domingo, 16/10/2005;2;caixa;No
+185;segunda-feira, 17/10/2005;11;1;FORTALEZA/CE;PAYSANDU/PA;2;sabado, 15/10/2005;2;caixa;No
+185;segunda-feira, 17/10/2005;12;1;PONTE PRETA/SP;SAO CAETANO/SP;2;domingo, 16/10/2005;2;caixa;No
+185;segunda-feira, 17/10/2005;13;1;CORITIBA/PR;ATHLETICO/PR;2;sabado, 15/10/2005;2;caixa;No
+185;segunda-feira, 17/10/2005;14;1;SANTOS/SP;GOIAS/GO;1;domingo, 16/10/2005;X;caixa;No
+186;segunda-feira, 24/10/2005;1;2;VASCO DA GAMA/RJ;FLAMENGO/RJ;1;sabado, 22/10/2005;1;caixa;No
+186;segunda-feira, 24/10/2005;2;1;SAO PAULO/SP;SANTOS/SP;2;sabado, 22/10/2005;2;caixa;No
+186;segunda-feira, 24/10/2005;3;2;JUVENTUDE/RS;INTERNACIONAL/RS;1;sabado, 22/10/2005;1;caixa;No
+186;segunda-feira, 24/10/2005;4;2;ATHLETICO/PR;ATLETICO/MG;0;sabado, 22/10/2005;1;caixa;No
+186;segunda-feira, 24/10/2005;5;1;FORTALEZA/CE;PALMEIRAS/SP;1;sabado, 22/10/2005;X;caixa;No
+186;segunda-feira, 24/10/2005;6;4;FIGUEIRENSE/SC;PONTE PRETA/SP;0;sabado, 22/10/2005;1;caixa;No
+186;segunda-feira, 24/10/2005;7;1;JOINVILLE/SC;JUVENTUS/SC;1;sabado, 22/10/2005;X;caixa;No
+186;segunda-feira, 24/10/2005;8;3;SAPIRANGA/RS;PASSO FUNDO/RS;4;sabado, 22/10/2005;2;caixa;No
+186;segunda-feira, 24/10/2005;9;2;ARAXA/MG;UBERLANDIA/MG;2;sabado, 22/10/2005;X;caixa;No
+186;segunda-feira, 24/10/2005;10;1;CALDENSE/MG;JACUTINGA/MG;1;sabado, 22/10/2005;X;caixa;No
+186;segunda-feira, 24/10/2005;11;2;IPORA/GO;AC RIOVERDENSE/GO;1;domingo, 23/10/2005;1;caixa;No
+186;segunda-feira, 24/10/2005;12;2;BOTAFOGO/RJ;CORITIBA/PR;0;sabado, 22/10/2005;1;caixa;No
+186;segunda-feira, 24/10/2005;13;4;CRUZEIRO/MG;PAYSANDU/PA;3;sabado, 22/10/2005;1;caixa;No
+186;segunda-feira, 24/10/2005;14;1;CORINTHIANS/SP;PARANA/PR;0;sabado, 22/10/2005;1;caixa;No
+187;segunda-feira, 31/10/2005;1;1;CORINTHIANS/SP;VASCO DA GAMA/RJ;1;domingo, 30/10/2005;X;caixa;No
+187;segunda-feira, 31/10/2005;2;1;SANTOS/SP;CRUZEIRO/MG;2;domingo, 30/10/2005;2;caixa;No
+187;segunda-feira, 31/10/2005;3;1;ATLETICO/MG;PALMEIRAS/SP;3;domingo, 30/10/2005;2;caixa;No
+187;segunda-feira, 31/10/2005;4;1;FORTALEZA/CE;GOIAS/GO;1;sabado, 29/10/2005;X;caixa;No
+187;segunda-feira, 31/10/2005;5;0;BRASILIENSE/DF;BOTAFOGO/RJ;0;domingo, 30/10/2005;X;caixa;No
+187;segunda-feira, 31/10/2005;6;2;ATHLETICO/PR;PARANA/PR;1;domingo, 30/10/2005;1;caixa;No
+187;segunda-feira, 31/10/2005;7;2;NOVO HAMBURGO/RS;AMERICA/RN;1;domingo, 30/10/2005;1;caixa;No
+187;segunda-feira, 31/10/2005;8;1;SANTA CRUZ/PE;GREMIO/RS;1;sabado, 29/10/2005;X;caixa;No
+187;segunda-feira, 31/10/2005;9;4;NAUTICO/PE;PORTUGUESA/SP;1;sabado, 29/10/2005;1;caixa;No
+187;segunda-feira, 31/10/2005;10;1;IPATINGA/MG;REMO/PA;0;sabado, 29/10/2005;1;caixa;No
+187;segunda-feira, 31/10/2005;11;1;COMERCIAL/SP;NACIONAL/SP;1;sabado, 29/10/2005;X;caixa;No
+187;segunda-feira, 31/10/2005;12;4;FIGUEIRENSE/SC;JUVENTUDE/RS;3;sabado, 29/10/2005;1;caixa;No
+187;segunda-feira, 31/10/2005;13;4;FLUMINENSE/RJ;PONTE PRETA/SP;3;domingo, 30/10/2005;1;caixa;No
+187;segunda-feira, 31/10/2005;14;0;SAO  CAETANO/SP;SAO PAULO/SP;1;domingo, 30/10/2005;2;caixa;No
+188;segunda-feira, 07/11/2005;1;7;CORINTHIANS/SP;SANTOS/SP;1;domingo, 06/11/2005;1;caixa;No
+188;segunda-feira, 07/11/2005;2;3;FLAMENGO/RJ;BOTAFOGO/RJ;1;domingo, 06/11/2005;1;caixa;No
+188;segunda-feira, 07/11/2005;3;2;INTERNACIONAL/RS;PONTE PRETA/SP;1;domingo, 06/11/2005;1;caixa;No
+188;segunda-feira, 07/11/2005;4;4;ATHLETICO/PR;PALMEIRAS/SP;0;domingo, 06/11/2005;1;caixa;No
+188;segunda-feira, 07/11/2005;5;1;SAO CAETANO/SP;VASCO DA GAMA/RJ;2;domingo, 06/11/2005;2;caixa;No
+188;segunda-feira, 07/11/2005;6;1;ATLETICO/MG;GOIAS/GO;2;domingo, 06/11/2005;2;caixa;No
+188;segunda-feira, 07/11/2005;7;2;PARANA/PR;PAYSANDU/PA;0;domingo, 06/11/2005;1;caixa;No
+188;segunda-feira, 07/11/2005;8;0;NAUTICO/PE;SANTA CRUZ/PE;2;sabado, 05/11/2005;2;caixa;No
+188;segunda-feira, 07/11/2005;9;1;PORTUGUESA/SP;GREMIO/RS;1;sabado, 05/11/2005;X;caixa;No
+188;segunda-feira, 07/11/2005;10;2;REMO/PA;AMERICA/RN;0;domingo, 06/11/2005;1;caixa;No
+188;segunda-feira, 07/11/2005;11;1;BRASILIENSE/DF;CORITIBA/PR;1;domingo, 06/11/2005;X;caixa;No
+188;segunda-feira, 07/11/2005;12;2;FLUMINENSE/RJ;FIGUEIRENSE/SC;0;domingo, 06/11/2005;1;caixa;No
+188;segunda-feira, 07/11/2005;13;3;FORTALEZA/CE;CRUZEIRO/MG;1;sabado, 05/11/2005;1;caixa;No
+188;segunda-feira, 07/11/2005;14;3;SAO PAULO/SP;JUVENTUDE/RS;1;sabado, 05/11/2005;1;caixa;No
+189;segunda-feira, 14/11/2005;1;2;VASCO DA GAMA/RJ;FLUMINENSE/RJ;0;domingo, 13/11/2005;1;caixa;No
+189;segunda-feira, 14/11/2005;2;2;PALMEIRAS/SP;SAO PAULO/SP;1;sabado, 12/11/2005;1;caixa;No
+189;segunda-feira, 14/11/2005;3;0;SANTOS/SP;INTERNACIONAL/RS;4;domingo, 13/11/2005;2;caixa;No
+189;segunda-feira, 14/11/2005;4;4;GOIAS/GO;ATHLETICO/PR;2;domingo, 13/11/2005;1;caixa;No
+189;segunda-feira, 14/11/2005;5;0;CORITIBA/PR;CORINTHIANS/SP;1;domingo, 13/11/2005;2;caixa;No
+189;segunda-feira, 14/11/2005;6;0;PAYSANDU/PA;ATLETICO/MG;2;sabado, 12/11/2005;2;caixa;No
+189;segunda-feira, 14/11/2005;7;1;FIGUEIRENSE/SC;FORTALEZA/CE;0;sabado, 12/11/2005;1;caixa;No
+189;segunda-feira, 14/11/2005;8;2;GREMIO/RS;PORTUGUESA/SP;2;sabado, 12/11/2005;X;caixa;No
+189;segunda-feira, 14/11/2005;9;1;SANTA CRUZ/PE;NAUTICO/PE;0;domingo, 13/11/2005;1;caixa;No
+189;segunda-feira, 14/11/2005;10;2;REMO/PA;IPATINGA/MG;2;domingo, 13/11/2005;X;caixa;No
+189;segunda-feira, 14/11/2005;11;3;JUVENTUDE/RS;SAO CAETANO/SP;1;domingo, 13/11/2005;1;caixa;No
+189;segunda-feira, 14/11/2005;12;2;BOTAFOGO/RJ;PARANA/PR;0;sabado, 12/11/2005;1;caixa;No
+189;segunda-feira, 14/11/2005;13;1;CRUZEIRO/MG;BRASILIENSE/DF;0;domingo, 13/11/2005;1;caixa;No
+189;segunda-feira, 14/11/2005;14;2;PONTE PRETA/SP;FLAMENGO/RJ;2;domingo, 13/11/2005;X;caixa;No
+190;segunda-feira, 21/11/2005;1;1;CORINTHIANS/SP;INTERNACIONAL/RS;1;domingo, 20/11/2005;X;caixa;No
+190;segunda-feira, 21/11/2005;2;2;BOTAFOGO/RJ;CRUZEIRO/MG;1;domingo, 20/11/2005;1;caixa;No
+190;segunda-feira, 21/11/2005;3;5;FORTALEZA/CE;FLUMINENSE/RJ;1;domingo, 20/11/2005;1;caixa;No
+190;segunda-feira, 21/11/2005;4;2;PONTE PRETA/SP;PALMEIRAS/SP;6;domingo, 20/11/2005;2;caixa;No
+190;segunda-feira, 21/11/2005;5;0;PARANA/PR;FLAMENGO/RJ;1;domingo, 20/11/2005;2;caixa;No
+190;segunda-feira, 21/11/2005;6;4;SAO PAULO/SP;FIGUEIRENSE/SC;2;sabado, 19/11/2005;1;caixa;No
+190;segunda-feira, 21/11/2005;7;2;ATHLETICO/PR;SAO CAETANO/SP;2;domingo, 20/11/2005;X;caixa;No
+190;segunda-feira, 21/11/2005;8;2;GREMIO/RS;SANTA CRUZ/PE;0;sabado, 19/11/2005;1;caixa;No
+190;segunda-feira, 21/11/2005;9;0;PORTUGUESA/SP;NAUTICO/PE;2;sabado, 19/11/2005;2;caixa;No
+190;segunda-feira, 21/11/2005;10;1;NOVO HAMBURGO/RS;REMO/PA;2;domingo, 20/11/2005;2;caixa;No
+190;segunda-feira, 21/11/2005;11;2;JUVENTUDE/RS;GOIAS/GO;1;sabado, 19/11/2005;1;caixa;No
+190;segunda-feira, 21/11/2005;12;4;VASCO DA GAMA/RJ;PAYSANDU/PA;0;domingo, 20/11/2005;1;caixa;No
+190;segunda-feira, 21/11/2005;13;1;ATLETICO/MG;CORITIBA/PR;0;domingo, 20/11/2005;1;caixa;No
+190;segunda-feira, 21/11/2005;14;1;BRASILIENSE/DF;SANTOS/SP;0;sabado, 19/11/2005;1;caixa;No
+191;segunda-feira, 28/11/2005;1;2;INTERNACIONAL/RS;PALMEIRAS/SP;1;domingo, 27/11/2005;1;caixa;No
+191;segunda-feira, 28/11/2005;2;2;SANTOS/SP;BOTAFOGO/RJ;1;domingo, 27/11/2005;1;caixa;No
+191;segunda-feira, 28/11/2005;3;0;ATLETICO/MG;VASCO DA GAMA/RJ;0;domingo, 27/11/2005;X;caixa;No
+191;segunda-feira, 28/11/2005;4;3;CORINTHIANS/SP;PONTE PRETA/SP;1;domingo, 27/11/2005;1;caixa;No
+191;segunda-feira, 28/11/2005;5;0;FLAMENGO/RJ;GOIAS/GO;0;domingo, 27/11/2005;X;caixa;No
+191;segunda-feira, 28/11/2005;6;1;FORTALEZA/CE;SAO PAULO/SP;0;domingo, 27/11/2005;1;caixa;No
+191;segunda-feira, 28/11/2005;7;3;ATHLETICO/PR;PAYSANDU/PA;2;domingo, 27/11/2005;1;caixa;No
+191;segunda-feira, 28/11/2005;8;0;NAUTICO/PE;GREMIO/RS;1;sabado, 26/11/2005;2;caixa;No
+191;segunda-feira, 28/11/2005;9;2;SANTA CRUZ/PE;PORTUGUESA/SP;1;sabado, 26/11/2005;1;caixa;No
+191;segunda-feira, 28/11/2005;10;3;JOINVILLE/SC;MARCILIO DIAS/SC;1;sabado, 26/11/2005;1;caixa;No
+191;segunda-feira, 28/11/2005;11;0;BRASILIENSE/DF;FIGUEIRENSE/SC;2;domingo, 27/11/2005;2;caixa;No
+191;segunda-feira, 28/11/2005;12;1;SAO  CAETANO/SP;CORITIBA/PR;1;domingo, 27/11/2005;X;caixa;No
+191;segunda-feira, 28/11/2005;13;2;PARANA/PR;CRUZEIRO/MG;0;domingo, 27/11/2005;1;caixa;No
+191;segunda-feira, 28/11/2005;14;1;FLUMINENSE/RJ;JUVENTUDE/RS;2;domingo, 27/11/2005;2;caixa;No
+192;segunda-feira, 05/12/2005;1;3;PALMEIRAS/SP;FLUMINENSE/RJ;2;domingo, 04/12/2005;1;caixa;No
+192;segunda-feira, 05/12/2005;2;3;GOIAS/GO;CORINTHIANS/SP;2;domingo, 04/12/2005;1;caixa;No
+192;segunda-feira, 05/12/2005;3;1;CORITIBA/PR;INTERNACIONAL/RS;0;domingo, 04/12/2005;1;caixa;No
+192;segunda-feira, 05/12/2005;4;1;PAYSANDU/PA;FLAMENGO/RJ;4;domingo, 04/12/2005;2;caixa;No
+192;segunda-feira, 05/12/2005;5;1;JUVENTUDE/RS;ATLETICO/MG;3;domingo, 04/12/2005;2;caixa;No
+192;segunda-feira, 05/12/2005;6;3;FIGUEIRENSE/SC;SANTOS/SP;1;domingo, 04/12/2005;1;caixa;No
+192;segunda-feira, 05/12/2005;7;2;BOTAFOGO/RJ;FORTALEZA/CE;0;domingo, 04/12/2005;1;caixa;No
+192;segunda-feira, 05/12/2005;8;2;PEDREIRA/PA;ANANINDEUA/PA;1;sabado, 03/12/2005;1;caixa;No
+192;segunda-feira, 05/12/2005;9;2;CASTANHAL/PA;IZABELENSE/PA;1;sabado, 03/12/2005;1;caixa;No
+192;segunda-feira, 05/12/2005;10;2;AGUIA/PA;VENUS/PA;1;domingo, 04/12/2005;1;caixa;No
+192;segunda-feira, 05/12/2005;11;3;PONTE PRETA/SP;BRASILIENSE/DF;1;domingo, 04/12/2005;1;caixa;No
+192;segunda-feira, 05/12/2005;12;1;CRUZEIRO/MG;SAO CAETANO/SP;3;domingo, 04/12/2005;2;caixa;No
+192;segunda-feira, 05/12/2005;13;3;VASCO DA GAMA/RJ;PARANA/PR;1;domingo, 04/12/2005;1;caixa;No
+192;segunda-feira, 05/12/2005;14;3;SAO PAULO/SP;ATHLETICO/PR;1;domingo, 04/12/2005;1;caixa;No
+193;segunda-feira, 12/12/2005;1;1;AGUIA/PA;BELEM/PA;0;domingo, 11/12/2005;1;caixa;No
+193;segunda-feira, 12/12/2005;2;0;TIRADENTES/PA;TUNA LUSO/PA;4;domingo, 11/12/2005;2;caixa;No
+193;segunda-feira, 12/12/2005;3;0;PEDREIRA/PA;BRAGANTINO/PA;1;sabado, 10/12/2005;2;caixa;No
+193;segunda-feira, 12/12/2005;4;1;VARGINHA/MG;AMERICA T OTONI/MG;0;domingo, 11/12/2005;1;caixa;No
+193;segunda-feira, 12/12/2005;5;0;EXTREMA/MG;JACUTINGA/MG;0;domingo, 11/12/2005;X;caixa;No
+193;segunda-feira, 12/12/2005;6;1;JUVENTUS/MG;NACIONAL/MG;0;domingo, 11/12/2005;1;caixa;No
+193;segunda-feira, 12/12/2005;7;1;ANANINDEUA/PA;CASTANHAL/PA;3;domingo, 11/12/2005;2;caixa;No
+193;segunda-feira, 12/12/2005;8;4;VENUS/PA;IZABELENSE/PA;2;domingo, 11/12/2005;1;caixa;No
+193;segunda-feira, 12/12/2005;9;1;REAL SOCIEDAD;VILLARREAL;3;sabado, 10/12/2005;2;caixa;No
+193;segunda-feira, 12/12/2005;10;0;MALAGA;REAL MADRID;2;domingo, 11/12/2005;2;caixa;No
+193;segunda-feira, 12/12/2005;11;2;BARCELONA;SEVILLA;1;domingo, 11/12/2005;1;caixa;No
+193;segunda-feira, 12/12/2005;12;1;PARMA;SAMPDORIA;1;domingo, 11/12/2005;X;caixa;No
+193;segunda-feira, 12/12/2005;13;1;ROMA;PALERMO;2;domingo, 11/12/2005;2;caixa;No
+193;segunda-feira, 12/12/2005;14;3;INTERNAZIONALE;MILAN;2;domingo, 11/12/2005;1;caixa;No
+194;segunda-feira, 19/12/2005;1;0;TUNA LUSO/PA;CASTANHAL/PA;2;domingo, 18/12/2005;2;caixa;No
+194;segunda-feira, 19/12/2005;2;2;PEDREIRA/PA;BELEM/PA;1;domingo, 18/12/2005;1;caixa;No
+194;segunda-feira, 19/12/2005;3;0;AGUIA/PA;ANANINDEUA/PA;2;domingo, 18/12/2005;2;caixa;No
+194;segunda-feira, 19/12/2005;4;2;EXTREMA/MG;NACIONAL/MG;3;domingo, 18/12/2005;2;caixa;No
+194;segunda-feira, 19/12/2005;5;0;JUVENTUS/MG;VARGINHA/MG;2;domingo, 18/12/2005;2;caixa;No
+194;segunda-feira, 19/12/2005;6;4;AMERICA T OTONI/MG;JACUTINGA/MG;3;domingo, 18/12/2005;1;caixa;No
+194;segunda-feira, 19/12/2005;7;4;VENUS/PA;TIRADENTES/PA;2;domingo, 18/12/2005;1;caixa;No
+194;segunda-feira, 19/12/2005;8;2;BRAGANTINO/PA;IZABELENSE/PA;1;domingo, 18/12/2005;1;caixa;No
+194;segunda-feira, 19/12/2005;9;1;CADIZ;BARCELONA;3;sabado, 17/12/2005;2;caixa;No
+194;segunda-feira, 19/12/2005;10;1;REAL MADRID;OSASUNA;1;domingo, 18/12/2005;X;caixa;No
+194;segunda-feira, 19/12/2005;11;4;MILAN;MESSINA;0;domingo, 18/12/2005;1;caixa;No
+194;segunda-feira, 19/12/2005;12;0;REGGINA;INTERNAZIONALE;4;domingo, 18/12/2005;2;caixa;No
+194;segunda-feira, 19/12/2005;13;1;SAMPDORIA;ROMA;1;domingo, 18/12/2005;X;caixa;No
+194;segunda-feira, 19/12/2005;14;1;LAZIO;JUVENTUS;1;sabado, 17/12/2005;X;caixa;No
+195;segunda-feira, 09/01/2006;1;3;VILA NOVA/GO;GOIAS/GO;0;domingo, 08/01/2006;1;caixa;No
+195;segunda-feira, 09/01/2006;2;2;ITABUNA/BA;BAHIA/BA;1;domingo, 08/01/2006;1;caixa;No
+195;segunda-feira, 09/01/2006;3;1;FORTALEZA/CE;GUARANY/CE;0;domingo, 08/01/2006;1;caixa;No
+195;segunda-feira, 09/01/2006;4;1;JATAIENSE/GO;MINEIROS/GO;0;domingo, 08/01/2006;1;caixa;No
+195;segunda-feira, 09/01/2006;5;3;IPITANGA/BA;FLUMINENSE/BA;1;domingo, 08/01/2006;1;caixa;No
+195;segunda-feira, 09/01/2006;6;2;CONFIANCA/SE;OLIMPICO/SE;1;domingo, 08/01/2006;1;caixa;No
+195;segunda-feira, 09/01/2006;7;2;NAUTICO/PE;CENTRAL/PE;1;domingo, 08/01/2006;1;caixa;No
+195;segunda-feira, 09/01/2006;8;1;SANTA CRUZ/PE;PORTO/PE;0;domingo, 08/01/2006;1;caixa;No
+195;segunda-feira, 09/01/2006;9;0;JUAZEIRO/BA;CAMACARI/BA;0;domingo, 08/01/2006;X;caixa;No
+195;segunda-feira, 09/01/2006;10;1;VITORIA/BA;COLO COLO/BA;1;domingo, 08/01/2006;X;caixa;No
+195;segunda-feira, 09/01/2006;11;2;AA RIOVERDENSE/GO;ATLETICO/GO;4;domingo, 08/01/2006;2;caixa;No
+195;segunda-feira, 09/01/2006;12;0;CRAC/GO;ANAPOLINA/GO;1;domingo, 08/01/2006;2;caixa;No
+195;segunda-feira, 09/01/2006;13;2;FERROVIARIO/CE;QUIXADA/CE;0;sabado, 07/01/2006;1;caixa;No
+195;segunda-feira, 09/01/2006;14;2;ICASA/CE;CEARA/CE;2;domingo, 08/01/2006;X;caixa;No
+196;segunda-feira, 16/01/2006;1;5;CORINTHIANS/SP;PORT.SANTISTA/SP;1;domingo, 15/01/2006;1;caixa;No
+196;segunda-feira, 16/01/2006;2;2;SANTOS/SP;MOGI MIRIM/SP;0;domingo, 15/01/2006;1;caixa;No
+196;segunda-feira, 16/01/2006;3;1;MARILIA/SP;PALMEIRAS/SP;2;domingo, 15/01/2006;2;caixa;No
+196;segunda-feira, 16/01/2006;4;3;VASCO DA GAMA/RJ;MADUREIRA/RJ;1;domingo, 15/01/2006;1;caixa;No
+196;segunda-feira, 16/01/2006;5;3;BOTAFOGO/RJ;FRIBURGUENSE/RJ;0;domingo, 15/01/2006;1;caixa;No
+196;segunda-feira, 16/01/2006;6;4;VILA NOVA/GO;CRAC/GO;1;domingo, 15/01/2006;1;caixa;No
+196;segunda-feira, 16/01/2006;7;1;AMERICA/RJ;VOLTA REDONDA/RJ;2;sabado, 14/01/2006;2;caixa;No
+196;segunda-feira, 16/01/2006;8;3;CRICIUMA/SC;JOINVILLE/SC;4;domingo, 15/01/2006;2;caixa;No
+196;segunda-feira, 16/01/2006;9;0;CAMACARI/BA;VITORIA/BA;1;domingo, 15/01/2006;2;caixa;No
+196;segunda-feira, 16/01/2006;10;2;QUIXADA/CE;FORTALEZA/CE;1;domingo, 15/01/2006;1;caixa;No
+196;segunda-feira, 16/01/2006;11;1;ITUANO/SP;SAO CAETANO/SP;1;domingo, 15/01/2006;X;caixa;No
+196;segunda-feira, 16/01/2006;12;0;SANTO ANDRE/SP;PONTE PRETA/SP;2;domingo, 15/01/2006;2;caixa;No
+196;segunda-feira, 16/01/2006;13;4;FLUMINENSE/RJ;PORTUGUESA/RJ;0;domingo, 15/01/2006;1;caixa;No
+196;segunda-feira, 16/01/2006;14;0;FLAMENGO/RJ;NOVA IGUACU/RJ;1;sabado, 14/01/2006;2;caixa;No
+197;segunda-feira, 23/01/2006;1;5;BOTAFOGO/RJ;VASCO DA GAMA/RJ;3;domingo, 22/01/2006;1;caixa;No
+197;segunda-feira, 23/01/2006;2;2;SAO PAULO/SP;SAO CAETANO/SP;1;sabado, 21/01/2006;1;caixa;No
+197;segunda-feira, 23/01/2006;3;6;FORTALEZA/CE;FERROVIARIO/CE;2;domingo, 22/01/2006;1;caixa;No
+197;segunda-feira, 23/01/2006;4;4;ATLETICO/GO;VILA NOVA/GO;1;domingo, 22/01/2006;1;caixa;No
+197;segunda-feira, 23/01/2006;5;2;VITORIA/BA;BAHIA/BA;1;domingo, 22/01/2006;1;caixa;No
+197;segunda-feira, 23/01/2006;6;2;AMERICANO/RJ;FLUMINENSE/RJ;2;sabado, 21/01/2006;X;caixa;No
+197;segunda-feira, 23/01/2006;7;2;PORTUGUESA/RJ;FLAMENGO/RJ;2;domingo, 22/01/2006;X;caixa;No
+197;segunda-feira, 23/01/2006;8;1;AVAI/SC;FIGUEIRENSE/SC;2;domingo, 22/01/2006;2;caixa;No
+197;segunda-feira, 23/01/2006;9;0;CFZ-BSB/DF;BRASILIENSE/DF;6;domingo, 22/01/2006;2;caixa;No
+197;segunda-feira, 23/01/2006;10;1;NAUTICO/PE;SPORT RECIFE/PE;1;domingo, 22/01/2006;X;caixa;No
+197;segunda-feira, 23/01/2006;11;2;ATLETICO/MG;CALDENSE/MG;1;domingo, 22/01/2006;1;caixa;No
+197;segunda-feira, 23/01/2006;12;1;MOGI MIRIM/SP;PALMEIRAS/SP;2;domingo, 22/01/2006;2;caixa;No
+197;segunda-feira, 23/01/2006;13;3;SANTOS/SP;MARILIA/SP;2;domingo, 22/01/2006;1;caixa;No
+197;segunda-feira, 23/01/2006;14;2;PORTUGUESA/SP;CORINTHIANS/SP;1;domingo, 22/01/2006;1;caixa;No
+198;segunda-feira, 30/01/2006;1;2;FLUMINENSE/RJ;FLAMENGO/RJ;2;domingo, 29/01/2006;X;caixa;No
+198;segunda-feira, 30/01/2006;2;1;RIO BRANCO/SP;CORINTHIANS/SP;4;domingo, 29/01/2006;2;caixa;No
+198;segunda-feira, 30/01/2006;3;2;GOIAS/GO;VILA NOVA/GO;2;domingo, 29/01/2006;X;caixa;No
+198;segunda-feira, 30/01/2006;4;2;INTERNACIONAL/RS;CAXIAS/RS;0;sabado, 28/01/2006;1;caixa;No
+198;segunda-feira, 30/01/2006;5;3;CEARA/CE;FORTALEZA/CE;6;domingo, 29/01/2006;2;caixa;No
+198;segunda-feira, 30/01/2006;6;2;AMERICA/RJ;VASCO DA GAMA/RJ;1;sabado, 28/01/2006;1;caixa;No
+198;segunda-feira, 30/01/2006;7;4;GAMA/DF;CFZ-BSB/DF;2;domingo, 29/01/2006;1;caixa;No
+198;segunda-feira, 30/01/2006;8;1;POCOES/BA;VITORIA/BA;6;domingo, 29/01/2006;2;caixa;No
+198;segunda-feira, 30/01/2006;9;1;SPORT RECIFE/PE;SANTA CRUZ/PE;1;domingo, 29/01/2006;X;caixa;No
+198;segunda-feira, 30/01/2006;10;0;CRUZEIRO/MG;IPATINGA/MG;0;domingo, 29/01/2006;X;caixa;No
+198;segunda-feira, 30/01/2006;11;3;VOLTA REDONDA/RJ;BOTAFOGO/RJ;2;domingo, 29/01/2006;1;caixa;No
+198;segunda-feira, 30/01/2006;12;2;AMERICA/SP;SANTOS/SP;3;domingo, 29/01/2006;2;caixa;No
+198;segunda-feira, 30/01/2006;13;4;PALMEIRAS/SP;PORT.SANTISTA/SP;0;sabado, 28/01/2006;1;caixa;No
+198;segunda-feira, 30/01/2006;14;3;SAO PAULO/SP;GUARANI/SP;3;domingo, 29/01/2006;X;caixa;No
+199;segunda-feira, 06/02/2006;1;4;SAO PAULO/SP;PALMEIRAS/SP;2;domingo, 05/02/2006;1;caixa;No
+199;segunda-feira, 06/02/2006;2;1;ATLETICO/MG;CRUZEIRO/MG;1;domingo, 05/02/2006;X;caixa;No
+199;segunda-feira, 06/02/2006;3;1;BAHIA/BA;VITORIA/BA;1;domingo, 05/02/2006;X;caixa;No
+199;segunda-feira, 06/02/2006;4;2;SANTA CRUZ/PE;NAUTICO/PE;0;domingo, 05/02/2006;1;caixa;No
+199;segunda-feira, 06/02/2006;5;2;ESPORTIVO/RS;GREMIO/RS;2;domingo, 05/02/2006;X;caixa;No
+199;segunda-feira, 06/02/2006;6;4;INTERNACIONAL/RS;PASSO FUNDO/RS;0;domingo, 05/02/2006;1;caixa;No
+199;segunda-feira, 06/02/2006;7;1;CRAC/GO;VILA NOVA/GO;0;domingo, 05/02/2006;1;caixa;No
+199;segunda-feira, 06/02/2006;8;1;ATHLETICO/PR;MARINGA/PR;0;domingo, 05/02/2006;1;caixa;No
+199;segunda-feira, 06/02/2006;9;2;JOINVILLE/SC;MARCILIO DIAS/SC;0;domingo, 05/02/2006;1;caixa;No
+199;segunda-feira, 06/02/2006;10;0;GUARA/DF;CEILANDIA/DF;6;domingo, 05/02/2006;2;caixa;No
+199;segunda-feira, 06/02/2006;11;4;FERROVIARIO/CE;CEARA/CE;0;domingo, 05/02/2006;1;caixa;No
+199;segunda-feira, 06/02/2006;12;2;PONTE PRETA/SP;GUARANI/SP;2;domingo, 05/02/2006;X;caixa;No
+199;segunda-feira, 06/02/2006;13;2;PORT.SANTISTA/SP;SANTOS/SP;1;domingo, 05/02/2006;1;caixa;No
+199;segunda-feira, 06/02/2006;14;4;CORINTHIANS/SP;BRAGANTINO/SP;1;sabado, 04/02/2006;1;caixa;No
+200;segunda-feira, 13/02/2006;1;0;CORINTHIANS/SP;SANTOS/SP;1;domingo, 12/02/2006;2;caixa;No
+200;segunda-feira, 13/02/2006;2;1;PALMEIRAS/SP;BRAGANTINO/SP;1;sabado, 11/02/2006;X;caixa;No
+200;segunda-feira, 13/02/2006;3;0;AMERICA/MG;ATLETICO/MG;1;domingo, 12/02/2006;2;caixa;No
+200;segunda-feira, 13/02/2006;4;2;GREMIO/RS;SANTA CRUZ/RS;1;domingo, 12/02/2006;1;caixa;No
+200;segunda-feira, 13/02/2006;5;1;MINEIROS/GO;GOIAS/GO;0;domingo, 12/02/2006;1;caixa;No
+200;segunda-feira, 13/02/2006;6;3;BRASILIENSE/DF;CFZ-BSB/DF;0;domingo, 12/02/2006;1;caixa;No
+200;segunda-feira, 13/02/2006;7;2;CORITIBA/PR;PARANAVAI/PR;1;domingo, 12/02/2006;1;caixa;No
+200;segunda-feira, 13/02/2006;8;1;CENTRAL/PE;NAUTICO/PE;1;domingo, 12/02/2006;X;caixa;No
+200;segunda-feira, 13/02/2006;9;1;VILA NOVA/GO;ATLETICO/GO;1;domingo, 12/02/2006;X;caixa;No
+200;segunda-feira, 13/02/2006;10;1;CRICIUMA/SC;MARCILIO DIAS/SC;0;domingo, 12/02/2006;1;caixa;No
+200;segunda-feira, 13/02/2006;11;3;FORTALEZA/CE;QUIXADA/CE;1;domingo, 12/02/2006;1;caixa;No
+200;segunda-feira, 13/02/2006;12;2;AGUIA/PA;REMO/PA;2;domingo, 12/02/2006;X;caixa;No
+200;segunda-feira, 13/02/2006;13;1;GUARANI/SP;ITUANO/SP;2;domingo, 12/02/2006;2;caixa;No
+200;segunda-feira, 13/02/2006;14;0;PORT.SANTISTA/SP;SAO PAULO/SP;5;domingo, 12/02/2006;2;caixa;No
